@@ -1,5 +1,5 @@
-#+TITLE:  Marathon, A Ronnie Camberwell Adventure, Book Three
 #+EMAIL:  rill a*t rillonline.me
+#+TITLE:  Marathon, A Ronnie Camberwell Adventure, Book Three
 #+AUTHOR:  Rill
 
 *  Chapter One: The Message Placed by the Swan
@@ -1264,7 +1264,7 @@ Hollis comes along because his sister thinks he should die because Albert died a
 
 As crazy as it was sounding, I was becoming convinced I needed to get to the Stairway to Heaven Hills.  How I would find The Rebel Horde I did not know.  Perhaps they would find me.  Gwennore's constant talk of dragons made me very uneasy but maybe I just had dragons on the brain.  I gathered everything up and went off to find Hollis or Lord Stern.  I needed to go south and I suspected they could get me there quickly.
 
-*   Chapter Six:  Heading South
+*  Chapter Six:  Heading South
 **  Scene 21:  My Proposal
 I made my proposal to Lord Stern.  He did not like it.
 
@@ -1380,7 +1380,7 @@ What surprised Teddy and me were all the abandoned buildings along the riverbank
 
 It was like the ride I once went on.  We were in a boat that went down a river.  We saw a cabin set ablaze and underwent an attack.  We saw dangerous animals come to drink at the river's edge before we turned back.  That was how Ruby Rock and Roll River was, like an amusement park ride.  There were birds in the air and fish in the river.  That was all the wildlife we saw.  The whole area was an unfinished toy land like the ones at winter festival time back home.
 
-* Chapter Seven:  Aboard the As Yet Unnamed or Looked Up Ride
+*  Chapter Seven:  Aboard the As Yet Unnamed or Looked Up Ride
 ** Section Twenty-two:  Gyllian Thinks About the Mission
 -----
 I've always found it easier to write in the first person.  That has worked well for Captain Star Runner's adventures though I did try another point of view in *Library of the Mind* early on.  I abandoned it quickly.  However, in this novel, something will be lost if the reader does not know what is happening elsewhere.  Everything needs to come together at or near the end.
@@ -1724,11 +1724,233 @@ I shivered involuntarily.
 
 "It's a question in the queue," Christabel said.
 
-Ronnie said, stepping out of the shower cubicles, "I am concerned about Star getting off script."
+Ronnie said, stepping out of the shower cubicle, "I am concerned about Star getting off script."
 
 "I can monitor and prompt," Christabel said.
 
 Christabel is always confident how well she can manage Star.  For the most part, she can, but Star is a ham at heart and might overdue her part.
 
-**  Section Twenty-Eight: Playing the Scene
+**  Section Twenty-Eight: What To Ask
+
+Gyllian poured herself yet another cup of coffee.  One by one, they had allowed the others to take showers and clean up.  Captain Kidd had seen to that.  A bit of a ham himself, he had played the part of a pirate.  Gyllian was not certain Pantherans would have done that, but she hoped the trio in the cargo area had no acquaintance with how Pantherans lived and worked aboard their ships.  She kept going over the questions they wanted to know.
+
+Ronnie came back into the lounge.
+
+"Feeling better?" Gyllian asked.
+
+"Much, thanks," Ronnie said.  "Is that coffee?"
+
+"Help yourself," Gyllian said.
+
+Ronnie did.
+
+Returning to the table Ronnie said, "Christabel tells me all the people in my hose back in Capital City are involved, but no messages have been sent which are on Gwennore's device."
+
+"Does that make any sense to you?" Gyllian asked.  "I can't figure out the end game here."
+
+"Maybe there isn't one," Ronnie said.  "I've been thinking, too.  Whatever it is, they're all involved.  None of them have treated me very well.  Gwennore has been the friendliest though I think her thought processes are quite confused.  Though from time to time she says something I can construe as accurate."
+
+"And how is that?" Gyllian asked.
+
+"Gwennore has some sense that what happens inside the Royal Precincts is not the same as what happens in the rest of Capital City.  She's right about that.  She talks a lot about dragons and we're drawing the conclusion she means Pantherans though I can't make the connection myself.  Maybe a Pantheran told her they were dragons and maybe they met her in this part of the continent.  Maybe her screwy thinking is a result of such a meeting."
+
+"Whatever we think," Gyllian said, "it's time for Star to interview them.  Christabel and I have impressed on him the necessity to keep to the script.  We're watching from here.  You probably need to go and join the others."
+
+Ronnie made a face.
+
+"They smell better."
+
+"I'll do it for Hollis," she said.  "I can't figure out how he fits into any of this."
+
+And she left and went into the cargo bay.
+
+**  Section Twenty-Nine: Playing the Scene
+
+Captain Star Runner was magnificent.  The Czarina declared this at dinner that evening and the others wholeheartedly agreed.
+
+The most surprising piece of information to come out of the interrogation was how frightening Star could be when Star growled.  Ungendered Pantherans, to their chagrin, do not roar.  However, their growl is very fierce.  Star's old friends had heard Star growl, but they did not understand hat Star was holding back.  Star chose to give a full-throated growl while interviewing the people in the cargo bay.
+
+It went something like this when Star entered an area of the cargo bay set up with a table and chairs::
+
+Hollis:  Who are you?
+
+Star:  I am the captain of this ride.  
+
+Gyllian had wanted Star to say ship but Star insisted a Pantheran would say ride so ride it was.
+
+"I am Prince Hollis, and I demand--
+
+Star growled, twitching its tails menacingly.
+
+Hollis:  I am Prince Hollis.  Do you know what that means?
+
+Star:  That you are a spoiled brat who your sister wants to get rid of.
+
+Hollis bit his lip.  His one attempt at vibrato failed immediately.
+
+Teddy:  When can we get off of this dump.
+
+Another growl.
+
+Teddy: You don't scare me.  You're all growl and no muscle.  I bet I could take you on.
+
+He got up from his chair and rushed Star.  Star swatted him with its paw, knocking Teddy down.  Then Star planted that paw on Teddy's back.  Teddy could not move.Christabel summoned the restraints and they quickly immobilized Teddy which was good.  Star's strength would not have lasted very much longer.
+
+Gwennore: Are you really a dragon?
+
+She was, as Ronnie had predicted, quite beautiful.
+
+Star:  Yes,You have one of my devices.
+
+Gwennore:  Taken. Not transmit.
+
+Star:  I have read your messages.
+
+Everyone hoped Gwennore would explain them.  Except for the names, the messages appeared to be garbled and not of any usefulness.
+
+Gwennore, indicating Ronnie: I watch her.  She is a dragon hunter.  You need to be wise about her.
+
+Star looked Ronnie over critically.
+
+Star to Gwennore: What is so special about this one?
+
+Gwennore: She is a foreigner? 
+
+Gwennore said this as if that explained everything.
+
+Star: What difference does that make?  You are all Terrans.
+
+Gwennore did not know that word.
+
+Star: You are all humans. 
+
+Star said this as if the word left a nasty taste in its mouth.  
+
+Star: None of you are Members of the Race.
+
+Ronnie, Gyllian, The Czarina and Captain Kidd were certain this was Star's own adlib, but it was in perfect character for a Pantheran.
+
+Gwennore: She is a different color
+
+Star gave one of its elaborate shrugs of shoulders and hind quarters.  "Members of the Race are different colors."
+
+Gwennore: But she is dark ,Dark hair, dark eyes, brown skinned.  She is foreign.
+
+Star: So you and Daniels and Poppy all thought she was special for that reason? 
+
+Star's tone suggested it thought this statement preposterous.
+
+Gwennore: She is not from Capital City.  She is foreign.  Dragons ask us to note strange things
+Star:  Agreed.
+
+Star dismissed her.
+
+Hollis:  What will happen to us?
+
+Star:  I haven't decided yet.  You will stay on my ride until I decide.
+
+Hollis:  Lord Stern will look for me.
+
+Star:  Who is Lord Stern.
+
+Hollis:  The Royal Protector of the Royal Province of Debussy on La Mer.
+
+Star shrugged.
+
+Star:  Just another Terran.
+
+Hollis jumped from his chair.
+
+Hollis:  You don't even look like a dragon.  You look like a big fluffy cat.
+
+That was a very bad thing to say to Captain Star Runner.  Star walked up to Hollis who was much taller than Star and pushed the boy over with a paw.  Star stood over him.
+
+Star:  Never call me that again.
+
+The growl was terrifying and right in Hollis's face.
+
+Hollis:  I'm sorry.  I didn't mean it.  Of course you are a dragon.  I just never met a dragon before and I did not know what expect.
+
+Star batted him with his paw.
+
+Star: Silence.
+
+And then Star walked out of the room, tail high.
+
+Hollis lay on the floor snuffling.
+
+Ronnie sat motionless.  How could she ever have thought these people were normal human beings.  Teddy's actions had been folly, but at least his reactions were fairly normal.
+
+**  Section Thirty:  Later
+
+We had agreed that I would take my meals with my river companions to see if they said anything to me.  Of course all their communications were monitored.  We had further agreed that I would go up onto the upper level of the ride whenever possible.
+
+When we were eating, Hollis said to no one in particular, "None of you came to my aid when that dragon attacked me."
+
+"I was a bit out of commission," Teddy said.  "You acted like a baby.  No wonder that dragon swatted you like a kitten."
+
+That was exactly what Star had done.  Star's claws were not extended They were when Star had struck Teddy.
+
+"The dragon was very angry .
     
+with both of you," Gwennore said very clearly and coherently.  "they are very powerful.  They will rule the world soon."
+
+"A silly-looking creature like that," Teddy scoffed.  "Not likely.  They'll have to deal with us."
+
+"Us?" I asked.  Did he mean the government of The Royal Province of Debussy on La Mer."
+
+"No, you stupid cow," Teddy said.  "Us, the so-called Rebel Horde.  We'll take over all the self-indulgent monarchies run by sessies like this one and they'll have somebody to reckon with."
+
+"You are part of The Rebel Horde?" I asked.
+
+"What do you think, brown cow?"
+
+"But what about all the reports, the Democracy of Rock and Roll, your father's friend?"
+
+"I made all of that up."  Teddy sneered.  "And you fell for it.  Gwennore over here helped, didn't you?  She told how her landlady thought you were from there so I just gilded the lily."
+
+"And what purpose was there for leading me here?" I asked.  "Were you supposed to rendezvous with the dragons?"
+
+"No way," Teddy said.  "We were going to let you go on a little farther and then hold you for ransom.  We figured Stern and his cronies wanted you back.  The  pot got very sweet when Hollis came along.  That was what was taking so long.  We needed extra people and supplies because there were more of you."
+
+"And now we are all kid napped by the dragons and maybe they don't know how to return us." Hollis wailed.  "I hate all of you.  I hate the dragons.  I hate Hollin and all her silly ideas."  With this he jumped up from the table and ran to his sleeping chamber, slamming the door.
+
+"Stupid kid," Teddy said.  "I hope I get a chance to lop off his head."
+
+I put down my fork.
+
+"Hollis isn't a bad kid," I said.  "He's just scared."
+
+With that I got up from my chair and walked to my sleeping chamber, letting the door close behind me.  Mine had a back door and I was soon upstairs with the other.
+
+
+**  Section Thirty-One:  What Next?
+
+When Ronnie joined the others upstairs, The Czarina was saying to Star, "You magnificent animal.  I thought that boy would pee in his pants when you swatted at him."
+
+"He did pee in his pants," Ronnie said, sitting down at the table and helping herself to the dessert.  Captain Kidd gallantly poured her a fresh cup of coffee.
+
+"What's up with him anyway?" Gyllian asked.
+
+"Teddy, for all his crassness, is right," Ronnie said.  "Hollis is a spoiled brat, a boy playing at being a man.  he is totally unprepared to act responsibly."  Ronnie looked around the table.  "Does anyone care that he called me a cow and a brown cow at that."
+
+"It is quite shameful," The Czarina announced.  "I am writing it up as an example of poor training by the upper classes of the lower classes.  Now I don't believe in a stratified society, but in societies of this nature, everyone should respect everyone else."
+
+"But they don't, dear" Captain Kidd said.  "Teddy is trying to be better than he is and failing miserably.  What he needs is to work on a pirate ship and truly earn his keep.  The boy could benefit by that, too.  I suspect our Teddy would break before the boy."
+
+Ronnie privately agreed with Captain Kidd's observations.
+
+Star said, "I do not want you returning to the cargo area, Private Investigator Ronnie Camberwell.  I do not like you being near those people."
+
+"What reason can you give for her removal?" Gyllian asked.
+
+"I need to give none at all.  I am the captain," Captain Star Runner said.
+
+"They are already suspicious of her," Gyllian said.  "Won't this increase that suspicion."
+
+"Yes, it would," Ronnie said.  "And I think that is good.  They won't know if I have a special relationship with the captain, which I do, or if I have been singled out for special interrogation or even a special mission which is also true.  I don't know if you noticed, Star didn't ask me any questions.  Private interrogation can be the explanation, especially if there is noise to that affect during the night."
+
+Grudgingly, Gyllian said, "that's not a bad idea.  We also need to figure out what's next."
+
+Ronnie yawned.  "You can start on that.  I need some sleep."
+
