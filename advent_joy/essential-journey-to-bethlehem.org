@@ -1,6 +1,7 @@
 #+Title  The Essential Journey to Bethlehem
 #+AUTHOR  Rill
 #+EMAIL  rill*at*rillonline.me
+#+OPTIONS: num:nil
 * About This Page
 November 30 begins Advent in the Christian church.  Some churches focus on Advent while others may only give it passing notice.  I have decided to focus on Advent this year for three reasons:
 1.  I am editing an Advent devotional I wrote in 2006.  I hope to post one devotional per day.  You can read it on this blog as well as what I write here.
@@ -11,7 +12,9 @@ I went in search of a list of daily readings.  The [[http://scriptureunion.org/]
 **  Pray
 God, you have promised a *paraclete*, one who walks beside, to journey with me wherever I go.  May your Holy Spirit journey with me as I set out on my journey to Bethlehem this Advent.  Amen.
 **  Read
+    #+BEGIN_QUOTE
 Isaiah 9:1-7
+    #+END_QUOTE
 **  Reflect
 #+BEGIN_QUOTE
 What are the special names given to the child who is to be born?
@@ -39,7 +42,7 @@ Isaiah 11:1-10
 #+BEGIN_QUOTE
 What will empower this ‚Äúroot of Jesse‚Äù to bring such peace and justice to the world? 
 #+END_QUOTE
-For the purposes of this guide that I am following, passages from Isaiah are references to the Messiah who is to come.  Reading Jesus back into these texts can be problematic.  Christians have done this for a very long time and continue to do so.  I prefer to take a more Hebrew Scripture centric view so I am a bit in conflict with this guide.  Nevertheless, being present to God's Word and desiring the righteous judgments of this leader, I will agree that Jesus is the one who will bring peace and justice. I can only hope for an earthly leader with such knowledge and wisdom.
+Fossr the purposes of this guide that I am following, passages from Isaiah are references to the Messiah who is to come.  Reading Jesus back into these texts can be problematic.  Christians have done this for a very long time and continue to do so.  I prefer to take a more Hebrew Scripture centric view so I am a bit in conflict with this guide.  Nevertheless, being present to God's Word and desiring the righteous judgments of this leader, I will agree that Jesus is the one who will bring peace and justice. I can only hope for an earthly leader with such knowledge and wisdom.
 
 To answer the question, the fear of the Lord gives the ruler such wisdom.
 
@@ -51,3 +54,58 @@ What can you do on behalf of peace and justice in your world? Make a plan to sta
 I spend time every weekday at my local senior center.  I come in contact with a lot of people.  I try to be kind to everyone I meet, to see the good in them and to give them the benefit of the doubt when I can.  World peace and justice is beyond my individual power to influence.
 ** Pray
 Prince of Peace, May my puny efforts at peace and justice be acceptable in your sight.  Show me how I may expand my horizons to live my life more in keeping with your rule.  Amen.
+* Day 3 (December 2, 2013)
+** Pray
+Gracious One, how majestic is your name.  Through your Word, may I come to know your majesty.  Amen.
+** Read
+#+BEGIN_QUOTE
+Isaiah 53:1-6
+#+END_QUOTE
+** Reflect
+#+BEGIN_QUOTE
+What was the reason for this  one'sÄôs sorrow and suffering? 
+#+END_QUOTE
+We despised and rejected him.  We did not find him agreeable because he was not desirable.
+
+Scholars have argued for a long time who this one is and whether this one is Jesus.  The early church saw Jesus in this passage.  Philip and the Ethiopian eunuch discuss this chapter in Acts 8.
+
+Reading it today, I was struck by the fact the "we" were united in despising the one while the "we" went off, each going about his or her own business and leaving the one to sustain the punishment for all.
+
+If our sense of biblical thinking is correct, thinking about individual responsibility begins with the exile to Babylon.  It is likely these words were written during this time frame.  The "we" comes to acknowledge their indebtedness to the one and there is a sense of guilt and horror at what has happened to the one.
+
+The one was so vulnerable.  The one is describe as a tender young shoot.
+
+How often the most vulnerable and least impressive of us suffers and, for the most part, the "we" always ignore them.
+
+** Apply
+#+BEGIN_QUOTE
+Have you trusted Jesus to take away your "iniquities" ?  Confess any known sin now.
+#+END_QUOTE
+The sin of ignoring and openly withdrawing from the vulnerable is the sin I will confess today.  Forgive me.
+** Pray
+Today I pray for all the vulnerable.  Protect them, Lord.  Amen.
+
+* Day 4 (December 3, 2013)
+** Pray
+All-knowing God, enliven my reflection today with your spirit.
+** Read
+#+BEGIN_QUOTE
+Micah 5:2-5
+#+END_QUOTE
+** Reflect
+#+BEGIN_QUOTE
+Where does the prophet say the "promised ruler" will be born?
+#+END_QUOTE
+The answer, not surprisingly, is Bethlehem.  This is the town where David came from.  This is the place the wise men are told about in Matthew 2.  Neither the Gospel of Mark nor the Gospel of John mention Bethlehem as Jesus' birth place.  In fact, the Gospel of John comments that Jesus was not born in Bethlehem in chapter 6.
+
+What is more interesting to me than the physical birth place is what this "promised ruler" will do.  The ruler receives his strength from God.  He protects the people and welcomes home the faithful remnant.  He provides for the people a safe place in which to live.
+
+When I read a passage like this, I sigh with contentment.  At last!  There will be enough food and security. 
+
+** APPLY
+#+BEGIN_QUOTE
+What does it mean to you to know Jesus ' birth was planned and foretold by God long in advance?  How might it affect your life today?
+#+END_QUOTE
+As you may have noticed, I'm squimish about all this emphasis of what has been foretold.  What interests me is God's continuous use of promise.  The prophet spoke of God's desire for them to have strong and effective leadership.  In Jesus, I find this promise fulfilled.
+** PRAY
+God, I depend on you keeping your promises.  It may take a long time, but you fulfill them.  Amen. 
