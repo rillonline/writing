@@ -15,7 +15,7 @@ tries at an opening. i can also hear a scream which is followed by an
 unexplained death. 
 
 Ronnie has been sent to guard the dead person and another student
-named heracles Frome. Because she was not able to save  Suri Iglesia,
+named heracles Beja. Because she was not able to save  Suri Iglesia,
 she sets about to solve the murder while protecting heracles. Ronnie
 is unsuccessful in solving the murder. She believes powerful forces
 are blocking her investigation. 
@@ -54,7 +54,7 @@ yet but I've started a number of times.) Star took her there, expecting
 this to be a holiday of sorts. It didn't work out that way.
 
 Star, always wanting to make a profit, agreed to transport Heracles
-Frome, one of the archaeology students from Planet X, to Space
+Beja, one of the archaeology students from Planet X, to Space
 Transfer 724  in the Lystra Empire. Space Transfer 724 is in a war
 zone.
 
@@ -77,15 +77,15 @@ and Star fretted about its profits.
 
  
 She became more afraid when the authorities came calling, asking her to
-solve a mystery.Heracles Frome had recommended Ronnie. He is from an
+solve a mystery.Heracles Beja had recommended Ronnie. He is from an
 old family and his recommendation carried weight.
 
-Ronnie thinks the Frome boy is misguided and as the novel progresses,
+Ronnie thinks the Beja boy is misguided and as the novel progresses,
 she wonders if he can be trusted.
 
 .. admonition:: Twist
 
-          Write more about why. What is Frome's motivation? What is
+          Write more about why. What is Beja's motivation? What is
 	  his assessment of Ronnie's ability to solve the mystery? Or
 	  is he willing to sacrifice Ronnie 's inability to solve the
 	  mystery quickly to divert attention elsewhere? 
@@ -150,7 +150,7 @@ Conflicts
 1. Ronnie and Star: Going into a war zone.
 2. Ronnie and Star: Entering Lystran space.
 3. The war itself.
-4. Heracles Frome's breezy manner towards Ronnie's growing fear for
+4. Heracles Beja's breezy manner towards Ronnie's growing fear for
    her safety from the perpetrators of the mystery.
 
 
