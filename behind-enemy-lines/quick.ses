@@ -1,0 +1,27 @@
+           Goal         Written            Left
+           1820              81            1739
+  Goal
+
+
+(ses-cell A1 "Goal" "Goal" nil nil)
+(ses-cell B1 "Written" "Written" nil nil)
+(ses-cell C1 "Left" "Left" nil nil)
+
+(ses-cell A2 1820 1820 nil (C2))
+(ses-cell B2 81 81 nil (C2))
+(ses-cell C2 1739 (- A2 B2) nil nil)
+
+(ses-column-widths [15 15 15])
+(ses-column-printers [nil nil nil])
+(ses-default-printer "%.7g")
+(ses-header-row 0)
+
+( ;Global parameters (these are read first)
+ 2 ;SES file-format
+ 2 ;numrows
+ 3 ;numcols
+)
+
+;; Local Variables:
+;; mode: ses
+;; End:
