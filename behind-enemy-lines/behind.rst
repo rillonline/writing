@@ -1,3 +1,6 @@
+
+
+
 Behind Enemy Lines
 
 A Ronnie Camberwell Adventure Book 4
@@ -7,6 +10,7 @@ The Adventures of Star Runner, the Pantheran Book Unknown
 by Rill
 
 .. CONTENTS:: Table of Contents
+   :depth: 1
 
 Prologue
 --------
@@ -65,7 +69,10 @@ I tell you all this to get you ready for this current adventure.
 Chapter One (Ronnie)
 --------------------
 
-Author: I would write the account of this adventure with lovely
+Some Notes From the Author
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+I would write the account of this adventure with lovely
 markers as to place, time and day but I have no idea what that would
 look like. I can probably get the place right. Let's try that. This
 is, after all, a first draft.
@@ -595,7 +602,7 @@ That was quite a good adjective to describe the feeling. I promptly
 curled up on the floor and went to sleep.
 
 Hotel Vista Incredible: Evening Local Time: Ronnie Narrates
------------------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. ANN"OTATION:: Note to Self
           The headings in this novel are all screwed up. I won't take
@@ -1222,8 +1229,8 @@ The question for me in this matter was, Who maintained this planet?
 That might go along way to answering all the questions about who
 really built this place and why there was a cover up.
 			     
-Chapter 7: Figures on the Wall
-------------------------------
+Chapter Seven: Figures on the Wall
+----------------------------------
 
 
 
@@ -1470,7 +1477,7 @@ Chapter 8: Explorations
 -----------------------
 
 Captain Star Runner Narrates
-~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. ADMONITION:: NOTE TO SELF
 
@@ -1754,8 +1761,8 @@ Detective Ronnie Camberwell was awake, she did not say anything.
 
 
 
-Chapter 8: Some Notes From the Author
--------------------------------------
+Some Notes From the Author
+--------------------------
 
 
 .. ADMONITION:: NOTE TO SELF
@@ -1807,8 +1814,8 @@ Chapter 8: Some Notes From the Author
                  been groping for several years now. Now I get it.
 
 
-Chapter 9: Captain Star Runner Confers with Christabel
-------------------------------------------------------
+Chapter Nine: Captain Star Runner Confers with Christabel
+---------------------------------------------------------
 
 Captain Star Runner Narrates
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -2081,3 +2088,1916 @@ infatuation would pass, but I was not. We seemed to be drifting apart
 even before we came to Tigerfu Land. I remembered to tell Christabel
 to block the Tigerfu from my conversations with Detective Ronnie
 Camberwell. I did not want Suri Iglesia to know.
+
+Chapter Ten: Conversations and Other Things At Hotel Vista Incredible
+---------------------------------------------------------------------
+
+Totally refreshed, I ascended the mountainside on the funicular. This
+time I looked about me. The terrain was bleak. Despite the centuries
+that had passed since the Followers of the Stars frequented Tigerfu
+Land, plant life was still quite un-evolved. I wondered if the
+destruction of the Tigerfu stripped these mountains of forests and the
+animals they supported. The views were astonishing but the lushness of
+growth or the occasional large wild animal was totally absent. It gave
+Planet X a sense of unreality as if it was a poorly executed stage
+set.
+
+A stage set? Was that what Planet X had become? Christabel and I
+considered this for a time. If the only two habitable sites left on
+the planet were the Hotel Vista Incredible and the valley below it,
+then it was a kind of video set. The funicular played right into that
+sensibility. Other visitors to the planet would have experienced it
+just as Detective Ronnie Camberwell and I had. It was part amusement
+park ride, part grand hotel, part riverside holiday. I must take the
+time to tour the Hotel Vista Incredible facility. Had any other
+Members of the Race visited here?
+
+Although the robot concierge had given Christabel a lot of
+information, the more questions I asked, the more apparent it became
+that the robot concierge had kept back a great deal of data. We began
+developing a list of questions for me to ask as the funicular climbed
+up the mountain. The more we studied the mountain, the more artificial
+it looked. The growth was far too regular to be natural. I wondered at
+the scale of the destruction and the subsequent construction. What
+were the Followers of the Stars up to here?
+
+EXCURSUS
+~~~~~~~~
+
+I have only met one member of the race calling itself Followers of the
+Stars. I call him Prince Hat. To oversimplify, Prince Hat looks like a
+brown bear. I do not know if the right size is large, average or
+small. Prince Hat is larger than a Terry.
+
+Prince Hat told us a tale of the western spiral arm tens of thousands
+of years ago. One of the points Prince Hat made was that the Followers
+of the Stars had committed genocide against the Trollolu because the
+Trollolu had sought to question the the right of the Followers of the
+Stars to rule the western spiral arm. Prince Hat spoke of this
+incident with great sorrow and remorse.
+
+Now Christabel and I had learned that the Followers of the Stars had
+also committed genocide against the Tigerfu for the same sort of
+offense. I have been to the Landscape of Thorns. I know about the the
+toxic chemical wasteland there. Was there a similar wasteland here on
+Planet X? Is that why there were rumors of ghosts or strange
+happenings here? Nothing strange had happened here unless you wanted
+to count Heracles Beja's death. I thought Heracles Beja's death was
+fairly straight forward. Suri Iglesia killed him for her own reasons.
+
+End of Excursus
+~~~~~~~~~~~~~~~
+
+I went to the desk in the lobby of the Hotel Vista Incredible and rang
+the bell with the printed sign: PLEASE RING FOR SERVICE. The robot
+concierge appeared.
+
+"How may I help you, Captain Star Runner?"
+
+"I have some questions about the Followers of the Star,," I said.
+
+"Very well," the robot concierge said.
+
+"Did the Followers of the Stars commit genocide against the Tigerfu
+before or after they committed genocide against the Trollolu?"
+
+"An interesting question," the robot concierge said. "I like
+interesting questions. It has been a long time since someone asked me
+an interesting question."
+
+I waited for an answer. None came.
+
+"You are not answering my question," I said.
+
+"I cannot answer your question," the robot concierge said. "It is not
+a rightly formed question."
+
+I thought about it. The artificial intelligences I have dealt with
+have reframed my questions in order to supply me with an answer.
+Apparently the robot concierge could not or would not do the same.
+
+"What is wrong with my question?" I asked.
+
+"Its parts do not add up to a whole," the robot concierge said. "One
+of the failsafes in my programming is to not suggest an answer to a
+poorly formed question. This avoids confusion."
+
+"Let me try this series of questions then," I said.
+
+"Did the Followers of the Stars commit genocide against the Trollolu?"
+
+"Yes," the robot concierge said. "This has caused great sadness and
+remorse."
+
+This was consistent with what Prince Hat had already told me.
+
+"Did the Followers of the Stars commit genocide against the Tigerfu??"
+
+"No," the robot concierge said.
+
+"You gave my artificial intelligence, Christabel, data which said that
+genocide against the Tigerfu was committed," I said.
+
+"No, I did not. Your artificial intelligence, Christabel, inferred
+that meaning. The data I gave your artificial intelligence,
+Christabel, stated that all the Tigerfu on this planet were
+destroyed."
+
+"What happened to the rest of the Tigerfu that were not on the
+planet?" I asked.
+
+"They were removed to a far distant area of the Primary Arm," the
+robot concierge said.
+
+"Did this removal happen before or after the Trollolu genocide?" I
+asked.
+
+"After," the robot concierge said. "The Followers of the Stars did not
+want to commit genocide against."
+
+"And was there sufficient numbers of the Tigerfu for them to rebuild
+their race?" I asked.
+
+"The Followers of the Stars believed there was," the robot concierge
+said.
+
+So the Tigerfu were still out there. I was fairly confident of that.
+
+"And is there a toxic chemical wasteland here on Planet X from that
+conflict?" I asked.
+
+"Yes, there is," the robot concierge said. "It is located on the other
+side of the planet, far from this place."
+
+"And what is the purpose of the Hotel Vista Incredible, the valley
+structures and this whole place?" I asked.
+
+"It serves two purposes," the robot concierge said. "First, it
+provides, or provided, educational displays for the young people. They
+were entertained when they came here, but they also learned the
+history of interacting with other races.
+
+"Second, the area acts as a cover story for Planet X. The ghost
+stories and strangeness of the place and its fake history of an
+ancient (although it is not really ancient) civilization hides the
+toxic chemical bunkers and the history of the Tigerfu who have been
+forgotten."
+
+I doubted the Tigerfu were completely forgotten. The People of the
+Rainbow Sky would certainly know about them. I wondered if I could ask
+Sam Lam Seah about it. I would have to think about that.
+
+"Do you send regular reports to the Followers of the Stars concerning
+visitors to Planet X?" I asked.
+
+"I do."
+
+"Have you sent a report about the death of Heracles Beja?" I asked.
+
+"I have."
+
+"And on the dating of the Trollolu mural down in the valley?" I asked.
+
+"Yes, I have."
+
+"Have you received any responses to your reports?" I asked.
+
+"No," the robot concierge said.
+
+"When was the last response you received from any report you sent?" I
+asked. I hoped this was a telling question. I hoped it would tell me
+something about the activity of the Followers of the Stars.
+
+"I received a report seven thousand, six hundred and fifty-two days
+ago, presented in local time," the robot concierge said.
+
+The answer surprised me.
+
+"And you have been working here all that time alone?" I asked.
+
+"I am not alone here," the robot concierge said.
+
+"Who is with you?" I asked.
+
+"There is a whole contingent of maintenance robots," the robot
+concierge said, "hotel staff including pleasure robots. Would you like
+to engage a pleasure robot, Captain Star Runner? Use of a pleasure
+robot is included in the charge for your suite."
+
+I knew both that the robot concierge was diverting my rather pointed
+questions, but I also knew that a pleasure robot would answer many of
+my questions.
+
+"Yes," I said. "Please have the pleasure robot meet me in my suite."
+
+"Specify model," the robot concierge said.
+
+"What are my choices?" I asked.
+
+"Followers of the Stars, Trollolu, Featherote, humanoid, Pantheran or Tigerfu."
+
+I was stunned. There was a pleasure robot designed to be a Member of
+the Race? Christabel and I had a private chuckle that the Fungusian
+network was not represented.
+
+Later I learned several other races were available, but as neither
+Christabel nor I knew of their existence, they were not included in
+the list.
+
+I will  not detail my experiences with the pleasure robot. They are
+recorded in my pornographic database and can be purchased by any
+reader who wants to recreate my exploits. However, what I will say in
+the context of this adventure is this: I chose a Tigerfu pleasure
+robot instead of a Followers of the Stars model. I am curious, but I
+was not sure I would enjoy a bear-like creature. If I am honest, and
+you, dear reader know I endeavor to be honest in recounting my
+adventures, I am still in awe of the Followers of the Stars because of
+our ancient history with them. the Tigerfu tail is covered
+with feathers. This quite surprised and delighted me. I find the
+texture and touch of feathers very pleasant.
+
+It was too late in the day to travel to the valley. Christabel said
+everything was normal there. I would travel back to the valley in the
+morning. For now, I had some serious thinking to do which would be
+hard work as Christabel and I needed to work through the mini AI. This
+meant my thinking band width was quite limited. It sometimes made me
+feel stupid. Thankfully, Christabel did many things to encourage me
+and to keep me processing all the information I received today.
+
+Based on what I learned from Sam Lam Seah of the People of the Rainbow
+Sky in *Sanctuary, Nanowrimo 2011*, I did not believe the Followers of
+the Stars had any outposts in the Primary Arm. Now I had learned they
+controlled Planet X, if only in absentia, and that they had played a
+major role in this part of the galaxy. My encounter with the People of
+the Golden sun made me very aware that that the primary arm was not a
+peaceful place. Skirmishes continued to occur in different sectors.
+Near here a war was building. Perhaps it had already broken out. 
+
+* Could he Tigerfu be behind the renegade People of the Golden Sun?
+* Were the Followers of the Stars capable of responding?
+* Where did the Lystrans fit in?
+* Would the People of the Rainbow Sky continue to be able to resist
+  the People of the Golden Sun?
+
+"You know," Christabel said, "The name People of the Golden Sun is
+interesting."
+
+"Why is that?" I asked.
+
+"We thought it was a play on the People of the Rainbow Sky."
+
+"That is true," I said. "That is what the People of the Rainbow Sky
+told us."
+
+"They may believe it,," Christabel said. "But here is the thing: The
+Golden Sun is the opposite of the stars. The sun shines during the
+day. The stars come out at night as people on a planet experience it.
+
+"The People of the Rainbow Sky and the Followers of the Stars were
+great allies once. We know this. The People of the Rainbow Sky were
+able to modify your genetic engineering and upgrade both you and me."
+
+"This is getting very complicated," I said. "Something tells me the
+Followers of the Stars have read all the logs the robot concierge has
+sent. There has been no need to respond up until this point. But with
+Suri Iglesia's discovery--even if Suri Iglesia herself does not fully
+grasp its meaning--much will be revealed that the old races would
+rather not be known."
+
+"And if the Tigerfu are really behind the People of the Golden Sun,
+they have waited a very long time for their revenge."
+
+"Yes," I said, "they have waited a very long time. What is that Terry
+saying about revenge?"
+
+"Revenge is a dish best served cold," Christabel said.
+
+"We need to be very careful," I said.
+
+"Yes, we do," Christabel said. "I think we need to leave here as soon
+as possible."
+
+"I agree," I said. "The faster I am back at Half Moon Bay Station the
+better I will like it."  be part of it?  
+
+Chapter Eleven: Comings and Goings
+----------------------------------
+
+I paid close attention as I traveled back to where Suri Iglesia was
+working. Christabel and I worked together via the mini AI. 
+
+.. ADMONITION:: NOTE TO SELF
+
+     1. I have lost the designation for Captain Star
+	Runner's mini AI. I think I once called it a gem.
+	I believe I started using this device in *Library
+	of the Mind, Nanowrimo 2009* and developed the
+	need for it in *Republic of Space, Nanowrimo
+	2007*.
+     2. I must add the name of the valley into all references to it. Captain Star Runner would never use a general
+	term like valley if Captain Star Runner had a name for something. I
+	just do not want to take the time to find it.
+
+Christabel brought up her images of the planet and I fed her data from
+the ground. This part of Planet X was carefully designed, making use
+of existing waterways and mountains. No wonder this area had been
+dubbed Vista Incredible. It had been especially designed to be an
+incredible view of the so-called natural world.
+
+I am no expert on these matters, of course. The great open spaces and
+the encircling mountains made me quite uncomfortable. Christabel had
+supplied the mini AI with sufficient biochemicals to keep my anxiety
+levels low, allowing me to cultivate an appreciation for the work the
+Followers of the Stars had done here.
+
+I did not find Suri Iglesia and Detective Ronnie Camberwell at the
+Trollolu stone structure. Before I panicked, I checked the dormitory
+building and its makeshift laboratory. Suri Iglesia was packing up her
+supplies.
+
+Detective Ronnie Camberwell was saying, "Suri, I don't think this is a
+good idea. Your family is expecting you to be aboard the ship they are
+sending here."
+
+"Don't worry," Suri Iglesia said. "I will see to it that you receive
+the full amount of your fee. I know your contract is fulfilled when
+you turn me over to the captain. I know what I am doing."
+
+I stood in the doorway. Both women turned toward me.
+
+"There you are," Suri Iglesia said. "What took you so long? I thought
+you would never come back."
+
+I did not say anything. The length of my absence was no concerns of
+hers.
+
+"I would like to book passage on your spaceship for Transfer Point
+Seventeen. You will be paid well if you take me there right away and
+get there as quickly as possible. How long would that take?"
+
+"Identify Transfer Point Seventeen," I said.
+
+"It is in Lystran Empire, stupid cat," Suri Iglesia said. Her tone was
+both dismissive and impatient. "Everyone knows Transfer Point
+Seventeen."
+
+I decided not to point out to Suri Iglesia the stupidity of her
+remark. Everyone does not know the stellar cartography of the Lystran
+Empire.
+
+Fortunately, Christabel was prepared. Using conventional insertion and
+extraction points, the space journey would take twenty-seven days.
+Christabel and I suspected I could do it much faster. 
+
+I have learned a good deal about bargaining so I said, "That will take
+twenty-seven standard days. If I get there sooner, I will expect a
+bonus for every day I get you there sooner." I named my price and my
+bonus. Both were high. I expected Suri Iglesia to balk at the price
+and name her own.
+
+Instead Suri Iglesia said, "That will be acceptable."
+
+Suri Iglesia signed the contract and gave me the full fare. I simply
+would not let her off my ride until I received my bonus. That usually
+worked and if Suri Iglesia protested, arbitration boards usually ruled
+in favor of the captain.
+
+Suri Iglesia said Detective Ronnie Camberwell would receive her fee
+
+
+when we all boarded my ride.The journey back was uneventful. Detective Ronnie Camberwell was
+sullen. Suri Iglesia was impatient.I suspected, and this was later
+confirmed,that her manner aboard my ride was imperious. This would not
+be a real problem. I could keep Suri Iglesia out of my control center.
+
+The space ways were governed by a number of rules. One rule was that
+the captain was in charge. Suri Iglesia would not be able to command
+to do her bidding. I simply refused and ignored her.
+
+I was glad to leave Planet X and get back into space. Traveling
+through Mother Space is my favorite state of being.
+
+Ronnie Narrates the Journey Through Mother Space to Transfer Point Seventeen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Suri Iglesia and I were well aware of Captain Star Runner's forays
+into the night. Where Star Runner went and what Star Runner did we did
+not know. Suri's opinion was neither of us needed to know. She
+basically thought Star Runner was a smelly, not too bright alien and
+any time we could be separated from her was a good time.
+
+.. CAUTION:: I was definitely attracted to Suri, but as I spent more time with her,
+  I found her to be a bigoted, self-absorbed and narcissistic woman.
+  She was a demanding sex partner and, in her self-referential way, she
+  was not at all concerned about my satisfaction or my feelings.
+
+  For example, one time she said, "Well, for a big woman you don't have
+  much in the way of voluptuousness. You might as well be a man. At
+  least then you could penetrate me." I thought that was the point. No
+  penetration was necessary.
+
+When Suri started packing up her things, I became agitated. I did not
+want to forfeit my fee. When I raised this question with her, Suri
+snapped at me.
+
+"You'll get your fee. Don't be so money grubbing. You're talking just
+like a man."
+
+I am worth my fee. I could not protect Heracles Beja, but nothing
+untoward had happened to Suri. It was Suri's family who had hired me.
+
+Suri Iglesia's personality had changed greatly since I first met her.
+The frightened girl had become arrogant.
+
+.. ADMONITION:: NOTE TO SELF
+
+                 Show do not tell. Give examples.
+
+
+
+ 
+I was in quite a pickle when I boarded Captain Star Runner's ride. I
+knew the signs. Captain Star Runner had retreated into herself. She
+would block herself off from us during the trip through Mother Space.
+
+Excursus
+++++++++
+
+Mother Space is the Pantheran word (In Pantheran it is one word) for
+hyperspace. It is called Mother Space because the Pantherans believe
+the Mother of Us All showed Pantherans of old how to go in and out of
+hyperspace. The Mother of Us All is both a deity and a constellation
+visible from Panthera, the Pantheran home world. Pantherans also
+believe that the Mother of Us All look after them and so long as they
+can see any star in her constellation, they will be safe. 
+
+This is
+especially true of space faring Pantherans. I once asked Captain Star
+Runner what Pantherans did when they traveled out of sight of the
+constellation's stars.
+
+"We know where the constellation is," Captain Star Runner replied.
+"That is all that matters. And when we are in Mother Space, we are
+near the Mother."
+
+This made no sense to me. What I do know that as simplistic as this
+belief system sounds, the Pantherans know that the constellation is
+not the deity. The Mother of Us All stands for their collective
+identity and is a foundational myth of their race. The Mother of Us
+All is the race and they are therefore a part of her.
+
+The Mother of us All constellation looks like a Pantheran. You can get
+a sense of the nose, ears, whiskers, paws, back and tail. The tail
+stands high. The Mother of Us All is prancing through the heavens. It
+must be a breathtaking sight from Panthera. Other stars form the
+Mother's cape. Some have even identified several juveniles which
+surround the Mother. The Mother of Us All is a sprawling
+constellation.
+
+Star runners are specially genetically engineered Pantherans who pilot
+spaceships. They can sense where to enter and leave hyperspace. Other
+races build jump gates for this. All traffic comes and goes through
+these gates. They are chartered and spaceships must travel between
+these specific jump gates in hyperspace or get lost forever. Star
+runners just know where points exist and travel freely through
+hyperspace. 
+
+I have been told that Captain Star Runner is particularly gifted
+finding insertion and extraction points. I was confident we would
+arrive at Transfer Point Seventeen well ahead of the twenty-seven day
+standard run even though Star Runner had never been to Lystran space.
+I knew the Space Traders Guild was in awe of Captain Star Runner's
+ability to make quick runs. Her ship was  not particularly well-suited
+for transport of either goods or passengers. It was a People of the
+Rainbow Sky military vehicle, but Star Runner had made some
+adjustments and put it to good use. It was a fast vessel and most of
+Star Runner's business was getting people or small amounts of goods
+quickly from here to there. Despite the wide use of self-manufactured
+parts and self-assembling parts, it is still necessary to ferry goods
+from one place to another.
+
+End of Excursus
++++++++++++++++
+
+Although Star Runner had to move very slowly to approach Transfer
+Point Seventeen after extraction from hyperspace, she did still
+accomplish the run in nineteen days. The bonus Star Runner constructed
+and Suri Iglesia accepted paid off handsomely as Star Runner
+anticipated. She was quite pleased with herself. Suri Iglesia was
+furious at the high cost because, as she said, the ride had not been
+up to her standards being smelly, without servant robots and poor
+meals. The truth of the matter is that the spaceship has Star Runner's
+scent. It is not a luxury liner with chefs, wait staff and
+entertainment. The meals were adequate and the accommodations are not
+bad. We were not confined to our staterooms. There is a pleasant
+lounge with a variety of entertainments. Star Runner has paid
+attention to passenger needs fairly well. Lystran specialties were
+absent but this was Star Runner's first trip to Lystra and there had
+been no time to prepare.
+
+I was glad to see Suri Iglesia leave the spaceship. Her constant
+whining and complaining drove me into my stateroom for hours at a
+time. Star Runner had cut herself off from us. I found Christabel
+unbearable. Her artificial voice always sounds smug to me. 
+
+When new supplies came aboard the spaceship I expected we would be on
+our way back to Half Moon Bay Space Station quickly. But nothing
+happened. A day went by and then two. No goods came aboard ship. Was
+Captain Star Runner having trouble getting a return cargo? This seemed
+very odd to me. With her speed, Captain Star Runner would be a good
+choice. Transfer points are jump gate hubs where regular spaceships
+can find their way to various other points in the galactic arm. There
+are a lot of cargoes changing hands. 
+
+Finally I went to the control room door. Captain Star Runner was
+grooming.
+
+"Will we be leaving soon?" I asked.
+
+"No," Captain tar Runner paused her licking to speak.
+
+"No? Why?" I asked.
+
+"We cannot leave," Captain Star Runner said, resuming her grooming.
+
+"Why?" I asked again. This sounded strange.
+
+"War has broken out in this sector," Christabel explained. The Lystran
+Empire has joined the conflict. We have been classified as an
+unfriendly vessel and so we cannot leave. Not only do we not have
+permission to leave, we would come under fire if we tried."
+
+"So we're stuck here?" I asked. "How could that have happened?"
+
+"We could not have anticipated Lystra joining the conflict,"
+Christabel said. "Lystra has come into the conflict as a supporter of
+the People of the Golden Sun. Since this ride is a People of the
+Rainbow Sky military vessel, although it is no longer owned and
+operated by them, we are lucky that it has not yet been seized. Nor
+have we been imprisoned. At the moment, we have appealed our status
+and are trying to get permission to proceed to a neutral location
+outside of the sector. So far, a neutral site has not been agreed
+upon."
+
+   
+"How long will this take?" I asked.
+
+"We do not know," Christabel said.
+
+I was about to ask if we were in any danger. Then I remembered
+Christabel said we were not imprisoned and the ship had not been
+confiscated as a war prize. Well, this adventure of mine that I
+thought would be profitable was certainly turning out to be a
+nightmare instead.
+
+Disconsolate, I returned to my stateroom. How could I make good use of
+my time now that it looked like we could be marooned here for a long
+time?
+
+Notes by the Author
+-------------------
+
+Today is the midpoint of Nanowrimo. By the end of the day, to be on
+track, I should have twenty-five thousand words. I will not. However,
+I have moved the story on and discovered new things. I like it that I
+tell myself a story during nanowrimo and the story tells me many new
+and wonderful things, too. The two most interesting things to come out
+of the writing so far are:
+
+1. The villain of the piece thus far turned out to be Suri Iglesia and
+   not Heracles Beja. This may change over time--in fact, I am getting
+   a hint that it will.
+
+2. The Tigerfu have revealed themselves.
+
+3. The ancient races have shown up in the murals on the walls of the
+   stone structures. Who knew.
+
+I am trying to figure out the fifty per cent mark. There should be a
+sense that things have turned bad. OK, I already have Captain Star
+runner and Detective Ronnie Camberwell at odds. They are stuck behind
+enemy lines. Ronnie just wants to get home and get on with her life
+such as it is. Captain Star Runner wants to keep making money. They
+are united in their desire too leave but not as a couple.
+
+What am I going to do for the next thirty thousand words?
+
+
+Chapter Twelve: Visitors Come Aboard Captain Star Runner's Ride
+---------------------------------------------------------------
+
+Ronnie Narrates
+~~~~~~~~~~~~~~~
+
+Life aboard the ride fell into a soul-chilling pattern. I made myself
+dress every day. I ate regular meals. I exercised. I tried to find
+something meaningful to do. There was very little meaningful work for
+me to do since the ride bots maintained the spaceship. Captain Star
+Runner moved about the ride from time to time but avoided me whenever
+possible. We spoke hardly at all. Whatever head games Star and
+Christabel played, I was not invited to share in them.
+
+One of the rules of our confinement was that we could not leave the
+ride. If we did, we could not get aboard it again. If I left to wander
+the Transfer Point, I could not resume my place aboard it.
+Effectively, I believed, I would never get back to Half Moon Bay Space
+Station. I did not think I could survive that. If other Lystrans were
+like Suri Iglesia, they would be insufferable and I would be a second
+class person at best and possibly even lower on the social strata. I
+had no idea if I could find work and how I could support myself. At
+least aboard Captain Star Runner's ride, I was free to move about and
+there was no lack of food, comfortable shelter and, for that matter,
+air. There was an air tax on Half Moon Bay Station. Failure to pay it
+was a serious offense. People went into servitude if they could not
+pay their air tax. From what I had heard, it was virtually impossible
+to get out of servitude once you were in it. People in servitude were,
+for all intents and purposes, enslaved for life.
+
+Given all these circumstances, i was surprised the morning I got up
+late, dressed sloppily and opened my stateroom door to hear the sound
+of humanoid laughter coming down the corridor from the control center.
+I listened for a little while. I heard Star's voice and another
+non-humanoid speaker. This was a live conversation. These new speakers
+were not Lystrans.
+
+I pulled myself together to be more presentable and walked tentatively
+toward the control center, pausing uncertainly in the doorway.
+
+Sitting on the edge of Captain Star Runner's command pedestal was a
+who looked to be around my age and a rather large white rabbit.
+
+"Hello," the woman said, jumping up. "I am Pru Dillow. You must be
+Detective Ronnie Camberwell."
+
+"Yes," I said rather stupidly. Her vivacity took me aback. I was slow
+to put out my hand to her. I must appear either dim-witted or very
+stand-offish. I would like to think I am neither.
+
+"I am Salim," the rabbit said. He neither moved nor put out a paw.
+
+Of course. These were Captain Star Runner's companions in Sanctuary
+Eleven. Star had told me about them. 
+
+"I am pleased to meet you both," I said, remaining in the doorway. Pru
+Dillow had returned to her seat.
+
+"Are you stuck here on Transfer Point Eleven, too?" I asked. I had to
+say something and *Captain Star Runner has told me all about you* did
+not seem appropriate given our strained relationship. I wondered what
+Star had told them  if anything. Why should I think I was uppermost in
+Star Runner's mind the way she was uppermost in mine.
+
+"More or less," Pru Dillow said.
+
+"Then how are you able to come aboard?" I asked. "we were told we could not
+  
+
+leave this 'ride' (I used Star Runner's designation at the last
+second) without losing the ability to come aboard again."
+
+"That's\\ is because you are the operators of this vessel," Salim
+explained in his nasal basic speech. His large teeth made the words
+come out as if they were accented but they were not. His basic was
+flawless. "Our vessel is owned by a corporation back on a Merchant
+world. Pru and I own the corporation, but its registration is not in
+our names."
+
+I was startled. I did not think I was listed as an owner of Captain
+Star Runner's ride. In fact, I was sure of that fact. How had I been
+lumped into her category?
+
+Christabel answered my question, "Although you are not listed as an
+owner, Ronnie, your status is uncertain because your race is not from
+this galactic arm. As a result, you have been given the status of a
+highly suspicious character. The authorities cannot tell what side you
+are on."
+
+I wanted to blurt out that I was on my own side and I did not care at
+all about their war. I just wanted to get back to my job and my little
+cubbyhole on Half Moon Bay Station that I was coming to think of as
+home. If the truth be known, I really wanted to go back to Ptolemy
+City on Hypatia in the Pharaoh Star System. It was only through my
+association with Captain Star Runner and his friends on the Northern
+Frontier that I had left there in the first place. I should really
+check and see if I could go back there when I got out of here,
+whenever that would be.
+
+"So you can leave any time you want?" I asked, wondering if this pair
+was my means of escape.
+
+"No, not at all," Pru Dillow said. "We are stuck, too, because we want
+to go into territory controlled by the People of the Rainbow Sky. They
+are traditional rivals of Lystra."
+
+I held my head.
+
+"All this political maneuvering is making my head ache," I said. "I
+come from an area of space in the western spiral arm that is, by
+design, apolitical and free to all comers if they abide by the unrule
+of law. We have our own sensibilities and you can do pretty much as
+you please if you stick to only a couple of rules. After that, you are
+just on your own."
+
+"Your League of Hypatian Pirates has always interested us," Salim
+said. "If the situation was different, we might even think about
+visiting there. Of course I need to stay near Merchant worlds. We lost
+our homeland and we are trying to build ourselves up. That means every
+Rabbit person must stay involved."
+
+"How is that going?" I asked for something to say.
+
+"Pretty well," Salim said. "We have reached a critical mass so the
+future of the Merchant race seems pretty well established. In another
+seven generations we will have reached stability on three worlds with
+only five more to go. We have been very fortunate. At first we thought
+all was lost when our home world was destroyed, but we had enough
+Merchant ships out of the star system with enough productive adults to
+build up our numbers. The litters have been large and the survival
+rate has been very good. Many of the females have nursed extra kits so
+there have been no runt problems. We have found ways to have these
+runts thrive. It used to be thought they were inferior, but it turns
+out through careful nurturing they do very well."
+
+I did not know what to say. This sounded more like dog breeding than
+the proper venue for societal stability. Well, Salim was an alien.
+Their values were different.
+
+"we were just discussing the war when you came in," Pru Dillow said.
+
+I was not certain of her status. I knew she and Salim had had a
+relationship of sorts. I wondered if Salim had felt it necessary to
+contribute to the population explosion of his kind. Did that mean he
+had a wife or did the Rabbit people just mate and then go about their
+lives. I could have found out, but I decided I did not need to know at
+this point. If that changed, I would inquire.
+
+"I scan headlines," I said, "but I do not know how accurate the local
+information is."
+
+"As it turns out," Pru Dillow said (Did she just go by Pru or was Pru
+Dillow her name. It was hard to know with Captain Star Runner's
+propensity for using someone's entire name and honorific in
+conversational speech.), "the local propaganda is mostly wrong."
+
+"how do you know that?" I asked.
+
+"We always talk to people from the outside when we can," Salim
+explained. "They have the latest news. They are not always right, of
+course, but we have gotten the general impression that Lystra continues
+to lose worlds to the People of the Golden Sun. The message the local
+populations are given convinces them to revolt and once they have
+ousted their Lystran overlords, they find out differently. They have
+traded inefficiency and neglect for outright domination and theft of
+the planet's resources. The Lystrans are corrupt but they do not
+typically strip a world of all of its resources leaving the people on
+the edge of famine and societal collapse."
+
+I shivered. These sounded like very nasty people.
+
+"Who will stop them?" I asked. "Don't the worlds know how ruthless
+these people are?"
+
+"Oh\f course they know," Pru Dillow said. "But their choice is
+capitulation or annihilation. There are examples of annihilation
+throughout the primary arm. The worlds except enslavement to preserve
+themselves. Lystra cannot stand against these marauders."
+
+"So if I have this right," I said, "The People of the Golden Sun are
+continuing to subsume the Lystran Empire. How close are they to
+Transfer Point Seventeen?"
+
+"We are fairly far away." Captain Star Runner spoke for the first
+time. She had been washing her face, a very painstaking process which
+included smoothing her luxurious whiskers. In Pantheran parlances,
+Captain Star Runner had very beautiful whiskers. The beauty experts
+would say that the beauty of Star Runner's face was marred by the
+white star on her forehead. Pantherans preferred a solid-colored
+specimen. Star, on the other hand, had the white star, four white paws
+and a white-tipped tail. The white on her tail was especially frowned
+upon. I had checked once. Fuchsia-colored Pantherans are extremely
+rare. All known fuchsia-colored Pantherans over many millennia looked
+exactly like Star Runner.
+
+"I do not think we are in any immediate danger. It is a situation that
+needs to be watched very carefully. I have no desire to come into
+contact with anyone from the People of the Golden Sun."
+
+"But the Lystran empire will fall eventually?" I said, putting a
+question mark at the end of my sentence to ensure a response.
+
+"That is uncertain," Star Runner said. "For a long time, there was a
+balance of power here in the Primary Arm. That balance has been upset.
+The People of the Golden Sun have conquered a lot of worlds in a
+fairly short, galactically-speaking, length of time. It remains to be
+seen if they can manage their conquests or if the conquered worlds
+will rebel and be successful. It also remains to be seen if the older
+empires and long-established cooperative will decide to stop the
+People of the Golden Sun. I participated in such a military action. It
+was decisive."
+
+"We just do not know if these larger groups have the will to do it,"
+Salim said. I was not sure, but I thought I detected some bitterness
+in his tone. "The Lystran empire's corruption and depravity is
+legendary. The People of the Rainbow Sky have also been very inwardly
+focused for many millenia. It remains to be seen if they have the
+general good of the primary arm still in view. They may simply protect
+their own space and not worry about the rest."
+
+Captain Star Runner swished her tail, twitched her ears and resettled
+herself.. What was she not saying. Surely there was more to this
+situation, but I did not know the questions to ask. Had I asked them,,
+things might have been different.
+
+.. ADMONITION:: TWIST
+
+                 If there was not a block, Captain Star Runner could
+		 have shared with its friends about the Tigerfu and
+		 the Followers of the Stars. Because of the block,
+		 this information was withheld. I need to figure out
+		 how this becomes a critical flaw in the story and
+		 what consequences occur because of it.
+
+
+  
+Chapter Thirteen: A Very Different Suri Iglesia
+-----------------------------------------------
+
+.. ADMONITION:: NOTE TO SELF
+
+                 Let me try writing Ronnie's next scene in the third
+		 person. If it becomes difficult or I do not like it,
+		 I will revert to the first person.
+
+Although Pru Dillow and Salim were Captain Star Runner's friends from
+a previous adventure, Ronnie found them to be pleasant meal
+companions. Even Captain Star Runner seemed less remote in their
+company. Robbie began to realize that the political crisis might be
+weighing heavily on the Pantheran's mind. Captain Star Runner was
+ill-equipped to handle all the complications brought about by an
+interstellar conflict. Although train to be a military star runner,
+Captain Star Runner had no training in political negotiations and only
+a smattering of history and that about the Pantheran hegemony in the
+western spiral arm. Christabel was helping where she could, but none
+of us were well-versed in the local politics of the primary arm. We
+all were very much out of our depth at this juncture.
+
+As Ronnie looked around the table set up in the lounge, she began to
+think they were all whistling in the dark because they were all
+scared. She realized that Captain Star Runner's remoteness may have
+had to do with fear. As a Pantheran, even a genderless Pantheran, Star
+Runner would never admit fear. She would not know how to ask for help
+either. A genderless Pantheran who was not up to the task, whatever
+the task was, would be declared surplus and terminated. Star Runner
+would be looking for ways to cover her fear and her ignorance. She was
+looking for a way to just muddle through and get out of this
+impossible situation. Star Runner and Christabel were not playing
+games in the control center. They were seeking a way out.
+
+If only either one of them had said something. It would help a lot.
+
+Then came the good-byes and the promises to visit again., Ronnie
+wondered if Pru and Salim would come back. They would if they were
+still on Transfer Point Seventeen in a few days. Otherwise, they would
+pack their bags and leave as soon as possible and probably without a
+backward glance. As far as Ronnie knew, they had not been in touch
+with Captain Star Runner since they had gone their separate ways after
+reaching the Blue Fire Star System.
+
+After the pair of friends had left, Ronnie continue to sit at the
+table, wondering what she could do to help get them out of the Lystran
+empire and back into Space Trader Guild controlled space. It would be
+such a relief to be away from the shooting war though if the People of
+the Golden Sun continued to take over planets and star systems, it
+would not be long until conflict came knocking.
+
+Christabel said, "Suri Iglesia wishes permission to come aboard to
+speak with Detective Ronnie Camberwell."
+
+I froze. What was this about? Suri had left without a backwards
+glance. She did not say "Good riddance" but she just as well might
+have.
+
+"Detective Ronnie Camberwell," Captain Star Runner said through the
+speaker in the lounge. "Do you wish to see Suri Iglesia?"
+
+"What does she want?" I asked.
+
+"One moment," Captain Star Runner said. "I will ascertain her reason."
+
+There was a a pause. My heart was beating rapidly. What could she
+want with me? What would I say to her?
+
+"Suri Iglesia wants to contact with you for a particular job  with a
+limited duration on Transfer Point Seventeen." Captain Star Runner's
+voice was non-committal.
+
+A job? How could I accept a job? How would I be able to leave the
+transfer point if I left the ride and was working?
+
+"I would like to speak with Suri Iglesia," I said, hoping my voice did
+not tremble. The palms of my hands were damp. Was I that nervous? How
+would I react to Suri.
+
+I did not go to the airlock. Suri knew her way around the ride.
+Security cameras would pick up her movements.
+
+I heard her quick step in the corridor. She paused in the doorway of
+the lounge. We considered each other. I did not rise from the table.
+We did not speak immediately.
+
+What first struck me was how different Suri looked. I saw her through
+Mrs. Page's eyes. (Mrs. Parge was my foster mother back in Ptolemy
+City.) It was an odd feeling. Mrs. Parge would have noticed how
+dressed up Suri was, how her hair was plated with sparkling jewels,
+how she was wearing makeup and jewelry, how unpractical her shoes
+were. Instead of the archeology student, I was seeing the accomplished
+Suri Iglesia, the Suri Iglesia her family had raised to be a trophy on
+some man's arm.
+
+I had learned from Suri that Lystran society was patriarchal. Lesbian
+sex was tolerated though women from important families married.
+Adultery was punishable by death though rarely was necessary to
+prohibit it. Shame and exposure was sufficient. Male homosexuality was
+despised. Shame and exposure worked there, too. What people did before
+marriage did not count. Unmarried young adults were free to
+experiment.
+
+When Suri told me this, I wondered if I was a failed experiment. She
+had found my lovemaking inadequate. A good part of that was my lack of
+mammary glands. She had six. I only have two. Across where my hips
+are, Suri had openings for insemination. These remain closed unless
+aroused. When they are open, they are quite sensitive. I had bungled
+taking advantage of that badly. I knew better now how to pleasure a
+Lystran female. I certainly did not want to find out how to pleasure a
+male Lystran. I have only been penetrated once and that was a horrible
+experience I hope never to repeat.
+
+Suri waited for me to fully appreciate her transformation. When she
+judged I had taken her all in, she walked across the lounge, swinging
+her hips just a little to suggest our intimacies. I caught my breath
+and said without thinking, "You look quite beautiful today?"
+
+"Do you think so?" Suri asked, stopping several steps from her chair.
+
+I am certain you think so, Ronnie thought. Well, I guess you are.
+
+"Yes, I do," I said. "You look so much better than you did on Planet X
+and I thought you were spectacular then."
+
+Suri smiled and wiggled the slightest little bit. She was arousing me
+and I had hoped I would not be aroused.
+
+"Things were good there, were they not?" she said, implying all those
+times we had touched each other out of Captain Star Runner's view.
+
+"Yes," I said and I knew she knew I was breathing quite hard.
+
+"We will see if we can find a time to renew our acquaintance." She
+smiled again after saying the word acquaintance. This was hardly a
+declaration of love or a promise to pick up where we had left off. She
+was dangling the possibility in front of me to get what she wanted
+from me. I am no fool. I was being played.
+
+"I am so sorry you are caught behind the lines," Suri said as she sat down.  
+
+I said nothing.
+
+"Since you are here," Suri continued, apparently seeing that I was not
+going to indulge myself with woeful expressions, "I have a little job
+for you if you are interested."
+
+"I could be," I said. I do not do coy well, but I can try.
+
+"So many of our men have gone to defend us." Suri sighed dramatically.
+Would she ever stop play acting and get to the point? "Women have had
+to step forward and do their jobs." She paused. I said nothing. "As a
+result, some investigations are waiting for investigators. As you are
+an investigator, I thought you could handle one or two of them."
+
+She smiled brightly at me again. "My family has responsibility
+foreseeing to it that  these are taken care of. I said you might be interested while
+you are waiting for clearance. A good showing in this area might make
+that clearance come a little quicker."
+
+It did not mean it would. It was the bait dangling in front of me. I
+suspected Lystrans always baited two hooks: one was Suri and the other
+was getting out of here. I suspected also both would be pulled back if
+I reached for either of them.
+
+Well, that is a poorly constructed metaphor, but you know what I mean.
+
+"I am not permitted to leave this spaceship and return again," I said.
+Let me stick to the practical objections first.
+
+"No problem," Suri said in that same bright voice.
+
+"I will need everything in writing," I said.
+
+"Again, no problem."
+
+"What are these little cases?" I asked.
+
+Suri's cheeriness drained away. I almost thought it was real.
+
+"There has been two deaths in our section of the Transfer Point," Suri
+explained. "These are not high-ranking men, but my family believes
+no murder should go revenged. We need to know who did it and more
+important, why."
+
+I thought of Heracles Beja. Who was taking revenge for his life? Suri
+had seemed so uninterested in finding out who had done it.
+
+I believe in justice. I am a former police officer. I was taught at
+Simon Parge's knee, the man who invented justice for Ptolemy City
+which previously had been a totally lawless place. Justice did not
+seem to be a factor here. Family honor did. Could I work in such an
+environment? I did not know. What I did know was that I had to say
+Yes. Saying No could have consequences neither Captain Star Runner nor
+I could anticipate. There were no references in Christabel's databases
+for this.
+
+"Give me what you have," I said. "I will look it over and the contract
+and then I will let you know if I think I can help you."
+
+For a moment I thought Suri was going to go into one of her rages. She
+could go from giggly and playful to outrage and indignation in the
+blink of an eye. But she did not do that. She simply said,, "I will
+get you everything as soon as I can."
+
+And she left.
+
+When the airlock closed and Suri was on her way, I went to the control
+center.
+
+"What do you think?" I asked.
+
+I was asking Captain Star Runner but I was also asking Christabel.
+
+"It sounds dangerous," Captain Star Runner said immediately. I knew
+she had already talked to Christabel about this.
+
+"It sounded dangerous to me, too," I said. "Refusing also seemed
+dangerous."
+
+"I agree," Christabel said. "She has you between the proverbial rock
+and hard place. You have to accept her terms. Asking for written
+assurances was a smart move. It may not bind anyone here on the
+station, but they will loose face and I think that is very important
+in Lystran society."
+
+"I hope to wrap these investigations up quickly," I said. "The longer
+you wait on these things the harder they are to solve. I suspect they
+will be pretty straight forward. I cannot imagine Suri's family would
+give me anything too difficult or too high profile to work on."
+
+"Are you sure they are not looking to blame you?" Captain Star Runner
+asked.
+
+"I was not blamed for Heracles Beja's death," I said. "Therefore, I do
+not think I will be blamed for this one."
+
+"That one is still not solved," Christabel said. "Does he have a
+family who needs to  avenge his death?"
+
+"From what Suri said," I said, knowing full well she might not be a
+reliable source, "he was from a 'no account', her words, family. They
+might want revenge but they do not have any hope of getting it."
+
+
+"Just be careful," Captain Star Runner said.
+
+"I will be careful," I said. "I have no intention of becoming another
+victim."
+
+There was silence.
+
+I said, "You do need to promise one thing, Captain Star Runner."
+
+Star Runner's whiskers twitched. I rarely use Star Runner's title when
+speaking directly to her.
+
+"You need to promise me you will not leave Transfer Point Seventeen
+without me."
+
+"I promise," Captain Star Runner said. "You are my responsibility."
+
+"Remember that," I said.
+
+I hoped she would. I was afraid, but how could Captain Star Runner
+ever consider leaving Lystra without me.
+
+Star Runner Narrates
+~~~~~~~~~~~~~~~~~~~~
+
+I was so pleased to be reunited with Pru Dillow and Salim. They
+brought me up-to-date with their activities and I did the same,,
+skipping quickly over the events on Planet X. They did not need to
+know.
+
+.. ADMONITION:: NOTE TO SELF
+
+                 Of course, these two also had a need to know. Had
+		 Star Runner shared with them, it would have learned
+		 some important information which effects the story. I
+		 do not know how it affects the story right now, but I
+		 need to figure that out.
+
+I was pleased also that Detective Ronnie Camberwell seemed to get
+along with them all right, especially Pru Dillow. I did not know how
+to talk to Detective Ronnie Camberwell right now and she was so
+out-of-sorts. I knew she was trying to adapt to life aboard the ride
+in our current circumstances, but she was clearly suffering from
+depression. I was glad to see she had made an effort with her
+appearance. Ronnie is not a conventionally beautiful Terry. She is
+large, strong, awkward in her movements. Nevertheless, she can look
+competent and assured. She almost pulled that look off when she met my
+friends.
+
+The arrival of Suri Iglesia was another matter. I did not think I
+should turn her away. Her family did have some importance on the
+Transfer Point. Christabel was still trying to find out how 
+
+all the family connections worked in Lystran society. We had a few
+textbooks but they were quite limited. A *Who's Who* would have been
+extremely  helpful. Christabel suggested I leave the decision up to
+Detective Ronnie Camberwell.
+
+The sexual innuendos were not lost on either Christabel or me.
+Detective Ronnie Camberwell was being manipulated. We surmised that
+Detective Ronnie Camberwell knew this and struggled valiantly to
+resist Suri Iglesia's wiles, but in the end, Detective Ronnie
+Camberwell had to agree. There really was not a choice.
+
+Christabel reviewed the contract when it came and altogether we
+studied the information Suri Iglesia had provided.
+
+The contract and the assurance was simple. Detective Ronnie Camberwell
+could return to the ride when her work was finished. What finished
+meant was not explained. Detective Ronnie Camberwell was indentured to
+the Iglesia family until she finished her job successfully. She would
+be housed, fed and clothed during this period. She would be paid a
+small sum when her work was completely, enough the contract said to
+make it possible for her to "resume a regular life." We did not know
+what that meant but it sounded like boiler plate language.
+Remuneration was not the point here. Indenture was a bitter pill to
+swallow, but Detective Ronnie Camberwell swallowed it for, as she
+said, "the good of the order". 
+
+When we finished with the contract, we moved onto the murders. 
+
+Chapter Fourteen: We Look at the Murders
+----------------------------------------
+
+Captain Star Runner Narrates
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This felt like old times. Detective Ronnie Camberwell, Christabel and
+I were working together on a case. For the moment, I put aside that
+Detective Ronnie Camberwell would be going onto Transfer Point
+Seventeen to interact with Lystrans and especially Suri Iglesia. That
+was later. This was now. I was still basking in the pleasure of seeing
+Pru Dillow and Salim again. They were doing well. We had made a more
+formal arrangement to keep in touch. We had been through some very
+difficult times together. That bond was still there even in the good
+times. I was very happy.
+
+  Christabel had done some initial organization of the case material. We
+  let Detective Ronnie Camberwell work through all the material at her
+  own pace, listening to her comments and adding our own.
+
+.. ADMONITION:: NOTE TO SELF
+
+		   The initial notes will be pretty raw. I have not
+		   thought a lot about these cases and how they will
+		   move the larger plot of the People of the Rainbow
+		   Sky, The Followers of the Stars and the Tigerfu. Let
+		   me see what I can pull out of the air. A back and
+		   forth conversation will be awkward. Let me try just
+		   writing it out and figure out the the conversational
+		   gambit later.
+
+
+
+  Two men have been murdered several weeks apart. They are both young.
+  Neither of them comes from an important family. 
+
+1. The manner of their deaths is similar which is causing them to be
+   grouped together. Because there are only two of them, a pattern cannot
+   be established.
+2. The Iglesia family is concerned about their deaths because
+   unexplained deaths dishonor the family.
+3. Policing is not an honorable profession because the police come
+   into contact with disreputable people who are neither virtuous nor
+   typically successful. A successful crook may be respected for his
+   cleverness.
+
+"That is a pretty thin line," Christabel observed.
+"You are a petty criminal until you can string together enough crimes
+to be successful." 
+
+"It sounds a lot like the Pharaoh Star System," Detective Ronnie
+Camberwell said. "You are a petty pirate until you strike it big. Then
+you might be considered reputable and legitimate businesses come to
+you for their legitimate work."
+
+"True," Christabel said. "But the environment in the Pharaoh Star
+System sounds very different than Lystra."
+
+"I am getting that impression. Lystra is very class conscious. Are the
+respected families government-appointed or related to a royal family
+or what? Do you know, Christabel?"
+
+"It appears to be a patronage system," Christabel responded. "If you
+once did something for the ruler, you got a position. If you did not
+screw anything up, you kept your position and became entrenched. Once
+entrenched, you have opportunities to continue to stay entrenched."
+
+"According to what I am reading here," I put in, "The Iglesia family
+may be a big deal here on Transfer Point Seventeen, but in general,
+transfer points are not high level appointments. If they were
+planet side, they would be significant. You are dealing with a big
+goldfish in a little lake."
+
+"A big fish in a small pond," Detective Ronnie Camberwell corrected.
+
+"That is what I said," I said.
+
+"Close enough," Detective Ronnie Camberwell said, going back to her
+study.
+
+4. Both men worked in the maintenance areas. They were both techs but
+   they did different jobs. One worked on sanitation and one worked on
+   air supply. This looks more like the area where they could be
+   killed as there are fewer security cameras and no one around them.
+
+5. Their friends and co-workers were questioned. No one had noticed
+   anything strange in the days before their deaths. Neither man had
+   been acting peculiarly. Neither man appeared worried or distracted.
+6. Nothing appeared to be stolen on their bodies or in their lockers
+   or in their dormitory.
+7. The men lived in the same dormitory. Dormitory assignments are
+   random and are determined by  gender and age rather than job descriptions.
+8. One man had worked on Transfer Point Seventeen for seven months
+   while the other one had worked here for three years.
+9. Although the men knew each other, they were not friends.  
+10. Forensics talks a lot about the weapon used but cannot provide
+    hair samples, fingerprints,   in fared data, extraneous
+    DNA--nothing at all. 
+
+"There is really not a lot to go on here," Detective Ronnie Camberwell
+concluded.
+
+"The weapon information is jumbled," Christabel said. "Did you notice
+that?"
+
+"It sounds like gibberish," Detective Ronnie Camberwell said. "I
+cannot even figure out what the weapon is."
+
+"That is my point," Christabel responded. "That is why I called it
+jumbled. Would I be correct in stating that they do not know what
+killed these men?"
+
+"That would be incorrect," Detective Ronnie Camberwell said after
+rereading the reports.  "They do not have the weapon. They know of a
+weapon that would kill in this way. They cannot imagine a weapon that
+kills in this way. In other words, they could not build or make a
+weapon of this sort. They have never heard of anything like it.
+Therefore, they do not know what killed these men."
+
+.. ADMONITION:: NOTE TO SELF
+
+                 I am on the brink of violating one of Ronald Knox's
+		 commandments for writing detective stories. He
+		 characterized it as inventing a poison that does not
+		 exist. I am not describing a weapon that does not
+		 exist. It existed in this universe. The overworked
+		 police force or forensics laboratory just have not
+		 seen it because it belongs to a race they do not know
+		 about.
+
+"Are there any weapons in your databases that match the description of
+what this weapon did?" Detective Ronnie Camberwell asked us.
+
+"No," Christabel said promptly.
+
+"Can you speculate on what sort of a weapon it might be?" Detective
+Ronnie Camberwell asked. From what I have read in these reports, the
+weapon is the only lead I have. I can re-interview everybody. I can
+visit the scene of the crime, but I do not think I will learn anything
+new. I cannot see the bodies. They have been recycled already which is
+standard procedure on a space station."
+
+"Specific cells in the brain were disrupted," Christabel said. "These
+cells govern both personality and morality. Essentially, the weapon
+destroyed who these men were. When that part of their brain died,
+their whole body shut down."
+
+"I do not understand," I said. I had been following the conversation
+very closely, but this made no sense to me. "I would have thought the
+two men  would have gone on living in a vegetative state."
+
+"I would have thought that, too," Christabel said, "but that is not
+what happened to them."
+
+"It is as if this weapon is a spirit killer," Detective Ronnie
+Camberwell said.
+
+"The weapon killed their spirit and then they died?" I asked. "How can
+this happen?"
+
+"The ancients would have called it a soul killing weapon," Christabel
+said.
+
+We all were silent for a time. It sounded like a terrible weapon
+
+"So the question is," Detective Ronnie Camberwell said, "who has such
+a weapon and why did they use it on these two men? They do not seem
+dangerous men."
+
+"Were they just random victims?" I asked.
+
+"Just two of them?" Detective Ronnie Camberwell asked. "I would have
+thought there would be more killings if someone was running around
+with a soul killing weapon. This makes no sense at all."
+
+"I do not think a soul killing weapon is possible," I said.
+
+"Nothing else fits the facts," Detective Ronnie Camberwell said.
+
+I thought of Sherlock Holmes, but I did not bring him up. Detective
+Ronnie Camberwell had criticized me for making a fictional comparison
+back on Planet X.
+
+Christabel and I discussed Planet X in our back channel. Could this be
+a Tigerfu weapon?
+
+"Or something the People of the Rainbow Sky have or something the
+Followers of the Stars have," Christabel added. "Our records are so
+incomplete. I think it is fair to say this is not a Lystran weapon."
+
+"What can we share with Detective Ronnie Camberwell?"
+
+"Not much," Christabel said. "We do not have much to share."
+
+"What are you two talking about?" Detective Ronnie Camberwell asked.
+
+"Us?" I asked.
+
+"Don't try to look innocent." Detective Ronnie Camberwell sounded
+irritated. "You two are always talking about something."
+
+"It would appear," Christabel said before I could answer, "that this
+weapon is made by or was made by an advanced race. It is either a new
+weapon newly created or an old weapon created a long time ago."
+
+"Or an old style weapon newly revived," I put in. This displeased
+Christabel. She thought I was pushing Detective Ronnie Camberwell in a
+direction of inquiry we were still keeping secret.
+
+"So maybe someone on the transfer point acquired this weapon and was
+trying it out on some low-level people," Detective Ronnie Camberwell
+said. She looked very unhappy.
+
+1. The weapon is from a long time ago and belongs to an advanced race.
+   Someone found it and says, what the heck. I'll try it out on
+   somebody who is working alone in the maintenance area. Bang.
+   They're dead. Wow. Let me try this out again. Bang. Wow. This other
+   guy is dead, too.
+
+2. Someone found a book. Wow. Here's a nifty weapon. Let me build it.
+   How does it work? Let me try it out on some tech alone at his job.
+   Bang. It works. Let me do this again. Bang. Yes, it still works.
+
+"I don't like either scenario," Detective Ronnie Camberwell said. "The
+killings cannot be random. These are not tests or even examples. If
+they were examples, we would have to be told what the deaths mean. No
+one has done that."
+
+Detective Ronnie Camberwell shook her head. "I am willing to posit a
+weapon from beyond the Lystran empire. It is a strange and complex
+galaxy. All sorts of races have learned all sorts of things. Some
+races have been around a long time. They may have invented things we
+know nothing about. It is a dangerous to go on an assumption like this
+in police work, but I do not see an alternative. Nevertheless, I think
+there must have been a reason why these two men were killed. If I can
+find the motive, I may be able to find the killer. My biggest problem
+is that this is a transfer point. The killer could have left the
+transfer point weeks ago. These are cold cases. They are hard to
+solve."
+
+"Are you saying it is hopeless? What about your contract?" I asked. I
+was a little panicky. I did not want Detective Ronnie Camberwell held
+on Transfer Point Seventeen indefinitely because she could not solve
+the case.
+
+"I need to to find a way to know these men." Detective Ronnie
+Camberwell paused, twirling a lock of hair in her fingers. With this
+gesture, I knew she was thinking. "I need to inhabit them. The only
+way I can do this is to go under cover as one of them."
+
+"How?" I asked. "You are not a Lystran. They would not allow you to
+work in the tech area if you do not know anything about it. You are
+not a man anyway."
+
+"Suri always says I am a man when she is displeased with me, if I have
+done something awkward or not to her liking<" Detective Ronnie
+Camberwell said slowly. "If I am right, and tell me if I am right or
+wrong, Christabel, I could pass as a Lystran man. I have the height
+and the build for it, I think. Suri is coming back to take me to her
+seamstress to get fitted with appropriate garments. If I tell the
+seamstress to also make me men's wear, I am sure I can apply as a
+general purpose worker and get a space in the same dormitory. I am an
+off worlder stuck here by the war. They are short-handed. I need work
+because I will starve without it. Given all this, I may just pull it
+off."
+
+"I think you are right," Christabel said. "Lystran male clothes are
+also not form fitting. If you can hide the fact that you are not
+anatomically male, you should fit in."
+
+"That will be easy enough," Detective Ronnie Camberwell said. "I am a
+Terry. They have never seen a Terry male."
+
+I was surprised Detective Ronnie Camberwell used that word, Terry, but
+Christabel pointed out to me along our back channel that Detective
+Ronnie Camberwell could use any old word for her species and not be
+corrected. Terry was a word she was familiar with if she needed to use
+it quickly in all manner of situations.
+
+"I need to pull a few things together," Detective Ronnie Camberwell
+said. "Suri is coming for me soon."
+
+Detective Ronnie Camberwell stood up. "Captain Star Runner," she said,
+"I need you to promise me something."
+
+"What is that?" I asked. Detective Ronnie Camberwell was being very
+formal.
+
+"Captain Star Runner," Detective Camberwell said, "I need you to
+promise you will not leave Transfer Point Seventeen without me."
+
+"I promise," I said quickly. "I would never leave without you,
+Detective Ronnie Camberwell."
+
+And I meant it.
+
+.. ADMONITION:: TWIST
+
+                 Of course, Captain Star Runner leaves without Ronnie Camberwell.     
+ 
+Chapter Fifteen: A Visit to the Seamstress
+------------------------------------------
+
+The Author Thinks Aloud
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Here is what I know right now. The characters do not know this yet.
+
+Here is what I know right now. The characters do not know this yet.
+
+1. The case reports Captain Star Runner, Detective Ronnie Camberwell and
+   Christabel looked at in the previous chapter (I wish I knew how to
+   make a lnk to that chapter in restructured text) have been faked.
+   Ronnie will not be able to find out any information about the two
+   dead men. They do not exist.and therefore their deaths never
+   happened.
+
+2. he soul killing weapon does not exist.
+
+3. Ronnie will figure this out when she thinks to look at the report
+   filed on Heracles Beja's death. It will be identical to one of the
+   reports she received.
+
+4. The simple explanation of Heracles Beja's report is that Suri Iglesia
+   copied the first report without making any changes, expecting no one
+   to read it carefully or correlate it with the two dead maintenance
+   workers.
+
+   a. Suri's class consciousness did not let her see either the
+      maintenance workers or Heracles as important enough to be looked
+      at carefully.
+
+   b. Suri did not want to draw attention to herself and copying the
+      report would allow the report to be filed on a lower class person
+      and thus get him off the radar.
+
+5. am wondering if someone from the Followers of the Stars or the
+   Tigerfu killed the two maintenance workers. Either race would stand
+   out on Transfer Point Seventeen. The Tigerfu might be a better bet.
+   The killer might have been able to disguise himself as a Lystran. The
+   bear-like Followers of the Stars would have difficulty doing that. On
+   the other hand, one of the members of either race could have fingered
+   one of the Lystrans. Prince hat is a manipulator and I like him for
+   the part of using others.
+
+6. The People of the Rainbow Sky and the Followers of the Stars are
+   working together to cause the collapse of their old enemy the Lystran
+   empire. If they can use the People of the Golden Sun to do it, so be
+   it. In this way the Followers of the Stars continue their
+   exploitation of the Tigerfu.
+
+7. If all this is true, it will affect Captain Star Runner and Detective
+   Ronnie Camberwell differently.
+
+   a. Ronnie will throw her lot in with the Tigerfu.
+   b. Captain Star Runner will return to Half Moon Bay Space Station to
+      try to remain neutral during the conflict.
+
+9. This story will not have a happy ending. There is too much betrayal and too many secrets.
+
+10. A future novel could look at what happens when Ronnie and Captain
+    Star Runner come across each other during the war or after it.
+
+11. Captain Star Runner will reveal all to The Czarina who will blog
+    about it for her readers back in the western spiral arm. The royal
+    archivists for the Pantheran Empire will sensor her report. They are
+    uneasy about all this chatter coming out of the Primary Arm.
+
+
+
+
+Ronnie Narrates
+~~~~~~~~~~~~~~~
+
+Suri looked me over critically.
+
+"You cannot wear those clothes here," she said. "I will need to take
+you to my seamstress to have all new clothes made. You need to look
+like a Lystran woman."
+
+"No," I said.
+
+I waited for her to explode. She did.
+
+"No," I said again firmly. "You hired me to find out who killed these
+men. I intend to do that. I cannot find out dressed like a Lystran
+woman. The men will not talk to me. I cannot go into the maintenance
+areas where they worked. I cannot poke around, stand around, look
+around the way I need to in order to solve this case."
+
+"You will scandalize everyone dressed like that," Suri insisted. Her
+manner was all-knowing and condescending to me.
+
+"I do not intend to dress like this," I explained to her. "I intend to
+go to your seamstress and have her design clothes that will make me
+looked similar to the way those men looked. I intend to get a bed in
+their dormitory. I intend to hang out where they hung out and possibly
+get a job in maintenance."
+
+Suri was speechless.
+
+"You cannot do that," she finally said. Her shock was great.
+
+"I must," I said. "If I cannot do these things, I cannot solve your
+case."
+
+"The Morality Board will not like it," Suri said weakly. "I will be
+implicated, too."
+
+I saw immediately the Morality Board had great power on Transfer Point
+Seventeen. That was good to know.
+
+"Does the Morality Board approve of murder?" I asked, pressing my
+advantage.
+
+"Certainly not." Suri was regaining her air of indignation.
+
+"Which is a greater offense, murder or cross-dressing?"
+
+Suri made a rude noise. "What do you think?" she asked.
+
+"I am asking because I am unfamiliar with your mores," I said. "If
+murder is a more serious offense, then I will use whatever skill I
+have to uncover the murderers."
+
+"There is only one," Suri said quickly, then regretted her outburst.
+
+"Only one?" I questioned. "How do you know?"
+
+"I do not," Suri said, trying to cover her early mistake. "I just do
+not want to think there are two such degenerates aboard the transfer
+point."
+
+I did not tell her the likelihood the murderer was still around was
+small.s With a war on, the murderer could easily enlist and kill all he wanted.
+
+"So are we agreed that I go to the seamstress and get my man clothes?"
+I asked. "You always say I am just like a man. I should pass well
+enough."
+
+Grudgingly, Suri agreed. Throwing those man references in my face
+pleased her. Acting on her retorts made her very quiet. Her volatile
+nature confused me. I wondered if Suri was acting out some juvenile
+attraction through fained dislike.
+
+I always find the dock areas of space stations grubby. They are cold,
+too. They smell of machinery, lubricants and paint. The spacers who are
+coming and going often seem furtive, intoxicated or just creepy. It
+always amazes me that Captain Star Runner who is so fastidious about
+her appearance, feels so at home in these places.
+
+I was not prepared for the interior of Transfer Point Seventeen. My
+first shock was how grimy everything looked.
+
+I have to admit my only acquaintance with space stations is the
+Alexandria Space Station, the gateway to the Pharaoh Star System and
+Half Moon Bay Space Station. The Alexandria Space Station is bright
+and sparkling and to the extent possible, gives the traveler an sense
+of openness and airiness. Tara Lee Harrington, my former lover and
+space station security chief, told me that passengers coming from and
+leaving Ptolemy City could typically afford such luxuries. Their
+ticket prices paid for the wider corridors and higher ceilings and
+warmth.
+
+I had been to a number of pods on Half moon Bay Station. Some were
+newer. Some were older. Some were designed on a more open floor plan
+while others were quite enclosed. They were all well-maintained, a
+condition of being part of the larger governmental organization that
+was Half Moon Bay Space Station. 
+
+There was a smell. It was not the odor I associated with Suri. All
+races have their own odor. If Captain Star Runner was present she
+could have identified it. The longer I stayed aboard the transfer
+point, the more I realized it was the smell of cooked food and waste.
+The sanitation systems could not scrub strong odors out of the
+recycled air. The smells made their way into fabric and, I am
+convinced, the walls, floors and ceilings of the place. It was
+unpleasant. I tried not to show I noticed. Suri did not seem to notice
+it.
+
+The seamstress, too, was a surprise. Her shop was a small room. We
+entered it through a shop that sold hardware or fittings. I was never
+sure exactly what all the parts and pieces were for. That a seamstress
+worked behind a parts store seemed very strange to me. The
+seamstress--I never knew her name--was not related to any of the
+people in the parts store. She simply rented this room. As I got to
+know the transfer point better, I learned there were lots of rooms
+that could only be entered by transversing at least one other room.
+Not all rooms had access to the corridors.
+
+The seamstress was probably in middle age. Her skin was mottled. her
+hands were arthritic. Her teeth were mere stumps and some were
+missing. She had large bald spots on her head. There was something
+wrong with her feet. She had difficulty walking. The word *hag* came
+to mind. 
+
+When I asked Suri about her, she simply said, "She has five
+children," as if that explained everything. Maybe it did. Two were the
+norm. Lystrans give birth to two children at a time. Each child nurses
+from three mammary glands on one side. I wondered at if the seamstress
+had had three children born at once or two sets of two and one set of
+one. I never found out.
+
+I did find out that having more than two children was thought to be
+morally suspect. It had nothing to do with multiple partners or even
+some sort of population control. It was thought to be over indulgent
+like drinking too much or eating to much. I suppose it was classified
+as gluttony.
+
+The seamstress did not look like a glutton. She looked like a used up,
+falling apart woman who needed my pity not my disgust.
+
+I never understood how or why she became Suri's seamstress.
+
+Suri insisted I explain my requirements to the seamstress. It was as
+if Suri wanted no part of this plan. nevertheless, she stayed through
+all the measuring. The seamstress also put in an order for boots,
+undergarments, toiletries other necessities. She spent a lot of time
+poking at my breasts. These are not large. The seamstress worried
+about how to strap them. I did not see why she bothered. The standard
+wear for young men hid any hint of femininity I have. Lystran fashion
+causes them to have large amounts of fabric around their hips,
+especially in the back, and gathered tops that puff out in the front
+as if they might start crowing at any moment. The extra padding in the
+posterior region turns out to be necessary as most seating on the
+transfer point is uncushioned and very cold.
+
+I realized belatedly that all the seamstress's poking and prodding was
+for Suri's enjoyment. I wondered if that was by prearrangement or
+whether the seamstress knew Suri's predilections. Perhaps all young
+women were the same. I never found out.
+
+When I finally was dressed in one of my new outfits, I studied myself
+critically in the mirrors. It was hard for me to tell how well I could
+pass. The clothes felt strange on my body and they certainly did not
+flatter me at all. Later, when I observed the other men of my
+approximate age and assumed social standing, I discovered what a good
+job the seamstress had done. I never had the opportunity to tell her.
+What I would not know for a while was how attractive she had made me.
+Both men and women looked. Their looks were often lascivious. Their
+grins or dropped eyes bewildered me. I had never before been the such
+an object of attention. I did not enjoy it. I wanted to hide. It made
+me rethink the attention I give beautiful or sexy women.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Sixteen: Man About Town
+-------------------------------
+
+I did not know what to expect. I got some basic information and set
+about being a man from a backward planet in the Lystran Empire. That
+was not really as hard to do as I had originally thought it might be.
+Most of the young men in the dormitories were just like me--the
+undercover me. They came from villages on poor planets. They came to a
+transfer point hoping for better employment and a way to send money
+back home. Or they came looking to escape their pasts. They found
+themselves in low-paying jobs, owing money to the controlling families
+which kept them  
+indentured with no way of redeeming themselves. They lived in cramped,
+drafty dormitories, eating poor food with no medical care. If they
+were too sick to work for too long, they lost their space in the
+dormitory. They lost their food card. They turned into criminals,
+living in the bowels of the transfer point. Or they committed suicide,
+too ashamed to beg or steal. The controlling families, with a war on,
+found many recruits for the military. Although their servitude was not
+reduced, the pay and living conditions were said to be better. They
+signed up and shipped out. The controlling families called them cannon
+fodder. I wondered how many of them would survive the war no matter
+who won it. All in all it was a depressing business. I was cold and
+tired much of the time. My work was menial. My questions were met
+with disinterest and grunts. I could find no one who had ever heard of
+either man. After a while, I began to think they had never existed.
+
+One day when I was sitting at a filthy table choking down a watery
+bowl of vegetable soup--if there were any vegetables in the soup they
+were peelings only--I began to ask myself what I was accomplishing. I
+decided to spend the afternoon going over my reports. If I did not
+show up for the afternoon shift, my pay would be docked. I had credit
+of my own. I would survive. With so many men going off to the front,
+shifts were often poorly staffed and men went missing all the time.
+
+I could find nothing in the case files that gave me any ideas. Because
+I was at an impasse, I took out the report I had been given on
+Heracles Beja. His report seemed very much like the others which was
+very odd. I ran a comparison. Except for a few items like physical
+description, date and place of birth, Heracles Beja's report was
+identical to that of one of the dead men. How could this be? Heracles
+Beja was killed with a ray gun. I knew that. I had seen the body. That
+was the conclusion the robot concierge came to as well. We never found
+the ray gun, but that meant nothing. It is a big planet and the ray
+gun could have gone into a recycle, off a balcony or into the river
+with no one the wiser. I knew it had not come aboard Captain Star
+Runner's ride. Star Runner checked for weapons. Whoever had killed
+Heracles Beja had disposed of himself and his weapon.
+
+But this report bothered me. I read it over several times. It was
+marked with all the official virtual seals it was supposed to have,
+but I realized the only possible conclusion was that it was a forgery.
+If Heracles Beja's report was a forgery, could these two other reports
+be forgeries, too? 
+
+.. ADMONITION:: NOTE TO SELF
+
+
+		This is basically hogwash. It will move the story
+		along for now, but Detective Ronnie Camberwell needs a
+		lot more than thought to make this and  a few more
+		conclusions reasonable. I will leave it for now
+		because I have no idea what this process should look
+		like at the moment.
+
+I needed a few answers. I went looking for them.
+
+Fortunately, I was given clothes for work. My clothes from the
+seamstress were still in new condition.. I put them on and went
+looking for the police department.
+
+By now I had a much better idea of how this transfer point worked.
+Transfer Point Seventeen was very old. It creaked along, but many
+parts of it were broken or out of order. There was not a regular
+maintenance schedule for non-essential services. The store I went
+through to reach the seamstress, for instance, was a parts
+store--parts to repair almost anything--cook stoves, refrigeration
+units, motorized carts, furniture, lighting, air circulatory, heating
+and cooling systems. If there was a machine on the transfer point,
+this store and many others like it had parts for it. People went from
+store to store, sifting through bins, trying to find the right part.
+
+I found the police room--you could hardly call it a station--behind a
+store which appeared to sell used home items. I found bedding,
+furniture, lighting fixtures, trays for automatic cookers. Later I
+learned it was a consignment store. People were selling off their
+goods to pay their bills. Pawn shops were also plentiful. I wondered
+if everyone was selling, who was buying.
+
+I showed my reports to the policeman on duty. I had no idea what his
+rank was. He gave the reports a superficial review and said, "Not
+ours."
+
+"Not yours?" I asked. I felt stupid after I said it, but what could he
+mean? "If they are not yours, whose are they?"
+
+He shook his head. "They are our seals," he said, "but they are not
+our reports."
+
+"How do you know?" I asked.
+
+"They do not have the right signatures and the right watermarks," he
+said. "Someone sold you fake reports."
+
+He made no offer to file a complaint. I did not inquire about doing
+so. The police official seemed uninterested. He did not even suggest I
+pay him to do so. Bribery was quite common on the transfer point. I
+never was sure if it was legal or just not offense anyone worried
+about. I thanked the police official for his time and left the police
+room.
+
+I found a shop where I could get something warm to drink and
+considered my options.
+
+What did I know?
+
+4. The report I was given and which looked to the non-initiated to be
+   real, was not.  
+5. The report on Heracles Beja was identical to that of one of the
+   dead men killed here on the transfer point.
+6. No one knew either of the two workers killed here on the transfer
+   point.
+
+7. Could I safely conclude the men were as unreal as their case files?
+8. Why? What was all this about?
+
+My first thought was misdirection. The men were invented to throw
+someone off the track. Off the track of what? Who was supposed to be
+thrown off the track? I was hired to, ostensibly, help the police
+force but clearly the police force was not involved because the two
+men had not died. They were fictitious.
+
+What point was served by having me investigate? I had not seen Suri
+Iglesia since I left the seamstress shop. She had indicated, rather
+brusquely and with her usual disregard for anyone else's feelings,
+that she was disassociating herself from me. I could turn my findings
+over to the police. They were expecting my report.
+
+But when I had gone into the police room, they did not know who I was
+nor did they care.
+
+I was someone's dupe, but I did not know whose. Did I care? Should I
+just walk away and go back to Captain Star Runner's ride? And do what?
+
+We had worked together on the case files--Christabel and I had worked
+on the case files. I corrected myself. Captain Star Runner and I had
+not interacted much at all for a long time. I started going back
+before I received the contract to protect Suri Iglesia. I lived on
+Half Moon Bay Space Station. I worked with Jack Whicher. Captain Star
+Runner lived aboard her ride and came and went running her
+high-speed courier business. We saw each other when Captain Star
+Runner was docked at the space station for any amount of time. As the
+months progressed, our conversations had lagged. We had less and less
+to say to one another. Our lovemaking had been perfunctory and less
+often. I found myself not wanting to go to restaurants in my pod with
+her. I did not want to be known as the humanoid who hung around with a
+Pantheran. Captain Star Runner was well-respected as someone who could
+give you fast turn around, but she did not fit in well at Half Moon
+Bay Space Station. She was an outsider, far more so than I was. She
+docked her ride on the seedier side, preferring low rates to classier
+facilities. Her ride was well-maintained, of course, but
+dockside ambiance did not interest her at all.
+
+I liked a better standard of living. I liked the people I met who
+lived and worked on the station. In a very real sense, we were not
+spacers. We just happened to live on a space station. We did not enjoy
+space travel. The long runs through hyperspace either bored us or
+frightened us. We liked our creature comforts and for the most part,
+we could get them. We could even spend time in the garden areas,
+pretending we were planet side. I had a favorite bench in a little
+grove of trees. Right now I could not remember their name or where
+they came from. A week living on transfer Point Seventeen had robbed
+me of that beauty.
+
+The weapon was not a soul killer. This transfer point is the soul
+killer.
+
+Then I remembered. The weapon was not real.
+
+So what was the point of all this?
+
+One of the dangers of police work, especially the private work i do,
+is becoming emotionally involved. At first, I was in danger of
+becoming emotionally involved with Suri Iglesia. Perhaps I had become
+involved. Perhaps I still was. The ability to walk away is very
+important.. Jack Whicher told me that all the time. It might work well
+in novels to have the investigator solve the crime on his or her own
+time, but practically speaking, that makes no sense. There are other
+jobs and others things to do. If you are invested in one outcome or
+another, you are bound to get into trouble. 
+
+I knew all that, but there was no where else to go and nothing else to
+do. I resolved to get to the bottom of this mess.
+
+To that end, I went in search of Suri Iglesia.  Had I not, had I
+returned to Captain Star Runner's ride, this story would have had a
+very different ending. 
+   
+
