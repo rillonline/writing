@@ -4000,4 +4000,1463 @@ To that end, I went in search of Suri Iglesia.  Had I not, had I
 returned to Captain Star Runner's ride, this story would have had a
 very different ending. 
    
+Chapter Seventeen: Asking Questions
+-----------------------------------
 
+.. NOTE:: I do not know how to go about writing this chapter. Ronnie
+	  wants to get to the bottom of things. How will she start
+	  going about it?
+
+
+My first order of business was to figure out who to talk to first. The
+logical person was Suri herself.
+
+Tracking Suri Iglesia down was not an easy matter. I continued to
+maintain my male identity. This made for social complications. 
+
+* Did I have an appointment
+  
+* Was I on the approved list?
+  
+* What was this in reference to?
+  
+* Did I have a referral?
+  
+* Did I have a letter of introduction?
+
+The man asking me these questions was not so much a footman or a
+butler but a bouncer. He was quite intimidating. I had no idea if Suri
+was in at the complex of rooms called her home. The local word was
+compound. I simply did not go away and kept asking to see her on a
+private matter. Apparently that was not sufficient.
+
+I stood in one of Transfer Point Seventeen's unadorned and grimy
+corridors facing a non-descript metal door. There was no doubt in my
+mind it was reinforced with a sophisticated locking mechanism. I could
+not see the man I was speaking to, but I was certain he could see me
+via the security cameras placed at strategic points around the door,
+above me and in the corridor itself. The door looked old like
+everything on Transfer Point Seventeen. At some point in its history
+there was an attack or someone tried to force their way in. The door
+was scorched. Jagged lines scored its surface and there were numerous
+holes. I could not tell how deep either defacement went, but I could
+not see light through any of the holes.
+
+"You will have to give me something," the bouncer was saying, "or this
+conversation will end and it will not be restarted."
+
+What could I say to get this man to contact Suri? I took a deep mental
+breath and took a chance. What else could I do?
+
+"I represent Heracles Beja," I said.
+
+"Heracles Beja is dead," the man said dismissively. "You cannot
+represent him."
+
+"OH yes I can," I said, suddenly feeling my role. "I represent
+Heracles Beja's interests and his part of the intellectual property
+from Planet X."
+
+The bouncer hesitated. He would have no intimate knowledge of what
+happened on Planet X or perhaps even what intellectual property there
+might be.
+\"Very well," He said. "I will determine if it would be appropriate to
+see Suri Iglesia on this matter or whether it would be better for you
+to speak to someone else in the family."
+
+That was not what I had intended, but I was committed. Perhaps a
+family member would be more helpful than Suri had been. She had a lot
+of explaining to do.
+
+After a long wait, the door swung open. There was a lot of squealing
+noises. Did anyone on this Transfer Point know anything about greasing
+hinges? Why did they use hinges anyway? (Later I learned that
+everything on the transfer point was mechanical so that a power
+failure would not interrupt the opening and closings of doors. This
+meant, of course, that no area could be quickly sealed against an air
+leak or other calamity. This would have dire consequences for Transfer
+Point Seventeen later.)
+
+.. ADMONITION:: NOTE TO SELF
+
+	    A dramatic possibility is an attack on the transfer point.
+	    There could be a significant breach with many deaths. I am
+	    not sure if I want to go down that avenue but it does make
+	    for some excitement. It may be a good way for Detective
+	    Ronnie Camberwell to discover Captain Star Runner has left
+	    the transfer point despite Star Runner's promise to her. 
+
+I was escorted through several rooms before I went through another
+scorched, scored and shot up door into another section of the
+compound. Clearly this was a more lived in area. There were actually
+carpets on the metal floors.
+
+I entered a small sitting room. Suri Iglesia stood in its center.
+
+My escort allowed me to enter while remaining in the doorway.
+
+"You may leave," Suri instructed him.
+
+"But Celser," he began.
+
+"I said 'leave us'," Suri snapped. He left, but did not close the door
+behind him. Suri went to it quickly and very quietly closed it.
+
+"What are you doing here?" Suri said, whispering and seeming to hiss
+at me.
+
+Having heard a Pantheran really hiss, her attempts at outrage did not
+impress me. When Captain Star Runner hisses, she arches her back and
+puffs up all over. It is quite an impressive sight. Suri Iglesia on
+the other hand seemed far more frightened than angry. Her anger was
+only a cover for something else--fear most likely.
+
+"I came to report," I said. "Your bouncer was quite unsympathetic to my
+attempts at not drawing attention to either myself or you."
+
+"You should not have come here." Suri Iglesia scolded me.
+
+This cloak and dagger approach was getting tiresome. Transfer Point
+Seventeen was certainly tiresome: the food, the air, the whole look
+and feel of the place. I yearned for Half Moon Bay Station. Was that
+now representing home to me? I was not certain. Perhaps it only
+represented what security I ever felt I had.
+
+Suri said, "And you should never mention Heracles Beja, especially
+here." She literally stamped her foot in frustration.
+
+"We need to talk," I said, folding my arms in a Lystran gesture of
+absolute immovability.
+
+"Not here," Suri Iglesia repeated.
+
+"Then where?" I asked. "It has to be now."
+
+"I cannot leave right now," Suri Iglesia said in that same low urgent
+voice. "There will be too many questions."
+
+"Where then?" I asked. "When?"
+
+"Number twenty-eight maintenance tunnel," she whispered. "You know the
+place."
+
+I did. At the appropriate time, I went there.
+
+And that is when Suri Iglesia pulled the ray gun on me.
+
+I do not know what the emergency in her household was or if it was a
+well-played means of getting me to maintenance tunnel twenty-eight.
+Either way, Suri Iglesia was holding a ray gun on me.
+
+"You know too much," Suri Iglesia said. "I cannot afford to have you
+asking questions."
+
+I wanted to ask her many questions. I wondered why she thought she had
+to kill me. I had learned enough in my short time on Transfer Point
+Seventeen that her family was important enough to keep her out of
+trouble but not very important in the scheme of things. She could be
+shuttled off somewhere where her youthful indiscretions could be
+overlooked and then forgotten. After the birth of her two baby pair,
+could assume the role of a pampered Lystran matron and everything
+would go on as usual. I did not have to die. Why did she think I did?
+
+You would think being in an awful maintenance tunnel with a slightly
+hysterical woman pointing a ray gun at you would be terrifying. I
+thought about getting into being terrified, and then I channeled the
+male Lystran I was pretending to be. 
+
+"Put that stupid toy down," I said as firmly as I could. "The ricochet
+could be heard and it could bounce back and hurt you."
+
+Suri waved the ray gun around which was quite frightening. 
+
+"I know how to use this," she insisted.
+
+"I am certain you do," I said. And then all at once I knew the answer.
+It was the answer Captain Star Runner gave me back on Planet X.
+
+"Why did you killed Heracles Beja," I asked calmly.
+
+It is true, you know. Criminals really do like boasting about their
+exploits. If I could keep her talking and learn her reasons, perhaps
+there was a way out of this impasse.
+
+"He was going to publish my work," Suri Iglesia said, seeming to
+forget about the ray gun altogether. It started to lower. I breathed a
+little easier.
+
+"I only brought him along as cover and to do some of the harder bits.
+He wanted to publish all my work and take credit for it."
+
+"That sounds like a problem," I said, wanting to keep Suri talking,
+wanted to follow her tangled logic.
+
+" I knew him in school, of course," Suri continued, "He was bright
+enough. I figured he could be useful, you know, doing all the grunt
+work out there. You know what it was like."
+
+"Yes," I said. "Then what happened?"
+
+"He took all my notes," Suri said, outrage coming into her voice. She
+was becoming strident. "He copied them out himself, creating a field
+notebook in his own writing. I had to destroy it, of course."
+
+"Of course," I agreed, knowing that no such thing had happened. Suri
+Iglesia had attached herself to a rising star in the archaeological
+field. When his work was complete, she had copied his work and then
+killed him for her own ends.
+
+
+"And do you have the notes?" I asked, hoping that was the right thing
+to say.
+
+"You bet I do," Suri said. "I do not have them stored in any of the
+linked systems. I do not want my work to get out until I am ready to
+publish. People will be very surprised when I publish my work."
+
+"Why is that?" I asked. Keep her talking. Whatever happens, keep her
+talking. I did not dare move toward her though she had just about
+forgotten she was holding the ray gun. I could not move fast enough to
+wrench it away from her. I was strong enough. I was just too far away.
+
+"I am not ready to publish it yet," Suri Iglesia said. "I have more
+work to do on it. People will be very surprised."
+
+"Really?" I said. "Why is that?"
+
+"Because everybody thinks those structures are only a couple of
+thousand years old. They are much older than that. The people who
+built them are really, really old."
+
+"Who are they?" I regretted my question as soon as I had asked it.
+Suri's demeanor changed. She brought the ray gun back up on me.
+
+"Never mind who they are. You do not need to know. You do not need to
+know any of this."
+
+I saw her finger move. She was trying to unlock the safety.
+
+I tried to be ready. When she looked down to unlock the safety, I
+needed to move fast. It is a complicated lock. It is designed that way
+so the ray gun does not go off prematurely. That makes it a poor
+choice for killing people as Suri was trying to kill me.
+
+Suri looked down.
+
+I moved.
+
+Just as I reached her and she released the safety, the alarm sirens
+bleared.
+
+"This is not a drill. We are under attack. Report to your designated
+locations. This is not a drill. We are under attack."
+
+Suri Iglesia screamed. Whether she screamed because I grabbed her arm
+or whether she screamed because of the siren bleating over our heads I
+do not know. She wrenched away from me and ran, quickly disappearing
+from view.
+
+"This is not a drill. We are under attack--"
+
+I scooped up the ray gun and I ran, too. I did not run toward any
+designated area. I ran toward the docks and Captain Star Runner's
+ride. This might be our chance to escape.
+
+I ran through corridors, pushing past people--all sorts of people. I
+did not care if I bumped them, if they went down. I just ran. Barely
+able to catch my breath, I ran onto the long platform where the
+spaceships were docked. I ran to the place where Captain Star Runner's
+spaceship was.
+
+And it was not there. There was an empty space. The ride was gone.
+
+Stupidly, I ran up and down the platform, looking at all the
+spaceships. The bronze disc was not there. There were only torch
+ships.
+
+I ran to the dock office Someone was there. I asked where Captain Star
+Runner's spaceship was.
+
+"Left three days ago," the dock office worker said disinterestedly. 
+
+"Where did she go?"
+
+"I have no idea," the dock office worker said. "I was not on duty then.
+I am closing up now. You should be at your designated area."
+
+I was thunderstruck. Captain Star Runner had left Transfer Point
+Seventeen without me. How could she do that? She had promised. She had
+not even communicated with me about it.
+
+The Transfer Point shook violently. I staggered, knocking into the
+wall. The dock office worker, who was walking past me, put out his hand
+to steady me, then the space station lurched again. We fell in a heap
+onto the floor.
+
+"Emergency personnel report to section thirty-five, thirty-six and
+thirty-seven," instructed the loud speaker over our heads. "Sections
+thirty-eight, thirty-nine, forty and forty-one are open to space.
+Refrain from proceeding to those sections."
+
+I tried to think where those sections were."
+
+"The upper echelon living areas," the dock office worker gasped. "That
+is where they would have reported to."
+
+That meant many of the upper class families were dead. Perhaps Suri
+Iglesia was one of them.
+
+"Do you know who is attacking us?" I asked. I was still in my role as
+a Lystran from somewhere else in the empire.
+
+We were getting to our feet.
+
+"I heard it was the People of the Golden Sun," the dock office worker
+said. 
+
+We left the dock area together. I figured it did not much matter where
+I went. If I had a designated area, I did not know what it was. This
+was not my fight, but I was here. What else was there for me to do? 
+
+The dock office worker had said the attack was by the People of the
+Golden Sun. That made no sense at all. Lystra was at war with the
+People of the Rainbow Sky and so by definition, the People of the
+Golden Sun should be their allies. Had something changed? I was not
+following the conflict particularly closely. I really was not that
+interested so long as the fighting war stayed far away from my
+location.
+
+I was turning a corner when it happened. The dock office worker had
+run ahead of me, anxious to get to his designated area. I was just
+following along, wondering where I was going and what would happen when
+I got there.
+
+Suddenly a door opened and someone stepped out. Someone very odd
+looking. For a split second I saw the head, the ears, the whiskers.
+Could it be Captain Star Runner? Of course not. This being was erect.
+The color was all wrong. What sort of a being was this? Was this the
+enemy? Was I about to be captured? Tortured? Killed?
+
+I stepped back. The being stepped in front of me and said, "Detective
+Ronnie Camberwell. I have been looking for you."
+
+
+Chapter Eighteen: A Change in My Perspective
+------------------------------------------
+
+.. ADMONITION:: NOTE TO SELF
+
+		1. By rights, I should switch to Captain Star Runner's
+		   perspective on this story. I know where Captain Star
+		   Runner goes, to the People of the Rainbow Sky. What I
+		   still do not know is why.
+
+		2. I also have the problem of knowing what to do with
+		   Salim and Pru Dillow. They provide a little information, but for
+		   their appearance to make sense, they need to go along
+		   with Captain Star Runner and have a meaningful part to play in the narrative.
+
+I just stood in the corridor and stared at the alien. It was quite
+tall and quite thin. It had four arms, two on each side. It was
+striped and as I had initially thought, it had a cat's face. Whereas
+Captain Star Runner's face more closely resembled a domestic cat, this
+individual's face was flatter as if a human being was trying to look
+like a cat. It had whiskers and cat ears on top of its head. It did
+not have green eyes. Stupidly my mind said, it does not hunt at dawn
+and dusk. It does not stay out at night.
+
+"We do not have much time, Detective Ronnie Camberwell" the alien said to me in accented basic.
+This was not the meow-sounding speech of a Pantheran. "Do you have the
+reports?"
+
+I stared at the alien, speechless.
+
+"I cannot read minds, Detective Camberwell," the alien said. Its tone
+was calm which was very odd. The transfer point was shaky. Alarms
+continued to sound. Announcements repeated over and over.
+
+"Reports?" I finally repeated. "Suri Iglesia has the archaeological reports. She
+copied them from Heracles Beja.
+
+It was the alien's turn to be silent. I could not read the expression
+on its face. Its whiskers were twitching.
+
+"I know nothing about archaeological reports," it finally said. "We
+want the other reports you have."
+
+The transfer point rocked violently. We were both thrown to the
+corridor floor. Then the gravity went off. More alarms sounded. More
+instructions came over the loud speakers.
+
+"Come with me," the alien said. "The station is breaching everywhere.
+We must get back aboard ship."
+
+I am a total loss at moving when there is no gravity. The alien knew
+how and used its arms to pull us from handhold to handhold, eventually
+getting us into an open area where it could launch itself from ceiling
+to floor in a way that made sense. We were back in the docking ring.
+We got aboard a spaceship and left Transfer Point Seventeen none too
+soon. When we were fully clear of it, the space station blew up.
+
+I saw this on the view screens in the control center of the spaceship.
+I was strapped into an acceleration couch. The spaceship was going as
+fast as it could toward a jump gate.
+
+"Why did you blow up the transfer point," I asked. I was glad to be
+alive but I was certain I was a prisoner.
+
+"We did not," the alien, who appeared to be the captain, replied. "It
+is coincidental that we arrived when the attack began."
+
+"I do not understand," I said.
+
+"We will explain everything to you when we are at cruising speed in
+hyperspace," the captain said. "Right now we need to concentrate on
+getting clear before we are noticed."
+
+Their own language was rapid and in a low register. I could tell by
+the view screens when we inserted into hyperspace. There were a number
+of course corrections. Then there was quiet.
+
+"We will go to our discussion room," the captain said.
+
+The captain and my rescuer detached themselves from their acceleration
+couches. My rescuer detached me and assisted me in the weightless
+spaceship to navigate to a very comfortable conference room.
+
+"This cabin functions as our discussion room, our recreation room and
+our dining area," my rescuer said. "You can see our galley facility on
+the far wall. We hope our fare will be eatable for you. Our medical
+officer will do some tests to determine if it is and what can sustain
+you if it is not."
+
+That sounded quite dire to me.
+
+"We had not intended to take you off the transfer point," the captain
+explained. "However, the attack changed all that. It would have seemed
+cruel to abandon you to your fate."
+
+"And what is my fate?" I asked. Starvation sounded like a possibility.
+Test subject might be another prior to starvation.
+
+"Your 'fate', as you put it, is up to you," the captain said. "You are
+not our prisoner. You are our guest."
+
+"Could we begin at the beginning?" I asked. "Do you have water? And
+who are you and what do you want that you think I have?"
+
+"I am Harnoff," the captain said. "This is Janker. We are Tigerfu."
+
+"I have never heard of Tigerfu," I said.
+
+"It is a long story," Janker said. "We will have time to go into our
+history, but the short version is that we are people who once lived on
+the world known as Planet X."
+
+"but you did not want the reports from Planet X," I said.
+
+"What reports?" Captain Harnoff asked. "I do not know about any
+reports from Planet X."
+
+And so we began our exchange of information.
+
+Perhaps it was the shock of first being almost killed by Suri Iglesia
+or the attack or the betrayal of Captain Star Runner or the
+destruction of Transfer Point Seventeen or everything that had
+happened or it had nothing to do with any of it. I liked these aliens.
+They were kind and courteous. I could not eat most of their food, but
+they were generous with what I could eat and the medical officer could
+synthesize some vitamins and minerals to keep me going. She knew what
+food stuffs of theirs I could eat when they reached civilization, as
+she put it. I could thrive on their worlds. I liked that idea.
+
+"We are engaged in responding to forces here in the Primary Arm,"
+Captain Harnoff said. "We were not a part of the attack on the
+transfer point. We believe that was initiated by the People of the
+Rainbow Sky. They are old, very old, enemies of the Lystran Empire."
+
+"I did not think they were actively participating in the war," I said.
+"I thought they were trying to contain the People of the Golden Sun."
+
+"The propaganda the People of the Rainbow Sky put out is that they are
+a benign elder race that only want to maintain the status quo," Janker
+said. "If we are fair, and it is often hard to be fair, the People of
+the Rainbow Sky are more concerned with their own interests than that
+of the rest of the Primary Arm. But of late, and I mean for several
+centuries, they have become more active again. Even this would not
+have been worrying except that they have revived their connection
+lately with our old enemy, the Followers of the Stars."
+
+I stared at them.
+
+"the Followers of the Stars are in the western spiral arm," I said. "I
+ personally have never met one of them, but I know several people who
+ have."
+
+This intelligence surprised both of my new friends.
+
+"Who?" Captain Harnoff asked.
+
+I was frightened. They both realized this. Had I said too much?
+
+"We are just surprised," Janker said. "We are curious that the
+Followers of the Stars had contact with outsiders."
+
+"People in the western spiral arm discovered a toxic chemical site
+from a long-ago war," I said. "One of those people was a
+fuchsia-colored P\Pantheran," I said. "We learned the site was from a
+genocidal war against the Trollolu. The Pantheran, my on and off
+lover, accepted a commission to go to the Primary Arm. I returned to
+my own world."
+
+"We have heard of this fuchsia-colored pantheran," Captain Harnoff
+said. A Pantheran had not been seen in the Primary Arm for many
+thousands of years."
+
+"Were they common here?" I asked.
+
+"Our histories tell us so," Janker said. "They are fearsome warriors.
+They once were the pilots of all space faring vessels. They built the
+original jump gates."
+
+"They were maintained by the People of the Rainbow Sky," Harnoff said.
+ "I did a report on them for school when I was a juvenile. They were
+ introduced into the Primary Arm by the Followers of the Stars."
+
+"They were instrumental in driving us from our home world," Janker
+said.
+
+"Our home world is the planet you call Planet X. The Followers of the
+Stars took it over after we were driven out."
+
+"That was twenty thousand years ago, right?" I asked.
+
+"About that," Janker said. "How do you know? The People of the Rainbow
+Sky and the Followers of the Stars have made great efforts to
+eliminate even the knowledge of our race."
+
+"Because of the work Heracles Beja was doing there recently," i said.
+"He was analyzing pigment samples on a stone wall."
+
+"Are those the reports you were speaking  of?" Janker asked. "The ones
+you thought I wanted."
+
+"Yes" I said. "What reports did you want."
+
+"Two men were killed on Transfer Point Seventeen," Harnoff said. "An
+unusual weapon was used."
+
+"No one was killed," I said. "I investigated. No one knew who these
+men were. They never existed. The weapon described was an
+impossibility."
+
+Janker twisted his ears. I had already learned this was a negative.
+
+"The weapon does exist," he said. "That is why we want the reports."
+
+I shared what I had with them. They were quite excited and murmured
+together over them for some time. I was very tired. I asked to be
+excused.
+
+The medical officer, her name was Suchee, showed me to a quiet and semi-private  
+space. I stretched out and began to cry. Suchee sat with me, making
+low rumbling noises which I took to mean comfort.
+
+"What is wrong?" Suchee finally asked when I had stopped crying.
+
+"She left me to die," I said.
+
+"Who left you to die?" Suchee asked.
+
+"Captain Star Runner," I said. "She promised she would not leave
+without me and she left me there to die. If Janker had not come
+looking for me and took the time to save me, I would be dead. We were
+not getting along very well. But that was no reason to let me die."
+
+"We do not know all the facts," Suchee said. "I know you are
+frightened and feeling all alone. Any reasonable person would feel
+this way after what has happened to you. This is especially true of
+humanoids in my experience. The only comforts I can give you are
+these: You are safe here. We will make sure you can live somewhere
+safe when we get back. Our route takes us deep into Tigerfu-controlled
+space. There is no war going on there. The second thing I can tell you
+is that without the facts, we do not know if Captain Star Runner left
+voluntarily or not. It may not have been her desire to abandon you.
+Perhaps she thought she could get back in time to save you. Perhaps she
+thought you would be all right while she was away. The attack was
+well-executed. It was a total surprise. We monitored all the
+communications."
+
+"Was there any communication from Captain Star Runner?" I asked. It
+was a silly thing. How would they know. Were they there at the right
+time to find anything out?
+
+"I will have Janker check," Suchee said. "Can you give him some more
+information?"
+
+"I think I can,," I said.
+
+"Then we will look and see," Suchee said.
+
+And she left me alone to sleep.
+
+When I awoke, Janker had some information for me. 
+
+Chapter Nineteen: Sitting by a Fountain
+-----------------------------------------
+
+The Tigerfu brought me to a place they called the Habitat. This was a
+large domed complex on a planet far from the war zone. My rescuers did
+not bring me all the way here. Several different very kind Tigerfu
+shepherd me on my journey. At all times they told me and treated me
+ass their honored guest. I was touched by their consideration and
+their gentle ways. It seemed strange to me that these quiet and
+patient people were aggressors in a war.
+
+I gained very little information on my long journey. They listened to
+me tell my story of betrayal over and over. When I asked questions,
+they told me I would have my questions answered when I reached the
+Habitat.
+
+I imagined the Habitat to be a complex space station, something like
+Half Moon Bay Station, with myriad pods held together with rings of
+docks for shipping. The reality was far nicer and a pleasant surprise.
+
+When I say the Habitat was a domed city, I am not quite accurate. It
+is a series of domes, each of which can be self-sustaining if the
+others breach. As a result, even the urban areas have large productive
+gardens. 
+
+Consistent with their gentle ways, the Tigerfu decided to be
+vegetarians. They grow their own food very carefully without undue
+chemical interventions. Every Tigerfu learns how to cultivate a small
+garden so that the entire race is able to step in to feed themselves
+in case of disaster.
+
+"Once, my teacher said, "we were a highly specialized society. When
+our disaster came, we almost failed because so few of us knew the
+basics. Food sufficiency was one of the core studies we decided to be
+part of every Tigerfu juvenile's education. We also added basic
+programming and the use of hardware and software for communication.
+Each Tigerfu must select a specialty. We monitor so that the
+specialties are well-balanced. For example, we make sure we have
+medics. We also make sure we have people to repair our domes, produce
+potable water, process our waste. Sometimes our specialty choice is
+turned down because we have so many with that specialty. We give
+assign the juvenile to a needed specialty. If later they want to add
+to their proficiency, we allow that, but they must maintain their
+certification in their first core competency. It is a matter of pride
+among us if we have certification in several areas.
+
+"What about you? What are your specialties," I asked. I had no doubt
+he had more than one.
+
+
+Gemall smiled. "I am a juvenile teacher, of course. My specialties are
+water management and disaster relief. I work several weekends a year
+in the public works section and I train regularly in disaster relief.
+From time to time I go off planet to help in a natural disaster. There
+were terrible floods on one planet three years ago."
+
+Gemall and I walked daily in the gardens. When Gemall was not
+available, I walked with my Counselor, Dibenan. Both of these Tigerfu
+spent many hours with me. When I was not with them, I had my own room,
+arranged as I wished, with a large window overlooking a quiet
+courtyard. There were benches and a fountain with a few potted growing
+things. Some were vegetables while others had flowers. Vines were on
+trellises overhead. The fountain added humidity to the air. The
+plantings consumed carbon dioxide and returned oxygen. It was a
+pleasant place to sit. The other residents of my building gave me
+expressions of friendliness, but did not intrude. I ate with them at
+the common meals. As they spoke in their own language and as my
+ability to converse in it was still very minimal, I enjoyed their
+company without participating in their interactions.
+
+I learned these were students. It was thought that although they were
+younger than I was, they could provide a supportive atmosphere and
+interacting with me would be helpful to them as well.
+
+In a way, I was a pedagogical tool. In another way, I could provide
+value as part of the society and I appreciated the opportunity to give
+in my limited way. Although the Tigerfu had a very good safety net,
+they also expected everyone to contribute as they were able. If you
+could contribute and did not,, you were shunned. Social pressure led
+to conformance in many cases.
+
+"Is there much crime here?" I asked Gemall one day.
+
+"Some," Gemall said. "Why do you ask?"
+
+"I am a police officer by training," I said. "I have also done private
+investigations and worked as a body guard. I was wondering if my skill
+set is useful here."
+
+"Yes," Gemall said. "I would like to tell you, as a member of a
+different race, that we had no crime here, but you probably would not
+believe me even if I said it."
+
+I smiled. Gemall and Dibenan were beginning to recognize this facial
+expression. I was still woefully inadequate at reading Tigerfu body
+language. They still needed to tell me when they were joking which
+they did often.     
+
+"No, I would not believe that any society had gone past crime," I
+said. "Temptation, greed, pride--all what we humans called deadly
+sins--seem to exist in all societies I know about except the Fungusian
+Network."
+
+"No you are correct," I said. "I would not believe you."
+
+Gemall made a gesture with her paw arms. I knew this was a smile. "You
+will have to speak and understand Tigerfu much better before you can
+operate in law enforcement."
+
+"I take your point," I said. "I must redouble my efforts."
+
+Later that day Dibenan asked, "How are you finding living here among
+us?"
+
+I thought for a while, watching the fountain splash down on some
+fantastical water creatures.
+
+"I miss my home," I said. "I miss my friends. And despite her
+betrayal, I miss Star Runner. But missing them aside, I am quite
+comfortable here."
+
+"But--" Counselor Dibenan prompted.
+
+"But it is still very unreal," I said. "It is like being in a movie. I
+keep thinking it will end. I will find myself removed from my
+residence, removed from knowing anyone like you or Gemall, and among
+some brutish aliens where I cannot trust anyone."
+
+"Trust is a major issue for you," Dibenan said.
+
+"Yes," I said.
+
+"It has been a major issue for you from your juvenile period. Yet,
+from what you have told me, there have always been people who have
+stepped in and renewed your trust in others. Mr. and Mrs. Parge raised
+you when your parents could not, for example."
+
+"I have not made wise choices as an adult," I said.
+
+"Let us test that assertion," Dibenan suggested.
+
+"All right," I said. "Let me provide you with a list and you tell me
+what you think."
+
+"That is a good idea," Dibenan said.
+
+So I began:
+
+* Captain Star Runner
+  
+* Tara Lee Harris
+  
+* Gyllian Romeres-Lujo
+  
+* Tamara
+  
+* Josh
+
+I provided Dibenan with background on each of these and a few others
+who are unknown to the readers of these chronicles.
+
+Dibenan listened with her full attention, a common trait among
+Tigerfu. She was quiet for some time. Like me, she studied the
+fountain. Unlike me, she probably saw more of the essence of fountain
+than I did.
+
+"Relationships are much like this fountain," she finally said. "There
+is practicality. The fountain provides humidity. There is also beauty.
+Sometimes the water catches the light just right and there are tiny
+rainbows. We hear the sound of the splashing water and it soothes us.
+I look at the sea creatures and remember our myths and legends about
+them. This gives me joy and perhaps even a bit of sorrow that they are
+fictional representations of greater truths. 
+
+"Relationships can also be annoying. The sound of water can become
+irritating. The water can be cold and wet and make us uncomfortable."
+
+She paused.
+
+"Relationships are not all one way and not all one way all the time.
+There are uncomfortable bits worked into joyful bits worked into
+routine bits worked into sorrowful bits. They ebb and flow and
+circulate like the water in this fountain."
+
+"Betrayal is like letting the plug out and all the water draining
+out," I said. "There is nothing beautiful in that."
+
+"Not beautiful exactly," Dibenan said, "but sometimes it is necessary
+to turn the fountain off, drain the water and thoroughly clean and
+repair the fountain before starting it up again. Part of what I think
+you need to wrestle with is possibilities."
+
+"But I do not want to--" I began.
+
+"Hush now," Dibenan said in her gentle way. "Tell me if any of these
+individuals intended to betray you?"
+
+I thought about this. I tried to think honestly about this.
+
+"Having different goals, having different priorities from you is not
+betrayal," Dibenan continued. "Tara Lee, your former human lover,
+wanted a monogamous lifelong relationship with you. You were unwilling
+to give up your affection for Captain Star Runner and the excitement
+of being with an alien in order to meet Tara Lee's desires. You have
+been in conflict with both Tamara and Gyllian Romeres-Lujo because of
+their special relationship with Star Runner and with their different
+objectives, their loyalties to different institutions."
+
+"You are painted me as quite a selfish person," I said. I knew I
+sounded petulant.
+
+"Are you a selfish person?" Dibenan asked.
+
+"I do not think so," I said. "I have strong opinions about what I like
+and I do not like."
+
+"Do you think of yourself as a negotiator, as a person who is willing
+to change for the sake of another's happiness or needs?"
+
+I was silent. Dibenan did not speak while she waited for me to say
+something.
+
+"I have always wanted to be a police officer," I said..  Both Mr. and
+Mrs. Parge were very keen on what was right and what was wrong. Police
+work can be very good for a person who likes the world ordered in that
+way. They were very scandalized by my relationship with Captain Star
+Runner. In their minds, associating with an alien in an intimate way
+was obscene. Consorting with a Pantheran was disloyal to the human
+race. I think I have always been afraid that their assessment of Star
+Runner would be accurate."
+
+"And every time Star Runner behaves in a manner consistent with your
+foster parents' ideas about aliens and Pantherans in particular, you
+pull back from your relationship," Dibenan said.
+
+"But Star Runner promised," I said. "She promised not to leave me on
+the transfer point."
+
+"Have you kept every promise you ever made?" Dibenan asked. 
+
+I did not answer her. Of course I had not kept every promise I ever
+made. Who had?
+
+"Unless you discover Captain Star Runner's reason for leaving the
+transfer point without you, you cannot know for certain. In our
+teachings, the Tigerfu wise ones say we should always give the other
+the benefit of the doubt. We should always imagine the other is
+trustworthy and has failed due to circumstances beyond their control.
+We try to find the most helpful explanation for someone else's actions
+or to find some good in what they did. If Captain Star Runner left
+prior to the attack, perhaps Captain Star Runner is still alive. If
+she had stayed, she might not have been able to rescue you and save
+both of you. As it is, you are alive and very likely, Captain Star
+Runner is, too."
+
+"But if she loved me, she would have stayed," I said, tearing up
+again.
+
+Dibenan waited for me to get control over myself.
+
+"And if you loved Captain Star Runner," she asked in her soft voice,
+"would you have left her ride and gone aboard Transfer Point
+Seventeen with the Lystran woman?"
+
+That was a very hard question. I did not answer Dibenan. We sat for a
+time in silence. At last Dibenan said, "It is time for me to leave. I
+will talk with you again tomorrow."
+
+I watched her leave the courtyard by the gate onto the walkway between
+buildings. She walked purposefully, not looking back. I wondered if I
+had let her down. As a counselor, letting her down did not seem
+possible. But as an individual, did she see me as a selfish, immature
+alien who did not strive for the higher ethics the Tigerfu practiced?
+I did not know. I would have to ask Gemall in the morning. Was it
+possible that I held everyone else to a higher standard than I was
+willing to set for myself?
+
+Confused and with a heavy step, I left the courtyard, too, and
+prepared for the evening meal.
+
+As either penance or my first step on the path to better living, I
+concentrated on the conversation around me and spoke a few words. I
+was greeted with encouragement, appreciation and yes, some humor, at
+my bad pronunciation and grammar. I think at one point I called our
+plate of beautifully arranged and steamed vegetables engine grease.
+
+
+Chapter Twenty: Visitors Come to the Habitat
+----------------------------------------------
+
+Armed with my decision to interact more with my new environment, I
+explored the area around my living quarters and the park. I was living
+on a campus. Schools of varying kinds operated here. Gemall advised me
+not to go beyond the school grounds.
+
+"Why?" I asked. "Am I under house arrest?"
+
+"You are not," Gemall explained. "The problem is you are humanoid. We
+are fighting a war against humanoids. Your identification clearly
+labels you as not one of the races we are fighting, but people get
+excited and they may not take time to correctly identify you."
+
+I was astonished. "From all you have told me, I thought the Tigerfu
+were more enlightened than that."
+
+Gemall made the humor gesture. "We like to think we are," he said.
+"However, Tigerfu are no different than anyone else. We accept people
+who look like us. We are suspicious of those who do not. You do not."
+
+"You spoke of my identification," I said. "What is that?"
+
+"The arm band you wear," Gemall said. "We all wear them. It identifies
+who you are over the net."
+
+"You have a net?"
+
+"Of course," Gemall said. "We were wondering when you would ask about
+it."
+
+"Who is we?" I asked.
+
+"Dibenan, me and a few others that supervise your integration into our
+society," Gemall said.
+
+"I do have a link," I said. "It has not been integrated with your
+net."
+
+"We are looking at that," Gemall said. "So far we do not see a way to
+connect the two of them."
+
+The armband could not directly interface with my brain as it is so
+different than a Tigerfu brain. However the technologists were able to
+fabricate an interface for me consisting of a screen I could carry
+with me and I could speak to it. It was not as private as a
+brain-connected link, but we set it up to understand basic galactic so
+I could interface with it easily. It could also understand Tigerfu so
+I could practice my language skills. If I slowed the speech down, I
+could also understand most of what it said in Tigerfu. Many of the
+sounds were hard to distinguish. Part of the problem for me is that
+Tigerfu has some very high sounds and some very low sounds. They are
+virtually beyond my ability to hear.
+
+In my explorations, I found a lovely bistro   
+
+at the edge of campus. Gemall had explained that I had a modest
+stipend which also covered my room and board"Every Tigerfu is entitled
+to this stipend," he explained. "We thought it was the simplest way to
+allocate your expenses. Of course," he added in his serious voice,
+"you are expected to contribute to society as you are able."
+
+"I plan to do just that," I said. "We have spoken about law
+enforcement."
+
+"Yes, we have," Gemall said. "We are exploring that and some related
+possibilities."
+
+No matter how many additional questions i asked, I could not find out
+more about this mysterious we or what related possibilities might
+mean. When I brought the matter up with Dibenan, she only said that
+"we" referred to a committee on which both she and Gemall were members
+and related possibilities simply meant looking at tasks I had the
+aptitude and interest to perform.
+
+"That is still a ways down the path," Dibenan had said. "You need to
+be far more competent with your language skills and your grasp of
+Tigerfu society."
+
+To this end, I walked into the bistro.
+
+People of course noticed me. I selected a beverage and a popular
+snack. I fumbled a great deal connecting my identity and its
+associated financial identity to the payment system, but I managed it
+after several tries. No one became impatient. I realized that in a
+busy market my fumblings would annoy people. My alien status would
+upset them. Gemall and Dibenan were right. I was nowhere near ready to
+ take on Tigerfu society as a whole.
+
+I carried my treats outside to a bench under a tree with large red
+blossoms. To me, it had a delicate aroma. To the Tigerfu, it had an
+overwhelming fragrance. The trees were prized for their fruit and so
+they were common throughout the campus. 
+
+
+"Here you are, Ronnie," a Tigerfu voice said.
+
+I looked up. Two Tigerfu were approaching me. I did not recognize
+them. To me, it is hard to tell one Tigerfu apart from another. I was
+still  learning how to use my wearable link to read their
+identification information. These two Tigerfu were military.
+
+"We're Janker and Suchee," one of them said.
+
+I of course got them mixed up. They made the humorous gesture and I
+laughed. No one was offended thankfully.
+
+I was delighted to see them and told them so.
+
+"What are you doing here in the Habitat?" I asked you. "It is a long
+way from the front."
+
+"We are on leave," Suchee explained. "We came here to see our family."
+
+"The grandchildren are growing cubs," Janker explained. "If we are away
+too long, we hardly recognize them."
+
+"You are a couple, then?" I asked.
+
+"For many years," Janker said. "We have three grown cubs and four
+grand cubs."
+
+"Wonderful" I said. "I had no idea."
+
+"We did not want to burden you with more than you could handle,"
+Suchee said, sitting down next to me.
+
+"Is the tree a problem?" I asked. "I know many find its blossoms very
+strong."
+
+"Yes, they are very strong," Suchee said, "but they are one of the
+scents of home. Janker and I have been sneezing a lot. Aboard ship we
+have so much filtered out of our atmosphere. But we enjoy all these
+scents so we just sneeze and delight in being home."
+
+Suchee patted my hand.
+
+"We understand you are doing well here."
+
+"I am learning," I said. I wondered if Janker and suchee had access to
+the committee. If they did, they probably would not tell me. They had
+not even told me they were a long-term mated pair.
+
+"The committee thought it was best if we came to visit you," Janker
+began. "We have some news for you."
+
+What sort of news could this pair have for me? I was confused.
+
+"We have word of your Captain Star Runner," Suchee said. "I know her
+well-being is important to you."
+
+Was it? I was no longer sure.
+
+"I am in military intelligence," Janker explained. "That was why we
+came to Transfer Point Seventeen in the Lystran Empire. We were
+tracking down a lead. It turns out you were the most expedient person
+to ask. You had the reports we were looking for to add to our
+intelligence."
+
+I frowned. "The reports were entirely bogus," I said. "I do not
+understand how they could have helped you."
+
+"The reports were not bogus," Janker said.
+
+"The men did not exist," I said. "I could find no evidence concerning
+them."
+
+"Oh, they were real enough," Janker said. "They were agents of the
+Followers of the Stars--not willingly, of course, but they were
+feeding information to the Followers of the Stars. When the Followers
+of the Stars had all the information they needed, the agents
+self-terminated."
+
+"With the soul killer?" I asked, incredulous.
+
+"Is that what you call it?" Janker asked, surprised.
+
+"It seemed the only name for the brain disruption," I said.
+
+"It is a good name," Janker said. "I should recommend it with credit
+to you."
+
+"But why could not anyone give me any information about these men?" I
+asked.
+
+"They were totally forgettable people," Janker said. "They were not to
+make friends or stand out in any way. After their deaths, the records
+were updated to eliminate them. With no proof, you were bound to
+discount their existence."
+
+"Janker was very lucky," Suchee said, patting my hand again. "You had
+all the records."
+
+"And," Janker said, "not to be too patronizing, you were storing them
+in a way I could easily access them."
+
+"I thought my security was state-of-the-art," I said a little
+defensively.
+
+"Not for us," Janker said. He almost sounded like a Pantheran.
+
+Speaking of Pantherans, I asked, "You said you had news of Captain
+Star Runner."
+
+"Yes," Janker said. "She and her ship are in our custody."
+
+"You captured her ship?" I asked. "Why?"
+
+"She was carrying some very important communications for the People of
+the Rainbow Sky," Janker said. "We learned this and intercepted her.
+Wisely, she did not fight us but surrendered, believing we could not
+crack the codes. We did."
+
+"Is Star Runner all right? What are you doing with her?"
+
+"At present, we are evaluating Captain Star Runner and her artificial
+intelligence," Janker said. "Our code experts are going over the
+programming. We have had to call in some biologists and zoologists as
+well. It is a very complicated network."
+
+"Why are you doing this?" I asked. "Captain Star Runner depends on
+Christabel to survive."
+
+"Christabel?" Janker made a gesture indicating  confusion. It was a
+gesture I had learned to read and was working to sign adequately.
+Lacking an extra set of arms, it was quite difficult to execute but quite useful
+to learn.
+
+"Christabel is the name of the AI," I said. "Christabel was built by
+the Fungusian Network."
+
+"And the Fungusian network is a part of the Pantheran Empire," Janker
+said. He gestured uncertainty.
+
+"No," I said. "The Fungusian network is outside the Coalition, the
+group of races the Pantherans control. The Fungusian network is
+independent. You might be able to contact them. They have no love of
+the Pantherans."
+
+"but they designed Captain Star Runner's network," Janker said. "Why
+would they do that?"
+
+I executed the thinking, wait a little while, gesture badly. Should I
+tell them what I knew? Would it help or hinder Captain Star Runner. As
+a prisoner of the Tigerfu, I thought information might help her so I
+plunged in.
+
+A long time ago, the Followers of the Stars oversaw a number of races:
+
+* The Trollolu
+
+* the Pantherans
+
+* the Featherote
+
+* the Fungusians
+
+The Trollolu educated the three other races. Together, they built a
+space faring consortium:
+
+* the Featherote built the ships.
+
+* The Fungusians designed the operating systems and software to
+  control them.
+
+* The Pantherans designed star runners to pilot them. They also
+  engineered other Pantherans to work other aspects of the ship.
+
+Then the Trollolu went to war against the Followers of the Stars and
+were completely annihilated. The Followers of the Stars retired from
+the galactic scene and each of the remaining races continued their
+alliance. The Pantherans became an empire, conquering the Featherote
+and a number of other races. They call it a Coalition so that these
+races can believe they were not conquered. The Fungusians have not
+been conquered. They exist independently.
+
+Janker and Suchee were indicating disagreement.
+
+"What is wrong?" I asked. "Have I gotten something wrong? Do you know
+this history?"
+
+"We know some of it," Janker said. "I will have to inquire from the
+history department here on campus some of the particulars you mention.
+These are unknown to me. Although I am a student of history, it is not
+my core competencies. Here is where I think I disagree with your
+conclusions.
+
+"The Followers of the Stars did destroy the Trollolu. They nearly
+destroyed the Tigerfu. When you say the Followers of the Stars retired
+from political and military activity, they may have pulled back from
+your galactic arm, but they continued to be active in this arm for
+some time. They have also been absent from the scene, as you call it,
+but they have reasserted themselves. They are working with their old
+ally the People of the Rainbow Sky to control all the other races in
+the Primary Arm. It seems the People of the Rainbow Sky felt
+challenged by us and others and called on the Followers of the Stars
+to help. Captain Star Runner has been their go-between. From our
+initial analysis of the software aboard Captain Star Runner's vessel,
+she is definitely controlled by them."
+
+"There is pernicious software in her system?" I asked. I was shocked
+the Fungusians had not identified it and I said so. "How is she being
+compromised?"
+
+"We have found the change logs," Janker said. "The Fungusians are
+meticulous. We can follow their work. It is a very different methodology 
+than ours, but our scientists can make sense of it. Then there are
+other changes which are not so clear. These seem not to have been made
+by the Fungusians."
+
+"Captain Star Runner said the People of the Rainbow Sky did an upgrade
+to her and to the artificial intelligence. Star Runner said there was
+some kind of genetic drift that had taken place that made it
+deleterious to her to be in the presence of the People of the Rainbow
+Sky. Star Runner could not see them properly, only colored hazes."
+
+"We thought it looked like their programming," Janker said. "We could
+not understand it. I will tell the biology team to investigate this."
+
+He spoke rapidly in Tigerfu and gestured just as quickly. I could not
+really follow what he said, but I heard Star Runner's name several
+times.
+
+"This is very useful intelligence," Janker said to me. "What seems to
+be very clear in that Captain Star Runner believes she is working
+independently while in fact she is being controlled from the outside.
+We are trying to figure out what to do. It is a serious ethical
+question."
+
+"We hoped you might help us," Suchee said. She continued to touch my
+hand. "You have intimate knowledge of Captain Star Runner and may help
+us chart the right response to this situation."
+
+"You are free to say no," Janker hastened to add. "As much as we would
+like your help, you, too, are a free agent. We recognize that you may
+not want to help or be involved with Captain Star Runner anymore."
+
+"We do not need an answer right away," Suchee said. "You can think
+about it for a little while. Janker," she made a gesture of affection,
+"wants an answer right away--you can understand this, I think--but in
+reality it can wait for a few days."
+
+We said some inconsequential things after this. Then they went away. I
+continued to sit on the bench and tried to think and sort out my
+emotional response to all of this. I was not surprised when Dibenan
+sat down next to me with another beverage and  more substantial food."
+
+"You missed the midday meal," she said. "I would think you would be
+hungry."
+
+"I have been trying to figure out what to say to Janker," I said,
+fully believing Dibenan had been updated.
+
+"And what have you been thinking?" Dibenan asked.
+
+"I am first trying to really understand the overall situation," I
+said. "With Captain Star Runner's explanations, I believed the People
+of the Rainbow Sky were the good guys here. There is another component
+called the People of the Golden Sun who are the bad guys."
+
+"There is no group called the People of the Golden Sun," Dibenan said.
+"They do not exist. They are an invention of the People of the Rainbow
+Sky."
+
+"But Captain Star Runner was captured by the People of the Golden Sun
+and fought a battle against them. She was decorated for her work."
+
+Dibenan was silent. I realized she was reaching out to the net.
+
+ 
+"The People of the Rainbow Sky invented the People of the Golden Sun
+for propaganda purposes," Dibenan said. "it is an excuse for war. It
+is an excuse to rally worlds that have been increasingly restless
+under burdens of taxation and tribute."
+
+"It was quite real when Transfer Point Seventeen was blown up," I
+said.
+
+"The war itself is real," Dibenan said.
+
+"And the attack against the Rabbit merchants?"
+
+"We had reached out to them to join us," Dibenan said. "The People of
+the Rainbow Sky destroyed their planet."
+
+I thought my brain was going to explode. All this contradictory
+information.
+
+"It is a matter of trust, is it not?" I asked Dibenan. "You and I have
+talked a lot about trust. Have you been trying to sway me to your side
+or have you honestly wanted me to explore this topic?"
+
+Dibenan made a gesture of surprise and, I thought, chagrin.
+
+"You can be very perceptive," she said. "You cannot function in our
+society without trust. You find it difficult to trust. We have talked
+about that and I think you will agree my points have merit. There is
+probably no real way to ascertain who is telling you the truth about
+the bigger picture. We cannot fact check for ourselves."
+
+"And Captain Star Runner? What is the ethical issue there?" I asked.
+
+"We have always thought of ungendered Pantherans as creatures,"
+Dibenan said. "They are controlled by their artificial intelligences.
+If you control the artificial intelligence, you control them. They
+function in a network.
+
+"But here we have Captain Star Runner. Although she, more properly it,
+must have access to an artificial intelligence for some basic
+biological monitoring and memory management, this Pantheran is
+functioning independently. There is no supervision of this creature's
+decision-making except for the patches added by the People of the
+Rainbow Sky. This might mean that this Pantheran is not a creature but
+a person. The fact that you and Captain Star Runner had or have a
+relationship speaks to the Pantheran's person hood."
+
+I knew I was making an irrevocable decision. I knew there would be no
+turning back. But I also knew a number of disparate pieces of my life
+were coming together.
+
+I said, "Captain Star Runner is a fuchsia-colored Pantheran. These are
+rare in their history. Most ungendered Pantherans are pastel-colored.
+Fuchsia-colored panther ans have always made a significant impact on
+panther an society. Captain Star Runner has always wondered what" (I
+almost said her, but I decided to give Captain Star Runner its own
+preferred pronoun) its mission is. I think it is to demonstrate that
+ungendered panther ans can be people. They can have self-determination.
+They are not tools to be discarded."
+
+"I will pass your sentiments on to the team evaluating Captain Star
+Runner," Dibenan said, making ready to get up from the bench.
+
+"No," I said. "I will join the team. I want to speak with Captain Star
+Runner. It will need to participate in its own rehabilitation. The
+Fungusian network will also have to be contacted to assist with any
+changes that need to be made to Christabel. We have an opportunity
+here. I do not want it to be wasted."
+
+Dibenan was taken aback. I knew that I had never been this forceful or
+definitive around her. But she also made a gesture of pleasure and
+acknowledgement.
+
+"Well done," she said. "I will put your recommendations forward as
+well as your desire to be on the team."
+
+"Not my desire," I said. "My insistence." 
+
+"Agreed," Dibenan said.
+
+I thought my request would be denied. I thought the bureaucracy would
+take forever. I was wrong.
+
+"Your application for membership on Captain Star Runner's team has
+been accepted," Gemall told me the next day. "You will travel with
+Janker and Suchee. Janker is already a member of the team. Suchee has
+been reassigned to assist you in any way necessary. We also anticipate
+Captain Star Runner will need help adjusting as well. If all goes
+according to plan, you will both come back here at a later date. The
+Habitat is a good location for integrating into our society."
+
+"No," i said. "Captain Star Runner will not come here. This is a
+planet with great expanses under the dome. Captain Star Runner needs
+to be aboard its ride, integrated with its artificial intelligence.
+When Captain Star Runner travels out of range of a good working
+integration with the artificial intelligence, it must use a bridge AI.
+It is less than satisfactory. Also a method for maintaining Captain
+Star Runner's mind and body needs to be planet side. it is all quite
+complicated and quite alien to it. Star runners are designed to be
+part of their rides. In a real sense, the ride is a part of them. it
+is a shell that can be changed, much like animals who grow and shed
+their shells and skins, but they need their rides. If Captain Star
+Runner is to be a person, it must needs to be aboard its ride and actively traveling on the space ways. Any other
+life would not be natural."
+
+Gemall was silent.
+
+"I had not understood that," Gemall said. "You need to compose a
+statement about this to the rest of the team. They are not thinking
+this way as I understand it. You will have a great impact."
+
+"Or I will be ignored," I said, having a bad feeling about this.
+
+"No, I do not think so," Gemall said. "Janker and Suchee are very
+positive about your contributions. The scientists are not ideologues.
+They are just interested in the science and," Gemall made a gesture of
+emphasis "and they do not want to do any harm whether to a person or a
+creature."
+
+And so it was that I left the Habitat several days later with Janker
+and Suchee and traveled to where Captain Star Runner was being held.
+Along the way, Janker told me more of what he had learned.
+
+"We are going to a research facility," he told me in the common room
+aboard our military fast ship. Military fast ships are small vessels
+which ferry military personnel from one place to another inside
+Tigerfu space. They are not heavily armed. Their function is speed.
+"Captain Star Runner is aboard its ship, but we have disabled the
+engines. My latest report is that it is quite agitated and believes
+our questions and examinations are intrusive and meant to disable it."
+
+"If you thought you were being held prisoner," I said, "You would
+think the same things. This would be especially true if you believed
+you were being held by the enemy."
+
+"That is the odd thing," Janker said. "We are not convinced Captain
+Star Runner thinks we are the enemy."
+
+"But I thought you said, or someone said, Captain Star Runner has
+patches from the People of the Rainbow Sky that control it."
+
+"Yes, in some regards, but the work that has been done most recently
+suggests these patches are very specific and do not affect Captain
+Star Runner's overall thinking. We are hoping that you can sort a lot
+of this out for us. Captain Star Runner has not been very forthcoming
+to us."
+
+"have you learned where Captain Star Runner went after it left
+Transfer Point Seventeen?" I asked. "I would like to get clear about
+that before I see it."
+
+"Yes, we do," Janker said. "That has to do with the patch. The
+Pantheran received a communication from someone it knew from its
+previous visit to the Blue Fire Star System, one Sam lam Seah. Captain
+Star Runner could not resist the summons so it went. The summons
+removed Captain Star Runner from the area of Transfer Point Seventeen
+and thus kept it safe when the transfer point exploded. The summons
+was real enough. We intercepted Captain Star Runner after its visit to
+the Blue Fire Star System."
+
+"And we suspect," Suchee added, "that leaving you behind was something
+Captain Star Runner had no control over."
+
+"Nor did your presence aboard Captain Star Runner's ship known to the
+People of the Rainbow Sky. Retrieving you was not part of the
+summons," Janker explained. "If it was, you would not have been left
+there. Captain Star Runner has been very distressed about you."
+
+"Have you told it I am alive and well?" I asked.
+
+"No," Janker said.
+
+I make Tigerfu gestures badly, but I deliberately made my gesture of
+anger slowly and carefully.
+
+"That is cruel," I said. "You tell Captain Star Runner immediately
+that I am well and looking forward to visiting it. Causing needless
+distress is unethical behavior."
+
+Janker made a gesture of contrition and sorrow. "You are correct," he
+said. "I deeply regret our behavior. Our only defense is that we did
+not know if you wished to be revealed to the Pantheran. We will
+correct this immediately."
+
+During my next rest period, I lay awake in my bunk, wondering what
+this reunion would be like. I was adamant that Captain Star Runner
+should be treated like the person   
+it was. I was less sure how i wanted our personal interactions to be?
+Were we still lovers? Was I just a friend? Had I become Captain Star
+Runner's advocate?
+
+Maybe, I thought, it was not as important as I once thought it was to
+distinguish these three roles. What was important right now was doing
+the right thing, the ethical thing, for Captain Star Runner. After I
+did that, maybe I would never see it again. Maybe I would just return
+to the Habitat and find some meaningful work to do. 
+
+As I fell asleep, I thought, the Tigerfu had already won me over. I
+was thinking and acting in a very different way than I ever had
+before. I hoped I would be happy with myself when I was finished with
+this project.
