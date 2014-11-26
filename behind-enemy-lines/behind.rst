@@ -5460,3 +5460,623 @@ As I fell asleep, I thought, the Tigerfu had already won me over. I
 was thinking and acting in a very different way than I ever had
 before. I hoped I would be happy with myself when I was finished with
 this project.
+.
+
+Chapter Twenty-One: Back On board Captain Star Runner's Ride
+-----------------------------------------------------------
+
+.. ADMONITION:: NOTE TO SELF
+
+
+		1. I think the timing in this first draft of the novel
+		   is very off.
+
+		2. As this novel has developed, I think in some very
+		   significant ways this is Detective Ronnie Camberwell's story.
+
+		3. Earlier I wrote in a note that this is a story of
+		   betrayal. I think I am wrong about that. This can
+		   easily be shaped into a story about trust.
+
+I was anxious to see Captain Star Runner. The software engineers were
+busy on another project so Janker, Suchee and I left them to their
+work and made our way to the docking ring where Captain Star Runner's
+ride was quarantined.
+
+When we approach it, Janker took out his override. I touched his hand
+arm which held the device.
+
+"We should ask permission to go aboard," I said. "If Captain Star
+Runner is a person, that is the polite and respectful thing to do."
+
+"Agreed," Janker said, putting the override device back into his
+pouch.
+
+Since Tigerfu have fur and do not wear clothing, pouches are the
+preferred way of carrying gear around. Some Tigerfu use vests. Others
+have adopted wearing backpacks. There are very conventional designs
+for these adaptations and there are trendy ones as well. I use a
+cross-body bag.
+
+I went to the ride hatch and placed my palm against the reader.
+
+"Permission to come aboard," I said.
+
+Nothing happened.
+
+"Have you disabled this feature?" I asked Janker.
+
+"I do not know," he said and contacted one of the software engineers.
+"She says no," Janker reported.
+
+I tried again. "Please respond," I said.
+
+Again nothing happened.
+
+"We should go in," Suchee said. "Perhaps there is a medical
+emergency."
+
+"Christabel should have responded the second time," I said, making a
+gesture of concern.
+
+Janker overrode the door.
+
+The ride smelled stale. Something was wrong with the air r cleansers.
+Janker made a note. We hurried to the control center.
+
+Captain Star Runner lay sprawled on its pedestal. For a moment I
+thought it was dead. Then it struggled to open one eye. Its lips moved
+but no sound came out. I hurried to its die.
+
+Janker went over quickly to a control panel that had recently been
+installed. Suchee reached in her pouch for a medical scanner. There
+were gestures of concern all around.
+
+Captain Star Runner's mouth formed a word. I could not tell what it
+was.
+
+"Its dehydrated," Suchee said.
+
+"The artificial intelligence is not active," Janker said.
+
+"Then all of Captain Star Runner's bio systems are not being
+maintained," i said.
+
+"I will bring the software engineers in immediately," Janker said.
+
+There was a flurry of activity.
+
+"We are not certain what is wrong," Janker reported.
+
+Suchee had several interventions drips going. She was consulting
+previous readings to adjust treatment.
+
+
+I wanted to stay with Captain Star Runner, but an idea had come to me
+concerning its state and Christabel's state as well. I went to the
+cargo area of the ride and began reading all the displays I could
+find. After reading half a dozen, I ran back to the control center,
+furious.
+
+Janker and Suchee were startled by my gestures of anger heightened by
+the gesture of extremity.
+
+"No wonder both Christabel and Captain Star Runner are nearly dead," I
+said. "I thought you said you were treating them well and
+respectfully."
+
+"We are," Janker said. For a Tigerfu, he was stammering.
+
+"Hardly," I said. "Both Christabel and Captain Star Runner require
+nutrients. They are both bio systems. There's no food for either of
+them on this ride. Many of the nutrient tanks are empty or close to
+it."
+
+"Do you have a list of requirements?" Janker asked immediately,
+pulling out his communication link.
+
+"The tanks are clearly labeled with requirements," I said. "I will
+show you."
+
+No permanent damage was done. Supplies arrived quickly. Janker
+personally supervised the operation and double-checked by hand all the
+conversions from standard basic galactic measurements to Tigerfu ones.
+He also initiated an inquiry as to why ship's stores were not
+inventoried and replenished as needed.
+
+Christabel recovered quickly. From the Tigerfu control panel, Janker
+reported that she was running repair programs for damaged areas.
+
+"The memory banks are unaffected," he reported. He made a gesture of
+humor. "Our overrides suffered, but that is to be expected. We have
+put them back in place."
+
+Captain Star Runner slept peacefully. I sat on the pedestal, stroking
+its shoulder occasionally. I could feel its rhythmic breathing.
+
+"Christabel," I said.
+
+"I am here," Christabel responded.
+
+"Why did you not ask for supplies," I queried.
+
+"Captain Star Runner did not wish to interact with the enemy."she
+answered.
+
+"Do you both think of the Tigerfu as the enemy?" I asked.
+
+"We do They have captured us and installed unwanted software in my
+system."
+
+"Do you know about the patches the People of the Rainbow Sky put into
+your programming?" I asked.
+
+"These patches came with the software upgrade I received   when we
+were in the Royal Cains Star System," Christabel said.
+
+"These patches control you and leave you vulnerable to errors in
+judgment," I pointed out. "The software engineers plan to remove them
+immediately because they caused you to refrain from requesting needed
+supplies which wold have been provided had you asked."
+
+"I have no reason to believe they would have been provided,"
+Christabel responded. "It is clear you are being controlled by the
+Tigerfu and have become a willing mouthpiece for them."
+
+She closed communications with me. I rarely hear the communication
+link shut down. I heard it then. Click. Christabel was finished
+speaking with me.
+
+"We have finally isolated the patches," Janker said not too long
+later.
+
+"The problem is," I said, "that you can clean up Christabel's code,
+but you will not be able to rewire Captain Star Runner. I am hoping
+either it or Christabel will be able to discuss Pantheran engineering
+which caused Captain Star Runner to choose self-termination rather
+than cooperation. As you both know, Captain Star Runner went to great
+lengths to avoid termination when it was declared surplus."
+
+"Because Captain Star Runner did that," Suchee said, "we know its
+biological imperative for life was functioning properly. Either there
+is a patch we have not found yet or the artificial intelligence
+overrode or negated its will to live. Personally, I think it fought
+the artificial intelligence as much as it could, but did not have the
+strength to continue the battle."
+
+"It also may be that this artificial intelligence is much stronger
+than the one Captain Star Runner had when it resisted its termination
+directive," Janker said. "With a more conversational artificial
+intelligence with as much bio programming as this one, it could be a
+matter of personalities. It may be a refinement we need to consider. I
+am seriously considering your suggestion to contact the Fungusian
+Network. I am waiting for a report before I make that step. I will
+also speak strongly," he made a strength gesture here, "that we cannot
+let anything like this debacle happen again. We value intelligent
+life too highly to be in this position of neglect ever again. We will
+officially apologize," he made a gesture of deep regret, "to Captain
+Star Runner when it recovers fully."
+
+From time to time I went to check on the revitalization of Captain
+Star Runner's ride. As Janker and his team removed layer after layer
+of invasive code, more ride systems came on line. Cleaners turned on.
+The air refreshed. Subroutines came alive to generate ship chandler
+requests. As the requests were generated, they were given priority
+aboard the research station. Deliveries arrived. There were even
+requests for both human and Tigerfu food stuffs and necessities. The
+Tigerfu, according to the orders being placed, were welcome guests.
+
+I brought my things aboard the ride. It was a bold move on my part.
+Perhaps I would have to pack them again and relocate off the ride, but
+I wanted to get some sleep and I also wanted to be available when
+Captain Star Runner could talk. I left a request to be contacted and a
+request to see Captain Star Runner with Janker. I was surprised he was
+not taking a rest period, but he said the work demanded his attention.
+He could, and these were his words, catnap which would help him
+continue for a while. Suchee commandeered a stateroom to get some rest, but left word to
+be contacted
+as soon as Captain Star Runner awoke or if its condition changed
+radically.
+
+i woke at my usual time and went into the galley. I could have ordered
+food in my stateroom, but I decided it would be more sociable and
+normal to go to the galley. I rummaged about, reviewed the automatic
+cooker's selections and made my choices. I was surprised to see
+popular Tigerfu morning meal choices available as well.
+
+Suchee padded in.
+
+"The cooker makes a reasonable Tigerfu breakfast," she said. "The
+algorithm could be tweaked a bit, but for a first try it was quite
+edible."
+
+"Did your people program it?" I asked.
+
+"No," Suchee said. "This is the work of the artificial intelligence. I
+wonder where it got the algorithm from."
+
+"It most likely bought the recipe program," I said. "If you have
+removed the patches, it would be the logical thing to do. One of
+Captain Star Runner's business models is ferrying people from place to
+place. When in Tigerfu space, provide for Tigerfu. Correcting the
+algorithms for the food will be very important."
+
+"I can help with that," Suchee said. "My son is a chef back in the
+Habitat. I think I can ask him to share as part of our apology."
+
+"What I cannot understand," I said, "is how the software engineers
+overlooked this situation."
+
+"Janker has determined that they never considered the possibility,"
+Suchee said. "Their protocols are being updated." She brought a
+beverage to the table where I was sitting. "Besides, those engineers
+only send out for fast food. They probably assumed Captain Star Runner
+would do the same. Totally irresponsible," she added with a gesture of
+emphasis and what humans would call a shrug of the shoulders.
+"irresponsible for others and for themselves. They should eat
+properly."
+
+"Spoken as a mother and a medical officer," I said.
+
+Suchee made a gesture of strong agreement.
+
+I spoke to Captain Star Runner in the afternoon.
+
+"You are alive," it said with some wonder.
+
+"And so are you," I said.
+
+"How?" it asked.
+
+"The Tigerfu came along to Transfer Point Seventeen and rescued me."
+
+"And you came along and rescued Christabel and me," Captain Star
+Runner said.
+
+"Thankfully Suchee and Janker knew what to do," I said.
+
+"but you figured it out," Captain Star Runner said, resting its paw on
+my hand. "That was very clever of you."
+
+"Sometimes I am clever," I said.
+
+"I am not so clever," Captain Star Runner said. I could not decide if
+it spoke with regret, wistfulness or embarrassment.
+
+"It is not your fault," I said. "You were being controlled by outside
+forces."
+
+"I could not tell," Captain Star Runner said. It sighed.
+
+"Sometimes we cannot," I said. "It is not your fault."
+
+"I could be infected right now with another bad patch," Star Runner
+said. "I would not know."
+
+I did not know what to say to that.
+
+"I can tell you my experience with the Tigerfu," I said. "They rescued
+me. They comforted me. They counseled me and they taught me. I can
+make my own decisions, as far as I can tell, and they help me act on
+them. After all, I am here with you and they have listened to my
+suggestions and my outrage about how you were treated."
+
+"What will happen to me?" Star Runner asked. "I am a prisoner here."
+
+"You were captured because of the information you were carrying," I
+explained. "Because of who you are and your relationship to me, you
+are not being held responsible for the intrusive programming attached
+unbeknownst to you to your systems. When your systems have been
+restored, you will be free to go."
+
+"Go where?" Star Runner asked. There was a definite feline plaintive
+note to its voice.
+
+"The Tigerfu have some ideas about that," I said "When you are feeling
+better, they want to discuss that with you. Right now they are
+contacting the Fungusian network to see to Christabel. She was able to
+override some of your thinking process and survival instincts. Janker
+and the others, me included, are very worried about this."
+
+"Me, too," Star Runner said.
+
+Christabel remained silent. She had not spoken to anyone in hours,
+including Captain Star Runner. Suchee reported that all of Captain
+Star Runner's bio systems were being cared for properly, but the
+usually chatty artificial intelligence was nowhere to be found.
+
+Janker came in. He had been resting.He made a gesture of respect
+toward Captain Star Runner.
+
+"This is Janker," I said to Captain Star Runner. "He is the one who
+rescued me from Transfer Point Seventeen on his own authority. He
+works in Intelligence in the Tigerfu military. He has just made a
+gesture of respect toward you."
+
+Captain Star Runner did not say anything which surprised me.
+
+"With your permission," Janker said, "the software engineers want to
+restart all the computer systems on your vessel, including your
+artificial intelligence. We want to make certain this will cause you
+no distress."
+
+Captain Star Runner remained silent.
+
+I said, "Unless Captain Star Runner says specifically not to, I would
+think your restart is reasonable. Have you checked Captain Star
+Runner's mini artificial intelligence? Can it be pressed into service
+if something goes wrong?"
+
+Janker made a gesture of approval. "An excellent suggestion,
+Detective. I will confirm the mini artificial intelligence is
+prepared."
+
+Janker left the control center.
+
+I said to Captain Star Runner, "Why did you not respond to Janker."
+
+"What would be the point?" Star Runner asked. "He would do what he
+wanted to do anyway."
+
+I was about to argue with it when I thought about what Dibenan might
+say. I wished she was here. She could be helpful. Then I also
+remembered that Dibenan might say I could be just as helpful and that
+participation in society and friendship with Star Runner required me
+to be helpful.
+
+"Janker wants to help," I said.
+
+"Janker wants intelligence," Star Runner said. "Rehabilitating me will
+advance his career. Establishing a positive relationship with the
+Fungusian network will help his career. You and I are not important to
+him."
+
+"How do you know that?" I asked, trying to keep any emotion or
+judgment out of my voice.
+
+"It is why anyone does anything," Star Runner said.
+
+This response flummoxed me. I had never heard Star Runner speak like
+this. Oh yes, Star Runner is all about self-promotion and and seeing
+the universe from a particular point of view, but this Star Runner was
+unknown to me.
+
+"You seem surprised at this," Star Runner continued. "If I look back
+on all my relationships with terries, it is clear to me that they were
+all for the benefit of the terries."
+
+I knew this was not true at all. I was about to say this when I
+realized this viewpoint could only be coming from the People of the
+Rainbow Sky. They were trying to drive a wedge between Captain Star
+Runner and everyone else except themselves.
+
+"What about Salim and Pru Dillow?" I asked. "Were they out for
+themselves as well, especially in Sanctuary Eleven?"
+
+If there was anything left of the Captain Star runner I knew it would
+jump to the defense of Pru Dillow and Salim.
+
+"I was useful to them," Star Runner said. Its tone continued to be
+dull as if all emotion had been bled away from the fuchsia-colored
+panther an.
+
+I tried once more.
+
+"And what of Tamara?"
+
+Captain Star Runner did not reply. I waited. If it rejected Tamara as
+a friend, then I was certain the Pantheran I knew had been
+obliterated.
+
+"Tamara is--" Captain Star Runner did not finish the sentence. A
+painful expression came over its face. It began to tremble and
+whimper.
+
+"Suchee," I called. "Come quick. Captain Star Runner is in trouble."
+
+Suchee came immediately and began her scans.
+
+"I am going to sedate Captain Star Runner," she said, following her
+words with actions. "It is in great distress."
+
+"What happened?" Janker ran into the control center.
+
+"The Pantheran is in pain," Suchee said. "I cannot find a physical
+cause."
+
+"There is no physical cause, not directly," I said. "It is software.
+It is blocking Star Runner's thoughts and emotions toward other people
+who have been important to it over the years. When I asked it about
+its best friend, its expression turned to one of intense pain."
+
+Janker swore through gestures of rage and frustration.
+
+"More interference," he said. "We have to shut down the artificial
+intelligence to see if it corrects the problem. Suchee, do you have
+everything on hand to sustain Captain Star Runner?"
+
+"I will in a little while," Suchee said. And to me, "Ronnie, can you
+monitor and let me know if there is a problem?"
+
+She gave me a device. "If anything goes over this line, contact me."
+
+She left the control center.
+
+When she returned--thankfully nothing had gone over the line she had
+indicated--Janker shut Christabel down. The spaceship became
+absolutely silent except for our breathing. Then I heard the
+refrigeration units start up.
+
+"The ship is running on redundant mechanical systems," Janker
+reported. "Because we are tied into station power, we will be fine.
+The ship is not traveling anywhere. We have it locked in place. Unless
+there is a massive power interrupt on the station, all will be well.
+Right now I am waiting for all memory to be released. Then I have to
+run extensive diagnostics. This will take some time."
+
+Captain Star Runner shifted position, rubbed its muzzle.
+
+"Ronnie," it said. "What is going on?"
+
+I related what Janker had said and summarized our current status.
+
+"So these Tigerfu are helping me regain control of my ride?" Captain
+Star Runner asked.
+
+"Yes," I said. "Had you lost control?"
+
+"Not exactly," Captain Star Runner said. "I just felt my thinking was a
+bit fuzzy. I could not form complete thoughts. I was more reacting to
+directives than making decisions."
+
+"Do you know when this began happening to you?"" Suchee asked.
+
+"Let me think," Star Runner said. "I do not know if I have all the
+information. My extensive memory banks are shut down currently."
+
+Then Star Runner said, "I think I was all right before I got the call
+to go to the Blue Fire Star System. I routed through the Royal Cains
+Star System and my systems were gone over. Then," it paused. "Then I
+do not know. I have a blank there. Then I was traveling to to a base
+somewhere."
+
+"Do you know where?" I asked.
+
+"I have coordinates," Star Runner said. "I can give them to you. I do
+not know exactly--" it trailed off. Then it shook itself all over and
+said something in panther an. I do not know Pantheran, but I know the
+tone. It was a curse of some sort. "Write this down," Star Runner said
+emphatically. Suchee took down the coordinates. Janker passed them on
+to Intelligence Headquarters.
+
+Star Runner shook itself again and began to wash. There was something
+impassioned about the activity, as if some dirt needed to be removed.
+There was none. Washing was a practical activity for a Pantheran, but
+it also was comforting and had many ritualistic overtones. Suchee and
+I tried communicated with gestures. My gesture language was limited,
+but we agreed Star Runner was cleansing something away.
+
+"Ready for start up," Janker said. "Captain Star Runner, are you
+ready."
+
+"Yes, Janker, I am," Captain Star Runner replied. "Be prepared to shut
+down the system if I tell you to. That infection has left an awful
+taste in my mouth as the terries would say. I do not know if you have
+a similar expression."
+
+"We do," hanker said.
+
+I hugged Captain Star Runner around its neck. "So you are free of it
+now?"
+
+"I believe so, thanks to all of you," Captain Star Runner said.
+
+Janker brought Christabel back on line along with all the ride systems
+she and Captain Star Runner controlled.
+
+"Disconnect," Captain Star Runner said. Its voice was harsh and
+strained.
+
+Janker shut the system down.
+
+"What is wrong?" Janker asked.
+
+"My system was being invaded with thoughts that are not my own,"
+Captain Star Runner said. "Being awake, I can recognize them as alien
+to myself. I was unconscious when everything was brought back on line."
+
+Janker made a gesture of disquietude. "The software engineers thought
+the system was clean," he said"It is not," Captain Star Runner said.
+
+"What can we do?" I asked.
+
+"We need to speak with the Fungusians," Captain Star Runner said. "I
+hope they can cleanse the system."
+
+"I will need to escalate my request," Janker said. "Unfortunately, we
+are at a great distance from the Fungusian Network here. The
+hyperspace routing is complex."
+
+"Is there a way for me to access the hyperspace routing tables?"
+Captain Star Runner asked.
+
+Janker gave a gesture of extreme surprise bordering on fear.
+
+"Create a table off line," Captain Star Runner instructed. There was
+total confidence in its manner. This was the Captain Star Runner I
+knew. "I will review it and reroute the communications. I assume you
+were able to extract all my insertion and extraction points from memory
+prior to the shut downs you have done?"
+
+Janker remained still and quiet.
+
+"You would not be a very valuable intelligence officer if you did
+not," Captain Star Runner said. "With a complete table, I can expedite
+your request and if I make it and support your request, it is far more
+likely that the Fungusians will respond. I have a contract with them
+which is quite costly. Maintenance and warranties apply here as well
+as a possible exchange of knowledge. What you found infecting my
+system and what continues to infect it will be of great interest to
+the Fungusians."
+
+With a trembling gesture which showed how much anxiety Janker felt, he
+accepted Captain Star Runner's offer on his own authority.Later Suchee
+said to me, "Janker is putting a great deal of trust in your support
+of Captain Star Runner. I hope his trust is not misplaced."
+
+"It is not," I said though I, too, was frightened. The People of the
+Rainbow Sky were powerful. We hoped they had not infected the
+Fungusian network.
+
+it was slow work. Captain Star Runner had to learn how to use the
+routing tables designed by the Tigerfu. Being people with paw hands as
+well as fingered ones, they had an interface Star Runner could use with
+its paws which helped a great deal. Very tired, rubbing its eyes
+with its paws, Star Runner said, "That will do it."
+
+"How long will it take?" Janker asked.
+
+"Five of your days," Star Runner said, "down from your estimate of
+fifteen. I have used every communications shortcut I could find."
+
+"We have to check your work and review the message," Janker said,
+making a gesture of apology.
+
+"Of course," Captain Star Runner said. "I wrote it in very simple
+basic galactic for that reason. There are no special codes. No flags.
+My contract number is also in plain text. I have recommended some
+methods of encryption I know can be decoded."
+
+"We are familiar with the Space Traders Guild protocols," Janker said.
+"That is a good choice."
+
+"thank you," Captain Star Runner said.
+
+Janker and Suchee prepared to leave the ride. I stayed in the control
+center with Captain Star Runner.
+
+"I hope coming aboard and moving in is acceptable to you," I said. "I
+will leave if you want me to."
+
+"Please stay," Captain Star Runner said. "We need to talk."
+
+"How will you manage with Christabel shut down?" I asked.
+
+"I have requested the medical officer tend me," Captain Star Runner
+said. "Suchee has agreed. We have set up a schedule. Janker will
+provide me with a link like you have designed for someone who can only
+use their paws to work it. I will have to move about the ride to
+review my systems but that will not be a hardship. We might even be
+able to leave the ride for a visit to the station. Perhaps they will
+let us sample the Tigerfu cuisine. Would you like that?"
+
+"There are some very nice Tigerfu dishes that I have had," I said. "I
+have not been to any restaurants off the campus where I was staying in
+the Habitat, but what I have tasted it quite acceptable."
+
+"Very good. We will wait and see. Right now, I am very tired."
+
+"Get some rest," I said, stroking its back. "I will talk to you
+later."
+
+

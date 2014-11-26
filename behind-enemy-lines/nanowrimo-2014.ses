@@ -21,14 +21,14 @@
      20    2490   33521   16479    1676   33340          181    1498  67.042        
      21    1965   35486   14514    1689   35007          479    1451  70.972        
      22       0   35486   14514    1613   36674        -1188    1612  70.972 -0.0503
-     23       0   35486   14514    1542   38341        -2855    1814  70.972        
-     24       0   35486   14514    1478   40008        -4522    2073      70        
-     25       0   35486   14514    1419   41675        -6189    2419  70.972        
-     26       0   35486   14514    1364   43342        -7856    2902  70.972        
-     27       0   35486   14514    1314   45009        -9523    3628  70.972        
-     28       0   35486   14514    1267   46676       -11190    4838  70.972        
-     29       0   35486   14514    1223   48343       -12857    7257  70.972        
-     30       0   35486   14514    1182   50010       -14524   14514  70.972        
+     23    2188   37674   12326    1638   38341         -667    1540  75.348        
+     24       0   37674   12326    1569   40008        -2334    1760      75        
+     25    4237   41911    8089    1676   41675          236    1348  83.822        
+     26    4181   46092    3908    1772   43342         2750     781  92.184        
+     27       0   46092    3908    1707   45009         1083     977  92.184        
+     28       0   46092    3908    1646   46676         -584    1302  92.184        
+     29       0   46092    3908    1589   48343        -2251    1954  92.184        
+     30       0   46092    3908    1536   50010        -3918    3908  92.184        
 
 
 (ses-cell A1 "Date" "Date" nil nil)
@@ -285,91 +285,91 @@
 (ses-cell J23 -0.05038992201559688 nil nil nil)
 
 (ses-cell A24 23 23 nil (F24 E24))
-(ses-cell B24 0 0 nil (D24 C24))
-(ses-cell C24 35486 (+ C23 B24) nil (C25 I24 G24 E24 D24))
-(ses-cell D24 14514 (- D23 B24) nil (D25 H24))
-(ses-cell E24 1542 (/ C24 A24) nil nil)
+(ses-cell B24 2188 2188 nil (D24 C24))
+(ses-cell C24 37674 (+ C23 B24) nil (C25 I24 G24 E24 D24))
+(ses-cell D24 12326 (- D23 B24) nil (D25 H24))
+(ses-cell E24 1638 (/ C24 A24) nil nil)
 (ses-cell F24 38341 (* A24 1667) nil (G24))
-(ses-cell G24 -2855 (- C24 F24) nil nil)
-(ses-cell H24 1814 (/ D24 8) nil nil)
-(ses-cell I24 70.972 (/ (* C24 100) 50000.0) nil nil)
+(ses-cell G24 -667 (- C24 F24) nil nil)
+(ses-cell H24 1540 (/ D24 8) nil nil)
+(ses-cell I24 75.348 (/ (* C24 100) 50000.0) nil nil)
 (ses-cell J24 nil nil nil nil)
 
 (ses-cell A25 24 24 nil (E25 F25))
 (ses-cell B25 0 0 nil (D25 C25))
-(ses-cell C25 35486 (+ C24 B25) nil (E25 I25 C26 G25 D25))
-(ses-cell D25 14514 (- D24 B25) nil (D26 H25))
-(ses-cell E25 1478 (/ C25 A25) nil nil)
+(ses-cell C25 37674 (+ C24 B25) nil (E25 I25 C26 G25 D25))
+(ses-cell D25 12326 (- D24 B25) nil (D26 H25))
+(ses-cell E25 1569 (/ C25 A25) nil nil)
 (ses-cell F25 40008 (* A25 1667) nil (G25))
-(ses-cell G25 -4522 (- C25 F25) nil nil)
-(ses-cell H25 2073 (/ D25 7) nil nil)
-(ses-cell I25 70 (/ (* C25 100) 50000) nil nil)
+(ses-cell G25 -2334 (- C25 F25) nil nil)
+(ses-cell H25 1760 (/ D25 7) nil nil)
+(ses-cell I25 75 (/ (* C25 100) 50000) nil nil)
 (ses-cell J25 nil (- 50084 46290) nil nil)
 
 (ses-cell A26 25 25 nil (F26 E26))
-(ses-cell B26 0 0 nil (D26 C26))
-(ses-cell C26 35486 (+ C25 B26) nil (C27 I26 G26 E26 D26))
-(ses-cell D26 14514 (- D25 B26) nil (D27 H26))
-(ses-cell E26 1419 (/ C26 A26) nil nil)
+(ses-cell B26 4237 4237 nil (D26 C26))
+(ses-cell C26 41911 (+ C25 B26) nil (C27 I26 G26 E26 D26))
+(ses-cell D26 8089 (- D25 B26) nil (D27 H26))
+(ses-cell E26 1676 (/ C26 A26) nil nil)
 (ses-cell F26 41675 (* A26 1667) nil (G26))
-(ses-cell G26 -6189 (- C26 F26) nil nil)
-(ses-cell H26 2419 (/ D26 6) nil nil)
-(ses-cell I26 70.972 (/ (* C26 100) 50000.0) nil nil)
+(ses-cell G26 236 (- C26 F26) nil nil)
+(ses-cell H26 1348 (/ D26 6) nil nil)
+(ses-cell I26 83.822 (/ (* C26 100) 50000.0) nil nil)
 (ses-cell J26 nil nil nil nil)
 
 (ses-cell A27 26 26 nil (F27 E27))
-(ses-cell B27 0 0 nil (D27 C27))
-(ses-cell C27 35486 (+ C26 B27) nil (C28 I27 G27 E27 D27))
-(ses-cell D27 14514 (- D26 B27) nil (D28 H27))
-(ses-cell E27 1364 (/ C27 A27) nil nil)
+(ses-cell B27 4181 4181 nil (D27 C27))
+(ses-cell C27 46092 (+ C26 B27) nil (C28 I27 G27 E27 D27))
+(ses-cell D27 3908 (- D26 B27) nil (D28 H27))
+(ses-cell E27 1772 (/ C27 A27) nil nil)
 (ses-cell F27 43342 (* A27 1667) nil (G27))
-(ses-cell G27 -7856 (- C27 F27) nil nil)
-(ses-cell H27 2902 (/ D27 5) nil nil)
-(ses-cell I27 70.972 (/ (* C27 100) 50000.0) nil nil)
+(ses-cell G27 2750 (- C27 F27) nil nil)
+(ses-cell H27 781 (/ D27 5) nil nil)
+(ses-cell I27 92.184 (/ (* C27 100) 50000.0) nil nil)
 (ses-cell J27 nil nil nil nil)
 
 (ses-cell A28 27 27 nil (F28 E28))
 (ses-cell B28 0 0 nil (D28 C28))
-(ses-cell C28 35486 (+ C27 B28) nil (C29 I28 G28 E28 D28))
-(ses-cell D28 14514 (- D27 B28) nil (D29 H28))
-(ses-cell E28 1314 (/ C28 A28) nil nil)
+(ses-cell C28 46092 (+ C27 B28) nil (C29 I28 G28 E28 D28))
+(ses-cell D28 3908 (- D27 B28) nil (D29 H28))
+(ses-cell E28 1707 (/ C28 A28) nil nil)
 (ses-cell F28 45009 (* A28 1667) nil (G28))
-(ses-cell G28 -9523 (- C28 F28) nil nil)
-(ses-cell H28 3628 (/ D28 4) nil nil)
-(ses-cell I28 70.972 (/ (* C28 100) 50000.0) nil nil)
+(ses-cell G28 1083 (- C28 F28) nil nil)
+(ses-cell H28 977 (/ D28 4) nil nil)
+(ses-cell I28 92.184 (/ (* C28 100) 50000.0) nil nil)
 (ses-cell J28 nil nil nil nil)
 
 (ses-cell A29 28 28 nil (F29 E29))
 (ses-cell B29 0 0 nil (D29 C29))
-(ses-cell C29 35486 (+ C28 B29) nil (C30 I29 G29 E29 D29))
-(ses-cell D29 14514 (- D28 B29) nil (D30 H29))
-(ses-cell E29 1267 (/ C29 A29) nil nil)
+(ses-cell C29 46092 (+ C28 B29) nil (C30 I29 G29 E29 D29))
+(ses-cell D29 3908 (- D28 B29) nil (D30 H29))
+(ses-cell E29 1646 (/ C29 A29) nil nil)
 (ses-cell F29 46676 (* A29 1667) nil (G29))
-(ses-cell G29 -11190 (- C29 F29) nil nil)
-(ses-cell H29 4838 (/ D29 3) nil nil)
-(ses-cell I29 70.972 (/ (* C29 100) 50000.0) nil nil)
+(ses-cell G29 -584 (- C29 F29) nil nil)
+(ses-cell H29 1302 (/ D29 3) nil nil)
+(ses-cell I29 92.184 (/ (* C29 100) 50000.0) nil nil)
 (ses-cell J29 nil nil nil nil)
 
 (ses-cell A30 29 29 nil (F30 E30))
 (ses-cell B30 0 0 nil (D30 C30))
-(ses-cell C30 35486 (+ C29 B30) nil (C31 I30 G30 E30 D30))
-(ses-cell D30 14514 (- D29 B30) nil (D31 H30))
-(ses-cell E30 1223 (/ C30 A30) nil nil)
+(ses-cell C30 46092 (+ C29 B30) nil (C31 I30 G30 E30 D30))
+(ses-cell D30 3908 (- D29 B30) nil (D31 H30))
+(ses-cell E30 1589 (/ C30 A30) nil nil)
 (ses-cell F30 48343 (* A30 1667) nil (G30))
-(ses-cell G30 -12857 (- C30 F30) nil nil)
-(ses-cell H30 7257 (/ D30 2) nil nil)
-(ses-cell I30 70.972 (/ (* C30 100) 50000.0) nil nil)
+(ses-cell G30 -2251 (- C30 F30) nil nil)
+(ses-cell H30 1954 (/ D30 2) nil nil)
+(ses-cell I30 92.184 (/ (* C30 100) 50000.0) nil nil)
 (ses-cell J30 nil nil nil nil)
 
 (ses-cell A31 30 30 nil (F31 E31))
 (ses-cell B31 0 0 nil (D31 C31))
-(ses-cell C31 35486 (+ C30 B31) nil (I31 G31 E31 D31))
-(ses-cell D31 14514 (- D30 B31) nil (H31))
-(ses-cell E31 1182 (/ C31 A31) nil nil)
+(ses-cell C31 46092 (+ C30 B31) nil (I31 G31 E31 D31))
+(ses-cell D31 3908 (- D30 B31) nil (H31))
+(ses-cell E31 1536 (/ C31 A31) nil nil)
 (ses-cell F31 50010 (* A31 1667) nil (G31))
-(ses-cell G31 -14524 (- C31 F31) nil nil)
-(ses-cell H31 14514 (/ D31 1) nil nil)
-(ses-cell I31 70.972 (/ (* C31 100) 50000.0) nil nil)
+(ses-cell G31 -3918 (- C31 F31) nil nil)
+(ses-cell H31 3908 (/ D31 1) nil nil)
+(ses-cell I31 92.184 (/ (* C31 100) 50000.0) nil nil)
 (ses-cell J31 nil nil nil nil)
 
 (ses-column-widths [7 7 7 7 7 7 12 7 7 7])
