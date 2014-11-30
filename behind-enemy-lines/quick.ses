@@ -1,14 +1,14 @@
-          Words                                
-           4229            -121            4108
+          Words            Left            Goal
+           4117            -209            3908
 
 
 (ses-cell A1 "Words" "Words" nil nil)
-(ses-cell B1 nil nil nil nil)
-(ses-cell C1 nil nil nil nil)
+(ses-cell B1 "Left" "Left" nil nil)
+(ses-cell C1 "Goal" "Goal" nil nil)
 
-(ses-cell A2 4229 4229 nil (B2))
-(ses-cell B2 -121 (- C2 A2) nil nil)
-(ses-cell C2 4108 (/ 12325 3) nil (B2))
+(ses-cell A2 4117 4117 nil (B2))
+(ses-cell B2 -209 (- C2 A2) nil nil)
+(ses-cell C2 3908 3908 nil (B2))
 
 (ses-column-widths [15 15 15])
 (ses-column-printers [nil nil nil])
