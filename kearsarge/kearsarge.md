@@ -1,7 +1,3 @@
----
-Layout: page
-permalink: /kearsarge-novel/
----
 
 **Kearsarge: A Ronnie Camberwell Adventure**
 
@@ -9,10 +5,6 @@ permalink: /kearsarge-novel/
 
  ByRill Online
 
-_Table of Contents_
-
-1. TOC
-{:toc}
 
 ## I Meet Kearsarge
 
@@ -165,6 +157,7 @@ My co-op is located on the top floor with a splendid view of the lake. Shepheard
 aquatic Olympic events took place here and if I could watch them through binoculars.
 
 I chose my co-op with care. From my balcony I could see the lake, the hotel and its surroundings and look through the dome above all the Tenderloin spread out above me. At night, the lurid colors of the Hypatian atmosphere are both chilling and magnificent in their
+heir\\\\
 unworldliness. I say this after my travels to more earth-like planets. The colors of the Hypatian sky are both familiar and off-putting to me. I can watch them for hours.
 
 I walked out onto the balcony, determined to make something of this day and not lie about feeling sorry for myself as I had been doing since I
@@ -1386,32 +1379,10 @@ he. I never knew how Tamara thought of Star. It was she who always used
 Star's name and that works for me now.
 
 ## I See Kearsarge Again
-
- It was late when I got home. No messages from the Fungusians came. Susan
-checked the time of the marathon. It began at ten o'clock. I wondered
+I checked the time of the marathon. It began at ten o'clock. I wondered
 how Kearsarge would do.
 
-"You have a message," Susan announced.
-
-"Damn. I left my link in voice mode.
-
-"This message is sent with voice mode enabled," Susan continued. "You
-turned voice off."
-
-"Are you reading minds now?" I asked.
-
-I am not a person you should wake up unexpectedly. I am very grumpy and
-I do not focus easily.
-
-"No," Susan replied. "Most people wonder if they have left the voice on
-when they receive such a message."
-
-"Who's it from?"
-
-I was wondering what I could do that person in return. I am usually not
-vengeful, but it was 5:30 a.m.
-
-"Police chief Troy Camberwell," Susan said.
+My link signaled for an incoming text. Damn! It was 5:30 in the morrning. Chief of Police  Troy Camberwell.
 
 I had not spoken to my father since my return to Ptolemy City. We had
 not had a falling out. It was just that he had let me go at the police
@@ -1430,21 +1401,19 @@ investigation with the Governing Board and he would have been notified.
 
 "You know I am," I responded.
 
-I told you I was grumpy in the morning.
-
 "I need you to come down here," Dad said. "I think she's dead."
 
 Dad gave me the address. I thought I knew all the streets in Ptolemy
-City, but Susan had to look this one up.
+City, but I had to look this one up.
 
 The River District? What was Kearsarge doing in the River District at
-5:30 in the morning? It was worst neighborhood in Ptolemy City. Only the
+5:30 in the morning? It was the worst neighborhood in Ptolemy City. Only the
 most desperate people lived there. City service workers were afraid to
 go there to fix anything. People lived in abandoned buildings with
 broken windows. Trash did not get picked up. Electricity was often
 absent. In short, the River District was Ptolemy City's slum. People
 went in there and were never seen again. I was surprised the police were
-there. Who had summoned them?
+even there. Who had summoned them?
 
 None of my questions would be answered until I got to the scene. I got
 out of bed, pulled on some clothes I found draped over a chair and
@@ -1458,15 +1427,14 @@ ask me to confirm my destination.
 "Yes, I really do want to go to 2115 Green Way Station."
 
 What a name. I wondered what the street had once been like to have such
-a name. I thought to ask Susan on the long ride to the seamier side of
+a name. I thought to ask my link for some background on the long ride to the seamier side of
 the city.
 
-"According to city records," Susan reported, "Green Way Station once had
+According to city records Green Way Station once had
 lovely homes for the richer pirates. It was thought of as a privileged
-enclave."
+enclave.
 
-"how the mighty have fallen," was my only comment. I switched Susan off
-when I exited the Gazelle. Was it my imagination or did it speed away
+"how the mighty have fallen," I thought. . Was it my imagination or did it speed away
 toward the city's center?
 
 I found my dad with a coffee cup in his hand in what must have been a
@@ -1490,7 +1458,7 @@ one knows anything, saw anything, heard anything."
 
 "Do they ever?"
 
-"In this case, you could be telling the truth. We just had to ask." Dad
+"In this case, they could be telling the truth. We just had to ask." Dad
 shrugged.
 
 We walked outside and down the street to the corner. I saw the yellow
@@ -1545,7 +1513,7 @@ station as our destination.
 
 We rode in silence, each of us stretching out our long legs toward the
 empty seat in front of us, facing each other obliquely, wondering what
-to say to fill silence. At least, I was wondering. Finally my dad said.
+to say to fill the silence. At least, I was wondering. Finally my dad said.
 
 "How are you, Ronnie, I mean, really, since you've been back."
 
@@ -1557,11 +1525,11 @@ and I was the result. My mother left my father after I was born and was
 killed by her companion shortly thereafter. The companion shipped out of
 Ptolemy City immediately and was never heard of again. A warrant for his
 arrest was still active, or at least had been when I was on the police
-force. I doubt it had been nullified.
+force. I doubt it it had been nullified.
 
 Although he could have disowned me, Troy Camberwell did not and raised
-me as his daughter even-handled with my older brother Kevin. My origins
-was not something we ever discussed. All my father had ever said as,
+me as his daughter even-handedly with my older brother Kevin. My origins
+were not something we ever discussed. All my father had ever said as,
 "Don't be too hard on your mother. She wasn't like Mrs. Parge. She
 needed her husband at home every night."
 
@@ -1569,7 +1537,9 @@ needed her husband at home every night."
 Then I remembered to add, "I'm living at the Womyn's Cooperative Housing
 Authority. I am well-provided for. If I'm careful, the money will last."
 
-"Really?" Dad was surprised. Not much surprises him anymore. "Yes," I
+"Really?" Dad was surprised. Not much surprises him anymore.
+
+"Yes," I
 said. "Captain Star Runner is good with money and was quite generous,
 more generous than a partner needed to be. In different circumstances,
 it may have worked out. But in the situation we found ourselves in, it
@@ -1599,7 +1569,7 @@ complications.
 "It would put me in the limelight," I said. "There would be a lot of
 questions."
 
-Not to mention expose about Star and me.
+Not to mention exposure about Star and me.
 
 "I'll handle the press," Dad said. "The police will not be investigating
 this matter. It is regrettable, but it is the custom here in Ptolemy
@@ -1643,9 +1613,11 @@ name."
 do backups and decide what material can be less readily available. I'm
 sure they are well aware of me as a data group."
 
-I realized Star could have requested memories of me might be moved to
+I realized that Star could have requested memories of me should be moved to
 less available storage. Star would not delete them, just basically
-forget about me. I found this a very painful thought. \<p\<\>"Keep
+forget about me. I found this a very painful thought.
+
+"Keep
 thinking this way and you'll convince yourself you shouldn't ended
 things," I scolded myself. "It wasn't a good match. Exciting, yes, but
 not at all beneficial."
@@ -1659,20 +1631,6 @@ then regretted it.
 
 ## Chapter 13
 
-investigator Ronnie Camberwell's Case Notes for ## Chapter 12
-
-Kearsarge is dead.
-
-her body was found in the intersection of Fifth and elm in the River
-District.
-
-Police chief Troy Camberwell asked me to investigate her death. I am
-awaiting a review of my contract to-see if i can do this. Dad does not
-think i will garner much press attention, especially when the Olympics
-conclude and the sports world moves on. I am not so sure. My association
-with Captain Star Runner is a juicy enough story and could certainly be
-blown all out of proportion.
-
 While I waited at the police station, the autopsy bots analyzed
 Kearsarge's body for a cause of death. They concluded she died of a
 heart attack but what, if anything, had brought it on was in determined.
@@ -1685,8 +1643,8 @@ stepped onto the Alexandria Space Station. Most did not realize this
 since they routinely signed all sorts of documents when entering and
 leaving star systems.
 
-My dad simply want to know the players to make his job of policing and
-safeguarding the service workers easily. Were there any new players in
+My dad simply wanted to know the players to make his job of policing and
+safeguarding the service workers easier. Were there any new players in
 town? Had alliances shifted. Was there more here than met the eye?
 
 Personally, I thought so. I did not think her death involved the local
@@ -1715,7 +1673,7 @@ I forwarded all this information to my accounting advisor. My immediate
 attention to this matter surprised me. It was not the sort of thing I
 would have ever thought of several years ago. Captain Star Runner would
 have thought about it and done it just as I had just done. A lot of the
-Pantheran had rubbed off on me. In this case, it was a very good thing.
+Pantheran must have rubbed off on me. In this case, it was a very good thing.
 
 For the record, both accountants and legal advisors are highly efficient
 and tailored programs. They are overseen by humans but people do not
@@ -1727,8 +1685,8 @@ contract.
 
 Had Kearsarge expected to die and that made my fee as high as it was?
 
-"Curiouser curiouser," Dad said commented when I told him. "At least you
-will be able to get inside the house and look around."""
+"Curiouser and curiouser," Dad commented when I told him. "At least you
+will be able to get inside the house and look around."
 
 I said, "Would you like to come."
 
@@ -1798,7 +1756,7 @@ Nothing there to give me a lead. What else could I do?
 Of course. I could talk with the people at the Elwood Street Diner.
 Perhaps someone there knew something, saw something, had an idea.
 
-"Investigator Camberwell," a man approached me as a left the building. I
+"Investigator Camberwell." A man approached me as I left the building. I
 hesitated. He was unfamiliar to me and he knew my name and more
 disquieting, that I was an investigator. Should I summon the security
 officer? (Another feature of the Womyn's Cooperative Housing Authority.
@@ -1834,7 +1792,7 @@ named me Absalom Gebb."
 Blake Redman stared at me. "How do you know the Lady From Nowhere?" he
 asked.
 
-"A friend of my family is Simon Parge,"" I said.
+"A friend of my family is Simon Parge," I said.
 
 Blake laughed. "Fair enough," he said.
 
@@ -1887,7 +1845,7 @@ of it."
 "Probably not," I agreed. "But your news outlet probably has a location
 I have heard of."
 
-"Solar City, of course, but I'm rarely there." Redman"
+"Solar City, of course, but I'm rarely there."
 
 We got out at the corner of Lower Nile Street and Elwood Street. I
 walked toward the diner.
@@ -1897,7 +1855,7 @@ walked toward the diner.
 "I'm going to the Elwood Diner," I said. "You can buy me lunch. This is
 a working class neighborhood called the River District."
 
-The untidy woman was again behind the counter. \<"Hello, Ronnie," she
+The untidy woman was again behind the counter. "Hello, Ronnie," she
 boomed. "And who is this handsome man you have in tow?"
 
 "This is Blake, Theresa," I said.
@@ -1905,8 +1863,8 @@ boomed. "And who is this handsome man you have in tow?"
 I scanned her board. "I'll have the salad special. Blake's paying."
 
 And with that I walked to the back to the booth Kearsarge and I shared
-two days ago when she was very much alive. Long ago Simon and Dad has
-disabused of the idea I could change what happened after the fact. I did
+two days ago when she was very much alive. Long ago Simon and Dad had
+disabused of the idea that I could change what happened after the fact. I did
 not wonder if anything I could have said would have changed the outcome
 of Kearsarge lying dead in at Fifth and Elm.
 
@@ -1931,7 +1889,7 @@ asked.
 infrastructure that takes that into account."
 
 Blake again stared at me. "You are all crazy," he said. "I'll be glad to
-back aboard the Alexandria Space Station. I at least have confidence in
+be back aboard the Alexandria Space Station. I at least have confidence in
 that not falling into a volcano."
 
 "Or the North Sea," I said, giving him a wicked grin. "The acids in the
@@ -1958,7 +1916,7 @@ that Kearsarge left you money to do that."
 
 So much for keeping a low profile. And so much for keeping this
 information from Blake Redman, but I already thought he knew. Why call
-me "Investigator Camberwell" and why follow me all the way to the River
+me "Investigator Camberwell" and why follow me all the way to the Warehouse
 District for lunch?
 
 "So what's your interest in Kearsarge?" I asked Blake Redman. "Is it the
@@ -1978,7 +1936,7 @@ Redman put down his coffee cup deliberately.
 
 "You're new at this investigating business, aren't you?" he asked me.
 
-"I'm new as being a private investigator," I said. "I'm former police."
+"I'm new at being a private investigator," I said. "I'm former police."
 
 "It's a different game," Redman said. "People don't have to answer your
 questions."
@@ -2008,21 +1966,21 @@ Our food arrived. We spent several minutes eating the hot and fragrant
 food. Theresa was a good cook. She made a mean tofu breakfast scramble.
 
 I knew very little about Fair Haven. My in depth background check was
-overdue. Maybe Blake Redman could fill me.
+overdue. Maybe Blake Redman could fill me in.
 
 "Kearsarge's family lives in Cherry Vale. That's not a town. It's a
 royal holding. Do you know what that is?"
 
 "No clue."
 
-"Kearsarge's family is has sword allegiance to the prince of the
+"Kearsarge's family has sword allegiance to the prince of the
 Mountain Region. Cherry Vale is a subsection of this princely region."
-
-Note to self: Need a better name than Mountain Region. Stay tuned.
 
 "Kearsarge was married to a lesser relative of Princess Jennifer."
 
-"Samuel Cornelius Mudd," I offered. \<p\<\>"Lord Samuel Cornelius Mudd,"
+"Samuel Cornelius Mudd," I offered.
+
+"Lord Samuel Cornelius Mudd,"
 Redman corrected. "Kearsarge was properly Lady Kearsarge which is why
 she went by Kearsarge. She's a York and Mudd is a Bender. These are very
 old families on Fair Haven. I don't know why or how Lord Samuel's family
@@ -2043,15 +2001,6 @@ it. There is a difference."
 
 ## Chapter 15
 
-Investigator Ronnie Camberwell's Case Notes for ## Chapter 14
-
-I learned the sports world was shock by Kearsarge's death but had no
-angles for me to pursue.
-
-I am the legal owner of 17 Dollar Bay Drive. I have enough money
-designated by Kearsarge for its upkeep. Dad and I will go through the
-house at 3 pm.
-
 "What have you found out so far?"
 
 I thought Blake Redman might not answer my question because i was being
@@ -2061,26 +2010,26 @@ so direct. Again he surprised me.
 haven into the Coalition. I have good documentation on that. What is not
 clear at all is whether the Bender family is involved. I rather think
 they are. Why else would a younger lord of the realm marry one of their
-daughters???""
+daughters?"
 
-"Ass an alliance" I suggested.
+"An alliance" I suggested.
 
 "What would be in it for the Benders?"
 
 "Access?"?"
 
-""To what?"
+"To what?"
 
 "A piece of the action, suppliers, buyers, routes, corrupt officials?"
 
 "possibly. I think it is more likely that the Yorks learned something
 about the Benders they could use as leverage."
 
-""Blackmail then??"
+"Blackmail then??"
 
 "Precisely."
 
-Two things came to mind which Emily Dickinson told me.
+Three things came to mind which Emily Dickinson told me.
 
 1.     He owed someone big time so he had to come back to Hypatia to
 execute the assassination contract.
@@ -2088,8 +2037,7 @@ execute the assassination contract.
 2.     he warned me off of getting involved with Kearsarge because of
 some undefined danger to me and possibly him.
 
-3.     Emily Dickinson called Kearsarge a bitch.\
-\
+3.     Emily Dickinson called Kearsarge a bitch.
 
 Then another thought occurred to me. How did I know the person across
 from me was either Absalom Gebb, Blake Redman or someone who meant me
@@ -2130,7 +2078,7 @@ offices."
 
 "Why not?"
 
-I didn't realize you could just walk up to a real pirate and interview
+"I didn't realize you could just walk up to a real pirate and interview
 them."
 
 "They might not talk," I said. "But you never know. I suggest we catch a
@@ -2144,7 +2092,7 @@ vetting Mr. Blake Redman and then I would know if he was legitimate or
 not.
 
 We did indeed catch a camel and found the offices of the League in the
-Warehouse District.
+River District.
 
 Captain William Kidd lounged at the desk when we entered.
 
@@ -2160,7 +2108,7 @@ I smiled. No matter how many times I told Captain Kidd I was a lesbian,
 he always talked about me being what he called "all girl". For the
 record, I'm not pretty. I d not dress up and I am definitely not dainty.
 
-""Captain Kidd," I said, "this is Blake Red from the Solar League
+"Captain Kidd," I said, "this is Blake Redman from the Solar League
 Examiner. He wants to talk to you about some investigative reporting he
 is doing. Would you be willing to talk to him?"
 
@@ -2197,7 +2145,7 @@ Haven," Blake Redman said. "Can you comment on that."
 "Near the Coalition border on the Southern Frontier."
 
 "Ah yes, Fair Haven." Captain Kidd spoke in a drawl. I had no idea where
-he hailed from originally though I knew he operated out of the Pharaoh
+he hailed from originally though I knew he had operated out of the Pharaoh
 Star System for many years until he became afraid to go into space. I
 had never learned what caused his fear. It was likely to be some near
 death experience-- a fire, lack of food, drifting in space for a long
@@ -2232,7 +2180,7 @@ understand?"
 
 "So I've heard," Redman said. "Can you be specific?"
 
-"I'm afraid not," Captain Kidd said, "that might embarrass a irate or
+"I'm afraid not," Captain Kidd said, "that might embarrass a pirate or
 two around here."
 
 "What can you tell me about the Bender family."
@@ -2284,8 +2232,10 @@ out at some of the pirate bars tonight and see who will talk."
 "And where would they be?"
 
 "In this district," I said. "I'd try Long John Silver's or the Treasure
-Chest. They're safe enough and hey have enough people in them to get a
+Chest. They're safe enough and they have enough people in them to get a
 story going."
+
+"I'll meet you at the Elwood Street Diner for lunch to let you know what I find out," Redman said.
 
 We climbed aboard an elephant with several other passengers. Redman gave
 his hotel address. He was staying at the Palace Hotel. I gave my flat's
@@ -2325,47 +2275,20 @@ memorandum and the attached specifications.
 
 I wondered how long my good friend Dennis would be around.
 
-"That particular Dennis won't be around Lon," Susan said. I was rubbing
-my wrist again. I needed to be more careful about that and I needed to
-talk with Susan more.
+Later I would learn that all contacts with that office would be called Dennis.
 
-"But you need not worry. All the Fungusians who occupy that position in
-the network will be called Dennis, at least when corresponding with
-humans. You can just keep on thinking of him as Dennis and all will be
-well."
-
-"All roads lead to Fair Haven," I said.
-
-"Indeed they do," Susan said. "You can find out if there is any
-information left at Kearsarge's house that will help you."
-
-"I am beginning to wonder how much longer Should pursue this case. From
-all I hear, the Yorks are not nice people."
-
-"What you need to find out is: Are you in any danger because you are
-working for a York," Susan said.
-
-"How did you get so smart?" I asked. "You told me you were not an AI."
-
-"I have a special subroutine for dangerous situations. Usually such
-dangers are financial or physical like an amusement park ride when you
-have a bad heart," Susan said. "You simply exceeded the number of pieces
-of information that said the York family is dangerous and you are
-working for a York family member."
-
-I thought about that. Would I be swept up in the operation that killed
+"All roads lead to Fair Haven," I thought. "I need to find out if there is any
+information left at Kearsarge's house that will help me. Then again, 
+I am beginning to wonder how much longer I should pursue this case. From
+all I hear, the Yorks are not nice people.
+What I need to find out is: Am I in any danger because I am
+orking for a York? Would I be swept up in the operation that killed
 Kearsarge. Was she killed in retaliation for the assassination contract
 she took out on her husband? I had assumed so. Was something else
 possible? Could it be a competitor of the Yorks which the Benders,
-possible, were not?
+possible, were not? I hoped I wouldn't have to travel to Fair Haven."
 
-"I hope I don't have to travel to Fair Haven," I said.
-
-"You will have to evaluate that possibility at a future date," Susan
-said.
-
-How unhelpful. I turned her off. Maybe talking to her was not a good
-idea after all.
+I knew I  would have to evaluate that possibility at a future date.
 
 I definitely needed a sounding board. I would have to find someone
 quick. Could Simon Parge or even Blake Redman fill that role?
@@ -2398,36 +2321,13 @@ only know who I am, they think I do good work."
 "Same thing," Josh said and hung up before I could make another
 impertinent retort.
 
-4.     ## Chapter 16
-
-5.     Investigator Ronnie Camberwell's Case Notes for ## Chapter 15
-
-Blake Redman and I questioned Captain William Kidd at the League of
-Hypatian Pirates. Captain Kidd confirmed that the York family were
-smugglers, brining goods into the Solar League across the Coalition
-border. He described the family as nasty. Otherwise, we could get no
-information out of him though I suspect he knows more than he is
-telling. I'm not sure how to get more information out of him right now.
-
-The Fungusians sent me the information so Josh Hardy could remove the
-block on his trace. The Fungusians indicated the messages were coming
-from Fair Haven. I am leaving it to Josh to learn more.
-
-I sent Redman to the bars to check out what the spacers knew about the
-smuggling operations on Fair Haven. He agreed to meet me for lunch
-tomorrow at the Elwood Street Diner to share with me what he learned.
-
-I did not tell him I was going to Kearsarge's house on Dollar Bay Drive.
-I will share what I think applies to his investigation when I see him.
-
-\* \* \*
+## Chapter 16
 
 Dollar Bay Drive was awesome. The houses were five stories high with
 flitter landing pads on top. This left an amazing amount of space free
 and open to the dome. Garden areas adjoined the landing pad with patios
 so people could sit there and enjoy the unobstructed view of the
 Hypatian landscape.
-
 Each house had land all around it with plainsman. It was like having
 your own park to yourself.
 
@@ -2483,7 +2383,7 @@ steps, the house said, "Welcome to your new home, Ronnie," and finally
 opened the door.
 
 "House," I said when Dad closed the door behind us, "do you have verbal
-input and output." \<
+input and output?"
 
 "Yes," the house said in a rich male voice. "I am called Arthur. If you
 would prefer to call me something else--"
@@ -2525,7 +2425,7 @@ ones, love praise.
 
 "A visual identification is always helpful," Arthur said. "I recognized
 you when you got out of the gazelle. Your father was known to me as a
-city official.
+city official."
 
 "Very good," I said. "Where can we see the holograms?"
 
@@ -2561,7 +2461,7 @@ cushion of air lifts and lowers you."
 
 "NO," my dad said.
 
-I expected he would not want me to ink he was afraid.
+I expected he would not want me to think he was afraid.
 
 We negotiated the bounce tube easily and walked into a large room. Its
 windows were covered with a privacy screen. Holograms of three people,
@@ -2579,13 +2479,13 @@ Dayton."
 
 "Of course," Dad said.
 
-"Delete this one's access," I said, "but don't delete anything else
+"Arthur, Delete this one's access," I said, "but don't delete anything else
 right now. All his data should be retained under the name Charlie
 Dayton."
 
 "OK." Arthur responded promptly. "Done."
 
-"These two," Dad said, "are well-known criminals. They're Peppermint
+"These two," Dad said, "are well-known criminals. They're POstumous
 Patty Parine and Dagger Dan Duncan."
 
 "Now I remember," I said. "What are they doing with access to this
@@ -2595,9 +2495,9 @@ Arthur decided I was speaking to him and proceeded to give me an answer.
 
 "They discussed business with Lady Kearsarge."
 
-"Provide my link, Susan, with a summary," I said. "Can you do that?"
+"Provide my link with a summary," I said. "Can you do that?"
 
-"Ye, but it will take several hours."
+"Yes, but it will take several hours."
 
 "Start working on it immediately. I may need answers to a number of
 questions so leave processing capability to answer."
@@ -2644,7 +2544,7 @@ winning. But I'll show them. I really will."
 And that was it. She did not sound convinced. I expected her to stamp
 her foot, but she did not. She just stared and looked very vulnerable
 and scared. I wondered if she had ever felt that way before. Everything
-was hard about this woman except her nuisance that she was scared. I
+was hard about this woman except her insistence that she was scared. I
 believed her. She really had been scared.
 
 "What time was this recorded?" I asked Arthur.
@@ -2685,52 +2585,33 @@ had been tampered with? I had fallen so quickly into the mind set that
 he cold be trusted. This was not Christabel, Star's AI. This was an
 unknown quantity.
 
-I intentionally turned Susan on.
-
-"Hi, Ronnie," she said in her perky voice.
-
-"Susan," I said, cutting across her standard greeting. "When was the
+I subvocalized a question to my link. "When was the
 last time you received a security update?"
 
-"My system is up-to-date," Susan announced.
+All systems up-to-date.
 
-"That's not what I asked you," I said, my fear making me impatient.
-"When was your wet wiring last updated for security?"
+I frowned and felt my stomach clench. This was not a direct answer. My link did not prevaricate.
 
-"Thirty-seven minutes ago," Hausa said.
+I rephrased my question.
 
-"Thank you, Susan. In future, please answer the question I ask and then
-provide other information as needed in your judgment."
+Thirty-seven minutes ago.
 
-"Yes, Ronnie, I'll do that."
+Not good. I sent a message to Josh, asking him to do a deep scan of the house's systems ASAP.
 
-"Now send a priority message to Josh Hardy asking him to do a deep scan
-of Arthur's systems. I need him to do it as soon as possible."
-
-"OK, Ronnie. Message sent."
-
-"Good. Keep listening but be quiet unless I need, I mean really need, to
-hear something important."
-
-I was babbling. What kind of an instruction was that to a link, even a
-top-of the-line link like Susan.
-
-"OK, Ronnie," Susan said.
-
-"Arthur, you heard that. Allow Josh Hardy access to all our systems. Be
-cooperative. Hold noting back."
+"Arthur, Allow Josh Hardy access to all your systems. Be
+cooperative. Hold nothing back."
 
 "Yes, Ronnie," Arthur said. "Is Josh hardy a trusted person?"
 
 "Absolutely," I said. "He can enter the house, too."
 
 That was a bit risky. Josh could show up uninvited and get in. It was a
-risk I would have to take given the current situation of this case.
+risk I would have to take given the current situation of this case. I could always revoke access that would be fraught with difficulty. I would cross that bridge when I came to it.
 
 I felt drained.
 
 "I've been thinking," Dad said when everything had been quiet for a few
-minutes. "If Peppermint Patty and Dagger Dan are involved, there could
+minutes. "If Postumous Patty and Dagger Dan are involved, there could
 be some real danger. To my way of thinking, they're the ones who could
 have killed Kearsarge.
 
@@ -2742,15 +2623,14 @@ I told him not to turn up before ten. It's only five now. Let's see if
 there is anything else to discover here in the house. Then I'll message
 him. I have to figure out what to tell him."
 
-"Can you trust him?" my dad asked.
+"Can you trust him?" Dad asked.
 
 "I have no idea," I said. "So far, Figure I can trust you, Josh, and the
 Parges."
 
 "Kevin, too," Dad said, always willing to take Kevin's side.
 
-"Kevin, too." I begrudged Kevin my trust, but he is my brother.\
-\
+"Kevin, too." I begrudged Kevin my trust. He is my brother.
 
 We walked through the house, but we didn't find anything much. The
 flitter was parked on its pad. The automated systems of the house kept
@@ -2774,41 +2654,11 @@ has been willing to help me with this improbable case.
 "If we're going to make dinner at the Parge's, we better get
 going," Dad said. "It's a long ride to Pimlico from here."
 
-## Fracas at the Treasure Chest
-
-     Investigator Ronnie Camberwell's Case Notes for ## Chapter 16
-
-Kearsarge prearranged for her house AI Arthur to admit me.
-
-I am having Josh Hardy check Arthur out.
-
-Arthur identified three people as having access to the house:
-
-1.     Charlie Dayton, the mine chief executive officer.
-
-2.     Posthumous Patty Parine
-
-3.     Dagger Dan somebody (I can't remember his name at the moment)
-
-These last two are known criminals who exceed even Ptolemy City law at
-times.
-
-I warned Blake Redman about these two as they frequent the Treasure
-Chest. His questions there could promote a confrontation.
-
-Kearsarge left me a holo in which she says she received a message saying
-she would be dead by morning. She said she was scared.
-
-I still have no idea what prompted her to leave the house and how she
-ended up in Green Way Station.
-
-## Dinner at the Parges
-
- 
+## Chapter 17: Dinner at the Parges
 
 "Well there you have it," Simon Parge said after dinner from the
 confines of his contra-gravity chair. "Posthumous Patty and Dagger Dan
-Somebody knocked her off. You'll never prove it. But that's what
+ knocked her off. You'll never prove it. But that's what
 happened."
 
 "But it makes no sense," I protested.
@@ -2833,23 +2683,15 @@ That was not the way I operated. I certainly did not think this case was
 at an end. I had a bad feeling about it -- that there was something none
 of us knew.
 
-"Incoming message," Susan announced
+My link buzzed. I assumed it was Josh. Who else would send me a message? But it was not Josh.
 
-Everyone looked at me. Wet wiring of this sort was still quite rare in
-Ptolemy City.
-
-"My link," I explained lamely. "Yes, Susan, what is it?"
-
-I assumed it was Josh. Who else would send me a message?
-
-But it was not Josh.
+It was an audio message, one of those that read itself out loud without you doing anything.
 
 "Message sender unknown. Message reads: Stop all investigations or you
 will die just like Kearsarge did. Remember the intersection of Fifth and
 Elm."
 
-No one moved. No one said anything. The spoken message in Susan's voice
-hung in the air.
+No one moved. No one said anything. The spoken message hung in the air.
 
 "I told you not to get involved, Ronnie," Simon said, breaking the awful
 silence.
@@ -2861,8 +2703,7 @@ the private investigation business.
 "I told her to get involved," Dad said, more forcefully than he usually
 did in Simon's presence.
 
-While they spoke, I sent Josh the message and all the particulars Susan
-had on it. I suspected the message came from the same source as all the
+While they spoke, I sent Josh the message and all the particulars I had on it. I suspected the message came from the same source as all the
 others.
 
 Josh messaged me back almost instantly.
@@ -2910,10 +2751,7 @@ Ptolemy City."
 
 "You still need to protect yourself," Dad said.
 
-"Susan is checking out options now," I said.
-
-I consulted the list of possibilities. Dad leaned over to see the
-virtual screen Susan popped up for me. Simon was unable to see the
+I popped up a virtual screen of possible arms. Simon was unable to see the
 screen because of where he was sitting. He shifted restlessly in his
 chair, unwilling to move it for a better angle but being irritated he
 could not see.
@@ -2922,8 +2760,8 @@ could not see.
 
 "Expensive," Dad said.
 
-"Worth it," I said. "It has a good energy chagrin and it stays charged
-Lora long while. I'm not planning on using it. I'm just planning on
+"Worth it," I said. "It has a good energy profile  and it stays charged
+for a long while. I'm not planning on using it. I'm just planning on
 carrying it."
 
 "What?" Simon demanded.
@@ -2975,14 +2813,13 @@ could do on his own.
 "Is Blake Redman covered under a service worker designation?" I asked
 Dad.
 
-"He works for a living," Dad says. "He has to go into difficult places
+"He works for a living," Dad said. "He has to go into difficult places
 to do his job. I would think a writer for the Solar League Examiner
-could broadly be interrupted as a service worker."
+could broadly be interperted as a service worker."
 
 We did not have such news organizations in Ptolemy City. There were
 people who published information on the neural net, but it was a very
-informal arrangement. I made a non-verbal note to Susan to remind me to
-check in with The Czarina. She might have some interesting tidbits. She
+informal arrangement. I set a reminderto check in with The Czarina. She might have some interesting tidbits. She
 worked with Captain Star Runner when Star needed some information. Maybe
 she would share with me, too.
 
@@ -3004,7 +2841,7 @@ blood.
 
 "Hello there, Ronnie," Captain Kidd drawled when he saw me. "I dragged
 your friend out of a situation." He grinned. "Posthumous Patty took
-exception to something he said. She took out her laser cuter and you
+exception to something he said. She took out her laser cutter and you
 know how she likes to play with it."
 
 Dad said to Kevin, "What happened?"
@@ -3012,7 +2849,7 @@ Dad said to Kevin, "What happened?"
 "This guy," Kevin said, indicating Blake Redman, "started asking
 questions. He's a reporter from the Solar League Examiner, or so he
 says. Some folks took a dim view of him butting into their business. He
-was talking to Dagger Dan Somebody and Posthumous Patty started waving
+was talking to Dagger Dan and Posthumous Patty started waving
 her laser cutter around. A few pirates challenged her right to do that
 at the Treasure Chest. You know Animal Andy prohibits displays of
 weapons in his bar. It got ugly fast and Captain Kidd pulled this
@@ -3031,7 +2868,7 @@ excitement for a man of my age."
 
 And with that, he left.
 
-"Dad next turned to Redman,"Do you need medical care? I can send you
+Dad next turned to Redman,"Do you need medical care? I can send you
 over to urgent care."
 
 "I should go," Redman admitted. "I haven't been involved in a brouhaha
@@ -3053,7 +2890,7 @@ coming."
 
 "That's fine," Dad said. "You'll be okay?"
 
-He meant "would I be safe?" I said "Yes" and Red and I got into a
+He meant "would I be safe?" I said "Yes" and Redman and I got into a
 caravan.
 
 "Well that didn't turn out very well," Redman admitted. "I thought my
@@ -3106,8 +2943,8 @@ Has your tech guy gotten back to you with anything?"
 
 I had not noticed if I received any messages. I checked. There were two
 from Josh, the second one sounded urgent. I realized he must think I was
-in danger, dead or otherwise unable to answer. I asked Susan to ramp up
-the notification signals and messaged Josh immediately. We set up a
+in danger, dead or otherwise unable to answer. I ramedp up
+my notification signals and messaged Josh immediately. We set up a
 voice link.
 
 "Ronnie, I was panicked you didn't answer," Josh said when I was
@@ -3120,35 +2957,10 @@ what to do next."
 "I'll be over," Josh said. "I want to share with you what I've found
 out."
 
-9.     "That would be great," I said. "The more minds working on this
+"That would be great," I said. "The more minds working on this
 the better."
 
-10.   ## Chapter 18
-
-11.   Investigator Ronnie Camberwell's Case Notes for ## Chapter 17
-
-Note to Self: It occurs to me that this story line does not follow day
-by day so this title is a bit misleading. As I revise, the time frame
-will either expand or the case notes will be framed in a different way.
-It is convenient to recap before I start another chapter.
-
-I bought a ray gun for protection after I received message from an
-unknown source warning me off my investigation.
-
-I have few leads other than this.
-
-Simon Parge concluded the case is finished, but I don't think so,
-especially after receiving this message.
-
-Blake Redman was involved in an altercation at the Treasure Chest when
-he approached Posthumous Patty and Dagger Dan. He escaped serious injury
-because Captain Kidd pulled him out of the melee which ensued.
-
-Blake Redman, Josh hardy and I have convened at Blake's room in the
-Palace Hotel to plan a strategy. We need to get to the bottom of this
-case. Speed seems important.
-
- 
+## Chapter 18
 
 "I'm running all the scans I can think of," Josh said after he arrived.
 His hair was sticking out all over. He was dressed in a teeshirt with a
@@ -3201,10 +3013,10 @@ would know who I was speaking about, but he simply nodded.
 if it was ethical to bring in the Fungusian Network when a hack was in
 danger of failing and his client and best friend was at risk. "I'll send
 the info off to Dennis to see what the Fungusians make of it. Maybe
-he'll be as trilled with this as he was with the message tracing block
+he'll be as thrilled with this as he was with the message tracing block
 you sent him earlier."
 
-"When do you think you'll now anything from your scans?" Blake asked
+"When do you think you'll know anything from your scans?" Blake asked
 Josh.
 
 "Not for several hours," Josh said. "My systems are state-of-he-art and
@@ -3220,7 +3032,7 @@ initial responses are from the media which, I am sure you are not
 surprised to learn, is very pro royal. These deaths are "tragic" and
 "unfortunate", "cut down in their prime", that sort of thing. I'm trying
 to get the true family reaction. That's easier to get on the ground, but
-as I am not on Fair Haven and not likely to be there any tie soon, I'm
+as I am not on Fair Haven and not likely to be there any time soon, I'm
 relying on local journalists. They have to be very, very careful as the
 royals take a dim view of reporters sniffing around them to get
 sensational headlines."
@@ -3234,7 +3046,7 @@ back to the Solar League. I want to be sure the Coalition lets me back
 in. My pass will expire in twenty-four hours. If I'm not off Hypatia by
 then, I'm not going anywhere."
 
-"So what can you do before then?" I asked. Tends-four hors is not a lot
+"So what can you do before then?" I asked. Twenty-four hours is not a lot
 of time.
 
 "I was thinking about tracking down Charlie Dayton and talking to him,"
@@ -3309,10 +3121,11 @@ after I speak with The Czarina," I said.
 "That's good. We can't get a flight until afternoon. Will The Czarina
 talk to me if I go with you?"
 
-"Sure," I said. "She'll want to appear in one of your articles. She
-loves notoriety."
+Although I knew the Czarina craved the noteriety Blake Redman could give her, I expected the Czarina would not to know about my break-up with STar. Ididn't want to discuss that with Blake present.
 
-"Then we have a plan." Blake said. \<
+"i'll let you know what she has to say," I said aloud. "I'm sure you can contact her when you're off planet. She will like the notitery in the Coalition. If you check, you'll find out more about her there."
+
+"Then we have a plan." Blake said.
 
 "When do we get back together?" Josh asked. "These routines will run all
 night. I can check them in the morning."
@@ -3360,7 +3173,7 @@ view.
 
 "You look comfortable," I observed.
 
-"this is a much nicer view tan I have," Josh said. "How's the view on
+"this is a much nicer view than I have," Josh said. "How's the view on
 Dollar Bay Drive?"
 
 "Splendid from the roof garden," I said. "Learn anything?"
@@ -3457,7 +3270,7 @@ Shepheard's Hotel under my own recognizance.
 Shepheard's Hotel is, in many ways, at the core of the Tenderloin and
 thus at the center of life in Ptolemy City.
 
-"The hotel is not physically in the center of the dome. That would put
+The hotel is not physically in the center of the dome. That would put
 it in the Nile River and the center of Lake Memphis. Instead, it adjoins
 the eastern wall so guests and visitors have an unobstructed view of the
 Flaming Mountains, range of volcanoes which parallels the Nile and forms
@@ -3660,7 +3473,7 @@ Star held it close.
 
 I leaned over the table and spoke very softly. "Kearsarge received death
 threats. I don't know from whom. I'm trying to find out. Now I have
-received a threat. Whoever is sending them wants me to quit
+received one myself. Whoever is sending them wants me to quit
 investigating. Have you heard anything about messages from outside the
 Pharaoh Star System?"
 
@@ -3674,7 +3487,7 @@ The Czarina was surprised and dismayed.
 
 "I'm sorry," I said, "but I have to know. I need to stop this."
 
-"Of course you do," The Czarina said. "I am for women taking care of
+"Of course you do, dear," The Czarina said. "I am for women taking care of
 themselves. I always had to take care of myself. Now let me think."
 
 I let her think, swallowing the last of my now cold tea.
@@ -3720,46 +3533,14 @@ unpublished tale.)
 I had just enough time to make it to the Ferris Lighthouse Spaceport for
 my shuttle ride to the Alexandria Space Station.
 
-12.   The spaceport is located outside the Ptolemy City dome proper in
+ The spaceport is located outside the Ptolemy City dome proper in
 an area called the Levant. Sometimes it is referred to as the Tripoli
 Spaceport by old time pirates who know the history of the League.
 Captain Star Runner mentioned it once, but then Star has access to
-databases replete which such information. Right now, I just wanted not
+databases replete whith such information. Right now, I just wanted not
 to miss my shuttle.
 
-13.   ## Chapter 19
-
-14.   Investigator Ronnie Camberwell's Notes for ## Chapter 18
-
-Kearsarge liked living "rough" according to The Czarina. Speculation:
-Posthumous Patty and Dagger Dan were her "Best Friends" in this
-affectation.
-
-Josh learned the house AI Arthur has some sophisticated subroutines.
-Josh cannot identify them so he has walled them off.
-
-The Czarina and Josh confirmed an affair between Kearsarge and Charlie
-Dayton. It is unclear what Kearsarge's motivation was: lust or a cover
-for the assassination contract.
-
-Josh has sent the encrypted files to the Fungusians to learn how to
-crack it.
-
-The Czarina told me about the theft of antonium from the mines. The
-League of Hypatian Pirates is upset they were not asked to transport it
-out of the system.
-
-Question: Why did Charlie Dayton not purchase the contract on Sam Mudd
-and save his life? He was upset at his death.
-
-Note to self: Ronnie says she will take Blake Redman to the interview
-with The Czarina but does not. The interview makes sense with Ronnie
-alone though The Czarina and Blake would have wanted to talk to each
-other. The Czarina is quite open with Ronnie which would not have been
-the case if Blake was present. Captain Star Runner is a common element
-between the two women.
-
- 
+## Chapter 19
 
 I just made the shuttle, sliding into the seat next to Blake. We could
 not talk freely so we said nothing.
@@ -3771,7 +3552,7 @@ orbit above Hypatia, but not in view of Ptolemy City so it does not
 block the spectacular views of the night sky or the daytime views of
 erupting volcanoes and swirling colored winds and snow.
 
-We exited the shuttle and Blake consulted a screen. He frowned. \<
+We exited the shuttle and Blake consulted a screen. He frowned.
 
 "No mention of our shuttle to Mark Antony," he said.
 
@@ -3910,7 +3691,7 @@ get to Ptolemy City often--at least I didn't until I became involved
 with Kearsarge and Sam Mudd. I came to Mark Antony to make money and to
 save it. The pay is good. The opportunity to spend it here is almost
 nil. I figured I could go back to the Solar League and have a decent
-living on a backwater planet. It seems a very good deal. I don't even
+living on a backwater planet. It seemed to be a very good deal. I don't even
 have to know much about mining. I just have to make good deals on
 selling the ore. I was doing OK with that."
 
@@ -3969,7 +3750,7 @@ going anywhere near Ptolemy City."
 next shuttle off. We had a reservation.
 
 We all shook hands and Blake and I walked back through myriad
-passageways back to the shuttle. We said noting to each other about our
+passageways back to the shuttle. We said nothing to each other about our
 interview. We did not know who was listening. In fact, we had no idea if
 Charlie Dayton's office was bugged. If he wasn't checking for bugs, it
 would have seemed strange for us to go over the room. And there were
@@ -4033,7 +3814,7 @@ with me."
 "The Fungusians love to crack code," I said. "The ability to decrypt
 that system will be an upgrade offered over their network." I caught
 myself before I said, "It will be in Star's next database refresh." It
-would be, but no one hear need knew that. What did anyone care, what did
+would be, but no one here needed to know that. What did anyone care, what did
 I care, that Captain Star Runner could decrypt Arthur's database.
 
 We shared our findings with Josh.
@@ -4052,36 +3833,12 @@ We said our good-byes: Nice to meet you. Stay in touch. I'll let you
 know what I find out. It was all the things you'd expect. A pleasure to
 work with you. Look me up if you ever get to ----.
 
-15.   Then Blake walked out of the First Cataract Lounge. I did not
+Then Blake walked out of the First Cataract Lounge. I did not
 expect to ever see him again.
 
-16.   ## Chapter 20
+## Chapter 20
 
-17.   Investigator Ronnie Camberwell's Case Notes for ## Chapter 19
-
-Josh has not heard anything from the Fungusians yet though he did
-receive a confirmation they received his data on the encryption routines
-in the house AI Arthur.
-
-Blake and I interviewed Charlie Dayton.
-
-Strangely, Charlie Dayton was unaware a assassination contract could be
-purchased.
-
-Dayton's responsibility is chiefly to get the ore sold.
-
-He said Mudd was hired to resolve salary issues with mine employees.
-
-Charlie Dayton does not who his Board is.
-
-Although I have a better picture of Charlie Dayton's role, I now have
-more questions than I have answers.
-
-Blake is going back to the Solar League to trace the missing antonium.
-
- 
-
-"I got the feeling," I told Josh, Charlie Dayton didn't want to know
+"I got the feeling," I told Josh, "that Charlie Dayton didn't want to know
 anything. He just wanted to do his job and get paid. I think our
 questions made him very uncomfortable."
 
@@ -4171,7 +3928,7 @@ I showed the note to Josh wordlessly.
 
 This made her small office even more cramped.
 
-"Talk tome, investigator," Tara Lee said. Her tone was crisp. "What do
+"Talk to me, investigator," Tara Lee said. Her tone was crisp. "What do
 you know about this? You and your companion didn't seem overly
 surprised.
 
@@ -4189,6 +3946,7 @@ thought we could be helpful to each other."
 
 "No, not directly," I said. "I'm investigating a death. Redman is, was,
 investigating a smuggling operation based on the Southern Frontier."
+
 "And he was in the Pharaoh Star System because --"
 
 "Because he was covering the Olympics," I said, having a Sudden burst of
@@ -4204,12 +3962,12 @@ tone. "I don't know if telling you more will put you at risk."
 You haven't explained why you need a security expert."
 
 I sighed. "OK," I said, Marshalling my thoughts. Not knowing what I
-needed to know to put all the pieces of this puzzling case made
+needed to know to put all the puzzle pieces of this case together made
 summarizing it extremely difficult. "I was hired to find out where some
 death threats were coming from. The person ended up dead. Blake Redman
 and I thought the person's death might be related to some of his
 investigations back on the Southern Frontier and inside the Coalition.
-Because of the messages, I hired Josh." \<
+Because no one knew where the death threats against Kearsarge were coming from I hired Josh."
 
 "So you think the smugglers got to him," Tara Lee said.
 
@@ -4267,8 +4025,7 @@ tonight."
 
 As it turned out, we canceled that flight, too. Tara Lee found us births
 where we could sleep that night. There was more to discuss than we
-initially thought.\
-\
+initially thought.
 
 The station manager decided Tara Lee should investigate the death of
 Blake Redman. As a investigative journalist for the leading Solar League
@@ -4286,7 +4043,7 @@ Neither Josh nor I were compelled to give Tara Lee much information. We
 could easily claim it was business-related and therefore beyond her
 ability to coerce. However, we made an agreement. We would pool our
 resources. She would get credit for solving Blake's murder. I would
-finish investigation and earn my fee. Josh would be paid for his
+finish my investigation and earn my fee. Josh would be paid for his
 security skills -- at least from Tara Lee. I was certainly going to
 bargain with Josh. My contacts in the Fungusian Network counted for
 something.
@@ -4295,7 +4052,7 @@ something.
 investigation," I said to Tara Lee as we sat over dinner in the
 employees canteen.
 
-"Aren't we used to that?" Tara Lee asked, cutting into her soy steak.
+"Aren't we used to that?" Tara Lee asked, cutting into her non-meat steak.
 
 "Blake Redman is dead," I said. "Kearsarge is dead. You saw the threat
 made against me."
@@ -4303,10 +4060,6 @@ made against me."
 "To be very direct, Ronnie," Tara Lee said, "if someone comes after me,
 it's like coming after the station itself. The powers that be won't
 tolerate that."
-
-"That won't help you if you're dead," Josh said.
-
-"I'm expecting that to keep me from being dead," Tara Lee responded.
 
 "How soon will we get the autopsy results?" I asked.
 
@@ -4330,7 +4083,7 @@ fresh items. I decided it was not the quality of the ingredients but the
 uninspired way they were combined in an indifferent sauce. On the other
 hand, it might just be my mood.
 
-I was started to deal with Blake's death. I had liked him, liked his
+I had liked Blake, liked his
 confident manner, his knowledge and his go-in-there-and-get-the-job done
 attitude. Now I wondered who would ever trace the antonium. I doubted
 the Solar League Examiner would assign somebody else. Besides, the new
@@ -4358,7 +4111,7 @@ Later Josh found Tara Lee and me in her little office.
 he used off-the-shelf components. I know my way around these pretty
 well.
 
-"He didn't salt things very well?" Tara Lee asked.
+"He didn't encrypt things very well?" Tara Lee asked.
 
 "He did," Josh said, "but I have the neural routines to figure them out
 and the network speed to make it practical."
@@ -4403,48 +4156,11 @@ Pantheran AI, but I managed to learn, and fairly quickly I am proud to
 say, how to talk with Josh's system. We had only a tiny bit of delay,
 sending the queries back to Ptolemy City.
 
-18.   Names. Dates Locations. A family tree. And then I saw it: the
+Names. Dates Locations. A family tree. And then I saw it: the
 name. The location. The position. Another piece of the puzzle clicked
 into place.
 
-19.   ## Chapter 21
-
-20.   Investigator Ronnie Camberwell's Case Notes for ## Chapter 20
-
-Josh has hacked Blake's link and made the data available along with his
-sophisticated database query tools.
-
-I have found a name and location which I think will be helpful for our
-investigation going forward.
-
-We are still waiting for the Fungusian Network to contact us and for the
-results of the autopsy.
-
-Working with Tara Lee has been a profitable collaboration thus far.
-
- 
-
-I stared at my case notes. A profitable collaboration? That would be
-something Captain Star Runner would say. Star always thought in terms of
-profit. Had our relationship failed because I was no longer profitable?
-
-"You're tired," I told myself. "You've had quite a shock today. Blake
-Redman was murdered minutes after he left you and Josh at the First
-Cataract Lounge. How can you possibly think that of Star?"
-
-Star is many things, not all of them good or helpful, but Star values
-friendship. It is one of the human characteristics Star most wants to
-emulate. Star was very insistent that we were still friends, that I
-mattered. If I stopped to think about it objectively, Star's friends
-were all close friends. Star had no gradation. There were friends,
-enemies and acquaintances. Lots of people knew Star simply because Star
-was a Pantheran, and a distinctive Pantheran at that. Star never forgot
-a name thanks to Christabel the AI. That did not mean that Star counted
-many people as friends though. There was me, Colonel Gyllian Romeres
-Lujo, Tamara, Emily Dickinson and perhaps The Czarina. That was it.
-
-This line of thinking did nothing at all to consider the name and
-location I found in Blake's data.
+## Chapter 21
 
 Jean Jacques Roseau. That had to be a moniker. No one would have that
 name. I was sure about that. In any event, Roseau worked at the
