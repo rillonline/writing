@@ -4215,7 +4215,7 @@ ties."
 "OK," Tara Lee said. "So what?"
 
 "Kearsarge was part of the York family who made an important alliance
-with the Bender family," I said. "The Yorks are smugglers, at lea
+with the Bender family," I said. "The Yorks are smugglers, at least
 according to Blake. Kearsarge's marriage to a Bender was a big deal as
 that is the controlling family in her region."
 
@@ -4228,7 +4228,7 @@ Aesculapius Medical Center as a medical technician."
 
 "For one thing," I said, "we're a good ways from Fair Haven. Granted
 both Fair Haven and the Pharaoh Star System are outside the Coalition,
-but we're not close star-graphically."
+but we're not close when you consider the regular hyperspace shipping lanes."
 
 "A coincidence then," Tara Lee suggested. "You're grasping at straws.
 You said this person is a medical technician. What of it?"
@@ -4299,14 +4299,13 @@ prosecute anybody. We can only make our suspicions known and let things
 happen."
 
 I thought about this. What were the implications of what I thought I had
-just figured out. Consequences matter a great deal in our part of the
-western galactic arm. People were assassinated for less.
+just figured out. Consequences matter a great deal in our part of free space. People were assassinated for less.
 
 "We don't know who contacted whom," I said slowly. "If Mudd was the
 perpetrator, he could have pressured Roseau. If I understand Blake's
 chart of the royal family and all of its relatives, Mudd had a closer
 relationship to the Crowned Prince than Roseau. Roseau is so far down
-the royal line as to not mater at all."
+the royal line as to not matter at all."
 
 "So Mudd used that leverage to get Roseau to receive the stolen goods,.
 Is that what you are saying?" Tara Lee asked.
@@ -4325,7 +4324,7 @@ I'm just saying that it may not have been their idea."
 "And if I'm understanding you correctly, Mudd was doing this because
 Kearsarge pressured him to do so."
 
-"I think that's why they came to the Pharaoh Star System anther first
+"I think that's why they came to the Pharaoh Star System in the first
 place. I think they were sent here to get the antonium for the York
 family business."
 
@@ -4356,10 +4355,7 @@ enforcement point of view. But Blake did."
 
 "Precisely," I said.
 
-"But I still think--" I trailed off. Still think? Had I been thinking
-this or had it just suggested itself to me.
-
-"I still think," I repeated, "that Kearsarge herself might be involved.
+"I still think," I said, "that Kearsarge herself might be involved.
 If she was pressuring Mudd and he wanted out, that would be a good
 reason to assassinate him. Perhaps he was going to tell someone. Then
 Blake comes along and he ants to tell the whole Coalition what is going
@@ -4384,7 +4380,7 @@ murdered Redman, you'll know who killed Kearsarge."
 
 "I'm with you there." I said.
 
-Tara Lee laughed. \<p\>"An interesting suggestion," she said. "But I
+Tara Lee laughed. "An interesting suggestion," she said. "But I
 think I'll pass tonight."
 
 I smiled, too.
@@ -4428,40 +4424,10 @@ breakfast."
 
 "Yes," I said.
 
-21.   We all left the canteen for some well-deserved rest. Maybe in the
+We all left the canteen for some well-deserved rest. Maybe in the
 morning we would finally have some answers.
 
-22.   ## Chapter 22
-
-23.   Investigator Ronnie Camberwell's Case Notes for ## Chapter 22
-
-In going through Blake Redman's link, I discovered what I think to be
-the key to explaining how the antonium was stolen from the Mark Antony
-Mines.
-
-In my humble opinion, Kearsarge pressured Sam Mudd to arrange for the
-antonium to be purloined. He enlisted the aid of one of his relatives
-who worked in the procurement office for the Aesculapius Medical Center.
-A shuttle from the medical center was used to transfer the antonium from
-Mark Antony to Cleopatra where it was loaded onto a courier at the Over
-the Moon Spaceport.
-
-These conclusions are not provable and not prosecutable as far as Tara
-Lee and I can determine.
-
-Questions still remain, however, and these may lead us to Blake Redman's
-killer which I believe is the same person who killed Kearsarge.
-
-Blake's murder makes some sense: the killer or the killer's employer was
-afraid Blake was getting close to discovering him, her, them.
-Kearsarge's murder is less intelligible. If she was the one responsible
-for the heist, why was she killed?
-
-Josh has received information from the Fungusian Network which will
-allow him to get full access to the house AIs files. We are meeting to
-discuss his findings and to start probing the information at breakfast.
-
- 
+## Chapter 22
 
 I had just taken my first sip of tea when my link signaled. The
 vibration pattern on my arm was urgent. It was also a video call from
