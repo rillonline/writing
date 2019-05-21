@@ -4429,18 +4429,17 @@ morning we would finally have some answers.
 
 ## Chapter 22
 
-I had just taken my first sip of tea when my link signaled. The
-vibration pattern on my arm was urgent. It was also a video call from
-Ptolemy City which surprised me. Who was calling me? The name on the
+I had just taken my first sip of tea when my link signaled with an urgen video voice call from
+Ptolemy City. Who was calling me? The name on the
 call was unfamiliar. I accepted the call anyway. It could be a tip and
 stars above I sure needed one about now.
 
 The Czarina's face appeared, old and worried. Without her makeup and
 tiara, she looked quite haggard.
 
-"Ronnie, I didn't know who else to call," she said, anxiety permeating
+"Ronnie, " she said, anxiety permeating
 her voice. "Emily Dickinson has been rushed to Aesculapius. He said to
-get in touch you regardless of the cost. He said it was urgent that you
+get in touch with you regardless of the cost. He said it was urgent that you
 knew. He wants to talk with you, to tell you something. He looked
 terrible. He said he was poisoned. He said he knew he was poisoned
 because he was poisoned once before. I know that to be true. Captain
@@ -4495,7 +4494,7 @@ I should go to Aesculapius immediately. He wants to talk to me."
 "Is he going to live?" Josh asked.
 
 "I sure hope so," I said. "He knows things, things he wouldn't tell me
-when I asked him. Think they're trying to eliminate him, too."
+when I asked him. I Think they're trying to eliminate him, too."
 
 Josh shivered. "That means you're next," he said.
 
@@ -4512,10 +4511,12 @@ know about this. Josh, do you have access to a network?
 Tell him to figure this out."
 
 "OK," Josh said, fingering is link. "You're going to owe me one of those
-fancy wet wire links when this is all done."
+fancy linkslike you have when this is all done."
 
-"If I'm around to get it done for you, I will," I promised. p\>"I'm
-sending him the decryption data, too. Can he manage that?" Josh asked.
+"If I'm around to get it done for you, I will," I promised.
+
+"I'm sending him the decryption data, too. Can he manage that?" Josh 
+asked.
 
 "He can or he'll find someone to do it," I said.
 
@@ -4535,7 +4536,7 @@ League wants to be that close to a legitimate business, do you?"
 
 "There's a shuttle that runs in the evenings," Josh said, consulting his
 link. "There are restaurants. A group of a certain type of person
-frequents those restaurant. Your friend The Czarina is one of them. The
+frequents those restaurants. Your friend The Czarina is one of them. The
 high rollers go there to gamble, too. People who come here for treatment
 may go over there as well as their families. The rest of the place is
 pretty seedy, like the neighborhoods off the very Lower Nile."
@@ -4567,7 +4568,7 @@ said.
 Josh Hardy. Patient Emily Dickinson requested to speak with me as soon
 as possible."
 
-"Please wait," the door responded, going no information about Emily
+"Please wait," the door responded, giving no information about Emily
 Dickinson away. For all I knew he was dead.
 
 "Enter," the door said, and slid aside.
@@ -4594,8 +4595,8 @@ I knew he was speaking about Captain Star Runner. He always called Star
 Pussy Cat.
 
 "Its been a good friend to me even if I haven't always been a good
-friend to it. You know, Ronnie, that big cat went all over the western
-galactic arm looking for me."
+friend to it. You know, Ronnie, that big cat went all over the 
+explored arm looking for me."
 
 I know, I thought. I was there.
 
@@ -4664,7 +4665,7 @@ It was too bad in a way. Emily Dickinson could have given Blake Redman
 lots of information, even if it wasn't current information, but that
 connection would never be made now.
 
-Josh and I left the room. Emily Dickinson drifted off. The door said he
+Emily Dickinson drifted off. The door said he
 was expected to make a full recovery.
 
 "Should we notify security?" Josh asked. "He could be at risk here in
@@ -4695,32 +4696,9 @@ I checked the time.
 
 "Let's go then," Josh said.
 
-24.   We headed for the shuttle to Over the Moon.
+We headed for the shuttle to Over the Moon.
 
-25.   ## Chapter 23
-
-26.   Investigator Ronnie Camberwell's Case Notes for ## Chapter 22
-
-The Czarina told me Emily Dickinson was being rush to the Aesculapius
-Medical Center. He was ill and poisoning was suspected. Josh and I took
-a shuttle there. I was able to speak with Emily Dickinson.
-
-He told me Dick York of Fair Haven had blackmailed him into taking the
-assassination contract on Sam Mudd. York threatened to expose Emily
-Dickinson to the Southern Frontier and Northern Frontier governments.
-Emily Dickinson did not specify what these long ago crimes were, but
-they were serious enough for him to go back to the Pharaoh Star System
-and execute the contract.
-
-Emily Dickinson is expected to recover.
-
-Tara Lee is providing security as Emily Dickinson may be useful for the
-Blake Redman murder investigation.
-
-Josh and I are going to Over the Moon Spaceport to see if anyone there
-knows anything.
-
- 
+## Chapter 23
 
 I put a video call through to The Czarina. She looked better and
 appeared to be all dressed up and somewhere I did not recognize.
@@ -4789,7 +4767,7 @@ facility."
 "It's called the Little Dog," Josh said, tang my arm. "The dog is
 smiling, all curled up in a basket."
 
-I laughed, too. It was a convincing picture of contentment. \<
+I laughed, too. It was a convincing picture of contentment.
 
 Hey Diddle Diddle was not hard to find. Music spilled out from its broad
 doorway. It was a robo serve restaurant with a floor show. I paused in
@@ -4800,7 +4778,7 @@ the doorway, looking for The Czarina. She waved from a nearby table.
 "A pleasure," The Czarina exclaimed. "Is this your new beau, Ronnie?"
 
 "Josh and I have been best friends since we were kids," I said easily.
-"He's more like a my brother than my own brother is."
+"He's more like a brother to me than my own brother is."
 
 "Your brother is Kevin Camberwell, isn't he?" The Czarina asked.
 
@@ -4904,8 +4882,8 @@ Some of the pirates worked independently. Some, like Captain Star
 Runner, worked on contract. The people Posthumous Patty worked for
 offered the contracts.
 
-"Czarina," I said, knowing I was about to okay my trump card, "if you
-know you need to tell me. I think one of these power brokers try to
+"Czarina," I said, knowing I was about to play my trump card, "if you
+know, you need to tell me. I think one of these power brokers try to
 murder Emily Dickinson."
 
 My drama was spoiled with the arrival of our food. The Czarina steered
@@ -4926,104 +4904,7 @@ efficient. No terror. He just got the job done. We were never lovers,
 but he helped me out when I was really in trouble. I guess I owe him for
 that -- owe him more than money. You'll want to look into Adam Worth."
 
-Josh almost dropped his coffee. Adam Worth was one of the richest men on
-Hypatia. He was a known recluse and considered an upstanding citizen who
-made his money legitimately rather than through nefarious activities. No
-wonder The Czarina was cautious. He could make things very difficult for
-her if he found out my source. And he could easily guess my source.
-
-We didn't stay much longer at Hey Diddle Diddle. It was getting late and
-we had a shuttle to catch. I thanked The Czarina and whispered in her
-ear before I left, "We'll be as discrete as we can. Call me if you
-suspect any trouble. Call me day or night."
-
-"I will," The Czarina promised.
-
-Overstuffed with excellent, food, we made our way to the elevator,
-pausing to look up at the transparent dome over our heads. The stars
-shown brightly with no atmosphere to get in the way.
-
-"Is this what space looks like, way out between the stars?" Josh asked.
-
-""The interstellar ships don't go out into space between the stars," I
-said. "They go through the jump gates long before they get that far
-out."
-
-"I've heard the Pantherans don't use jump gates," Josh said.
-
-"They don't." I said, "Their star runners know where to insert
-themselves into hyperspace and when and where to exit."
-
-"How do they do that?" Josh asked.
-
-"They just know," I said. "Some know better than others. Some can find
-more insertion and exit points. I've even been with Captain Star Runner
-when Star got through a very old jump gate that was closed. They know
-how to steer their ships somehow."
-
-"But how?" Josh asked, still staring up at the star field.
-
-"They're bred with that genetic component," I said. "I think the
-original genetic code was developed at the beginning of space flight and
-now it is engineered into each Pantheran that will become a star runner.
-A quota is filled each year."
-
-"And your Star Runner was engineered that way?" Josh asked.
-
-"Yes," I said.
-
-"And he's particularly good at it?"
-
-"It is," I said. "Some Pantherans think it's because of Star's color."
-
-"His color?"
-
-"a fuchsia-colored Pantheran is quite unique," I said.
-
-We missed several comings and goings of the elevator, just looking out
-into space.
-
-Star is out there somewhere, I thought. I wonder if I can see the stars,
-or the light from the stars, where Star is traveling.
-
-It was an odd thought. If Star were here, Star would point out the
-location, if not the actual stars, for a constellation the Pantherans
-call The Mother of Us All. Star believes The Mother of Us All protects
-Star on Star's travels. When I questioned Star about this, Star said the
-constellation was not the same as The Mother of Us All, just that the
-constellation of a mother Pantheran signified their contact with the
-divine.
-
-27.   My thoughts were still on Captain Star Runner when we entered the
-elevator. Because the doors at the back of the elevator opened onto the
-foyer outside the airlock to the shuttle's parking area, we did not turn
-around to see Posthumous Patty and Dagger Dan step onto the elevator
-behind us.
-
-28.   ## Chapter 24
-
-29.   Investigator Ronnie Camberwell's Case Notes for ## Chapter 23
-
-Note: Does it strike anyone as strange that these case notes appear even
-though there seems to be no situation when Ronnie can write them?
-
-At the Hey Diddle Diddle,The Czarina told Josh and me Posthumous Patty
-was leaving the Pharaoh Star System for Fair Haven.
-
-She also said Adam Worth was responsible for her employment in the past
-as an enforcer.
-
-I must say this astonished me. Adam Worth is one of the richest
-individuals on Hypatia. He lives outside Ptolemy City in one of the
-stand-alone domes. Captain Star Runner and I once lived in one of these
-domes, but Star sold it when Star's business interests took Star
-elsewhere. I neither wanted the dome nor did I think I could pay for its
-upkeep. Star told me the upkeep was not prohibitive with geothermal and
-wind energy available. I pointed out to Star that I did not have or knew
-how to operate a vehicle which could safely transport me to and from
-Ptolemy City. Star agreed with my logic and sold the place.
-
-Adam Worth's dome is said to be palatial and is more a fortress than a
+Josh almost dropped his coffee. Adam Worth's dome is said to be palatial and is more a fortress than a
 home. Worth is reclusive, rarely coming to Ptolemy City. People do
 business with him at his residence which is called the Pyramid.
 
@@ -5041,12 +4922,51 @@ he behind? If Posthumous Patty was indeed shipping out for Fair Haven,
 than was Adam Worth connected to the smuggling on Fair Haven and thus to
 the Solar League?
 
-I thought like most Ptolemy City residents that Adam Worth's business
-interests were solely focused on Hypatia. He owned hotels, bars,
-restaurants, casinos, that sort of thing. Now I wondered if he was
-involved in the Mark Antony Mines and the theft of the antonium.
+I thought like most Ptolemy City residents that Adam Worth's business 
+interests were solely focused on Hypatia. He owned hotels, bars, 
+restaurants, casinos, that sort of thing. Now I wondered if he was 
+involved in the Mark Antony Mines and the theft of the antonium. No 
+wonder The Czarina was cautious. He could make things very difficult for 
+her if he found out my source. And he could easily guess my source.
 
- 
+We didn't stay much longer at Hey Diddle Diddle. It was getting late and
+we had a shuttle to catch. I thanked The Czarina and whispered in her
+ear before I left, "We'll be as discrete as we can. Call me if you
+suspect any trouble. Call me day or night."
+
+"I will, dear," The Czarina promised.
+
+Overstuffed with excellent, food, we made our way to the elevator,
+pausing to look up at the transparent dome over our heads. The stars
+shown brightly with no atmosphere to get in the way.
+
+"Is this what space looks like, way out between the stars?" Josh asked.
+
+"The interstellar ships don't go out into space between the stars," I
+said. "They go through the jump gates long before they get that far
+out."
+
+We missed several comings and goings of the elevator, just looking out
+into space.
+
+Star is out there somewhere, I thought. I wonder if I can see the stars,
+or the light from the stars, where Star is traveling.
+
+It was an odd thought. If Star were here, Star would point out the
+location, if not the actual stars, for a constellation the Pantherans
+call The Mother of Us All. Star believes The Mother of Us All protects
+Star on Star's travels. When I questioned Star about this, Star said the
+constellation was not the same as The Mother of Us All, just that the
+constellation of a mother Pantheran signified their contact with the
+divine.
+
+My thoughts were still on Captain Star Runner when we entered the
+elevator. Because the doors at the back of the elevator opened onto the
+foyer outside the airlock to the shuttle's parking area, we did not turn
+around to see Posthumous Patty and Dagger Dan step onto the elevator
+behind us.
+
+## Chapter 24
 
 When the elevator doors opened, the disembodied voice said, ""Thank you
 for visiting Over the Moon. Please proceed directly through the airlock
