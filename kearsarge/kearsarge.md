@@ -8,57 +8,92 @@
 
 ## I Meet Kearsarge
 
-People are lining up outside the Galactic Diner, waiting for a table inside. I am shocked. I have never seen the restaurant so busy. The people are dressed in sporting clothes--I mean they look like cyclists, runners, equestrians, space travelers from a bygone era. What is this?
+People are lining up outside the Galactic Diner, waiting for a table
+inside. I am shocked. I have never seen the restaurant so busy. The
+people are dressed in sporting clothes--I mean they look like cyclists,
+runners, equestrians, space travelers from a bygone era. What is this?
 
-Then I remember. The League of the Solar Planets Olympics is about to begin in Ptolemy City. Fans always dress as participants for their favorite events.
+Then I remember. The League of the Solar Planets Olympics is about
+to begin in Ptolemy City. Fans always dress as participants for their
+favorite events.
 
-"Well," I thought. "I will never get a seat inside. Besides, the Galactic Diner has a lot of memories for me and I am trying to put the last several years behind me. 
+"Well," I thought. "I will never get a seat inside. Besides, the Galactic
+Diner has a lot of memories for me and I am trying to put the last
+several years behind me. 
 
 Well, then, where should I go for some breakfast?
 
-I start walking along the Valley of Kings, making my way toward Lower Nile Street and the meaner streets of the city. With all these tourists in town, all the nicer places will also be overcrowded. I want an affordable restaurant and some place I can make my own.
+I start walking along the Valley of Kings, making my way toward Lower
+Nile Street and the meaner streets of the city. With all these tourists in
+town, all the nicer places will also be overcrowded. I want an affordable
+restaurant and some place I can make my own.
 
 "Detective Camberwell," someone calls.
 
-I keep walking. I am no longer a police detective. I do not have to talk to anyone about my former life.
+I keep walking. I am no longer a police detective. I do not have to talk
+to anyone about my former life.
 
-I hear footsteps running behind me. Reluctantly, I turn around. This person could be dangerous. This is, after all, Ptolemy City. I want to be certain. no one wants me dead. Besides, I may know them and I do not want to be rude.
+I hear footsteps running behind me. Reluctantly, I turn around. This
+person could be dangerous. This is, after all, Ptolemy City. I want to
+be certain. no one wants me dead. Besides, I may know them and I do not
+want to be rude.
 
 "Detective Camberwell," the woman says again, running toward me.
 
-She is a large woman. She is not dressed for the games and I have never seen her before.
+She is a large woman. She is not dressed for the games and I have never
+seen her before.
 
 "I need to speak with you," she says, coming to a stop in front of me.
 
-She is panting though judging from my brief observation of her running, she is used to working out. She is not graceful. She is powerful and well muscled. Personally, I like my women more delicate and fluid, but damn!! I find her quite attractive.
+She is panting though judging from my brief observation of her running,
+she is used to working out. She is not graceful. She is powerful and
+well muscled. Personally, I like my women more delicate and fluid,
+but damn!! I find her quite attractive.
 
-"I am not a detective," I say. "I haven't been on the force in years. I am afraid I can't help you with any legal matters."
+"I am not a detective," I say. "I haven't been on the force in years. I
+am afraid I can't help you with any legal matters."
 
-"I know you're not a detective any more," the woman says. "I just didn't know what else to call you. I need to speak with you. Can we go somewhere to talk."
+"I know you're not a detective any more," the woman says. "I just didn't
+know what else to call you. I need to speak with you. Can we go somewhere
+to talk."
 
 And so my encounter with Kearsarge began.
 
-Kearsarge, she never offered me any more identification than that, knew of a small place off Lower Nile Street. Only a few customers sat at the dozen tables and occupied a couple of stools at the counter. The woman behind the counter called  Kearsarge by name by which I deduced she was a regular. This was not brilliant detecting on my part. The woman called everyone by name. She asked me what mine was.
+Kearsarge, she never offered me any more identification than that, knew
+of a small place off Lower Nile Street. Only a few customers sat at the
+dozen tables and occupied a couple of stools at the counter. The woman
+behind the counter called  Kearsarge by name by which I deduced she
+was a regular. This was not brilliant detecting on my part. The woman
+called everyone by name. She asked me what mine was.
 
 "Ronnie," I said.
 
 "And what will you have, Ronnie?" the woman asked.
 
-My second shock of the day. Here was a human being asking me for my order. No automated tables here. No menu display to tap or stare at. I located a renewable writing surface behind the woman with today's offerings. She even could serve me meat if I wanted to eat it which I did not.
+My second shock of the day. Here was a human being asking me for my
+order. No automated tables here. No menu display to tap or stare at. I
+located a renewable writing surface behind the woman with today's
+offerings. She even could serve me meat if I wanted to eat it which I
+did not.
 
 Kearsarge did not order except to confirm she wanted the usual.
 
-Kearsarge selected the table in the corner in the back where we would have relative privacy.
+Kearsarge selected the table in the corner in the back where we would
+have relative privacy.
 
 "What is this about?" I asked when we were seated.
 
 Kearsarge took a long sip of her very hot coffee before speaking.
 
-"I'm getting messages from a dead person," she said. "I want you to find out who is sending them and stop them."
+"I'm getting messages from a dead person," she said. "I want you to find
+out who is sending them and stop them."
 
 "Why not just mark them as Spam and block the sender," I said.
 
-Getting unwanted messages is a nuisance but there are easy ways not to be bothered by them. Every child knows how to do this. Kearsarge hardly needed to chase me down the street and bring me to her regular eating establishment to ask me about this.
+Getting unwanted messages is a nuisance but there are easy ways not to
+be bothered by them. Every child knows how to do this. Kearsarge hardly
+needed to chase me down the street and bring me to her regular eating
+establishment to ask me about this.
 
 "I tried," Kearsarge said. "I couldn't stop them."
 
@@ -70,7 +105,8 @@ I sipped my tea. For a nondescript place, they brewed a wicked cup of tea.
 
 "Hire me?" I asked.
 
-"Yes," Kearsarge said. "I wouldn't expect you to work for free. You are an investigator, right?"
+"Yes," Kearsarge said. "I wouldn't expect you to work for free. You are
+an investigator, right?"
 
 "I didn't think so," I said.
 
@@ -78,17 +114,26 @@ I sipped my tea. For a nondescript place, they brewed a wicked cup of tea.
 
 Thanks, Dad.
 
-"Yes," I replied with a great deal of caution. "I am. But I'm not on the police force any more."
+"Yes," I replied with a great deal of caution. "I am. But I'm not on
+the police force any more."
 
-Our food arrived and for a time we sat in silence eating. The food was excellent. I hoped it would not be awkward for me to come here again.
+Our food arrived and for a time we sat in silence eating. The food was
+excellent. I hoped it would not be awkward for me to come here again.
 
-"I really need your help," Kearsarge said after our plates were cleared and we each had a fresh cup before us to drink. "I'm scared."
+"I really need your help," Kearsarge said after our plates were cleared
+and we each had a fresh cup before us to drink. "I'm scared."
 
-I saw how her hands trembled as she picked up her coffee cup to drink. Being a large woman with a lot of confidence her admission surprised me. Perhaps I had allowed her size and assured manner in approaching a stranger and conducting her to her favorite eating establishment to deceive me.
+I saw how her hands trembled as she picked up her coffee cup to
+drink. Being a large woman with a lot of confidence her admission
+surprised me. Perhaps I had allowed her size and assured manner in
+approaching a stranger and conducting her to her favorite eating
+establishment to deceive me.
 
-"Scared of what?" I asked. Damn! My old instincts to protect and defend the weak and defenseless came to the forefront of my mind.
+"Scared of what?" I asked. Damn! My old instincts to protect and defend
+the weak and defenseless came to the forefront of my mind.
 
-"The dead man is my husband," Kearsarge said. She looked away. "He was violent."
+"The dead man is my husband," Kearsarge said. She looked away. "He
+was violent."
 
 "And now he's dead," I said.
 
@@ -96,7 +141,14 @@ I saw how her hands trembled as she picked up her coffee cup to drink. Being a l
 
 "You're certain about this?"
 
-Death was a fluid thing in Ptolemy City. You heard people were dead and then you met them on the street the next day. There was nothing miraculous in this. They were hiding from someone. They were scamming someone. They were trying to get out of a contract or collect part of the money from a contract put out on them. After all, assassination is legal here. It requires a contractual agreement, notice and an assassin. Murder, on the other hand, is another matter. In some circumstances, it can be prosecuted.
+Death was a fluid thing in Ptolemy City. You heard people were dead and
+then you met them on the street the next day. There was nothing miraculous
+in this. They were hiding from someone. They were scamming someone. They
+were trying to get out of a contract or collect part of the money from
+a contract put out on them. After all, assassination is legal here. It
+requires a contractual agreement, notice and an assassin. Murder,
+on the other hand, is another matter. In some circumstances, it can
+be prosecuted.
 
 "Yes," Kearsarge said. "I had him assassinated."
 
@@ -106,13 +158,19 @@ Death was a fluid thing in Ptolemy City. You heard people were dead and then you
 
 "But he's alive."
 
-"No. I'm certain of that. It's just--" And here Kearsarge looked away again.
+"No. I'm certain of that. It's just--" And here Kearsarge looked away
+again.
 
 What wasn't she telling me.
 
-"What aren't you telling me," I asked. My patience was beginning to wear thin. Protect and defend had its limits. I was being toyed with.
+"What aren't you telling me," I asked. My patience was beginning to wear
+thin. Protect and defend had its limits. I was being toyed with.
 
-"There's a service," Kearsarge said, still not looking at me. "You can send messages to your loved ones after you are dead. There's nothing magical about them. You write them all before you die. You can send them on birthdays and anniversaries--that sort of thing. They're meant to be comforting. But these messages--"
+"There's a service," Kearsarge said, still not looking at me. "You can
+send messages to your loved ones after you are dead. There's nothing
+magical about them. You write them all before you die. You can send them
+on birthdays and anniversaries--that sort of thing. They're meant to be
+comforting. But these messages--"
 
 And  here she visibly shivered.
 
@@ -122,11 +180,15 @@ Tears began to trickle down her face.
 
 "I think it will happen--and very soon. I want you to stop it."
 
-I refrained from answering Kearsarge right away. Clearly, she believed everything she had told me. The messages were probably real, too. I did not think Kearsarge was experiencing any remorse for her husband's death.
+I refrained from answering Kearsarge right away. Clearly, she believed
+everything she had told me. The messages were probably real, too. I did
+not think Kearsarge was experiencing any remorse for her husband's death.
 
-"I can pay you," Kearsarge said. She must have  interpreted my silence as refusal.
+"I can pay you," Kearsarge said. She must have  interpreted my silence
+as refusal.
 
-"Payment isn't the point," I said. "Your safety is. You need to go to a shelter."
+"Payment isn't the point," I said. "Your safety is. You need to go to
+a shelter."
 
 "A shelter?"
 
@@ -134,94 +196,183 @@ I refrained from answering Kearsarge right away. Clearly, she believed everythin
 
 "I can take care of myself," Kearsarge answered immediately.
 
-"Which is it?" I asked. "You're asking me to keep you from being killed on the one hand and on the other you are claiming you can take care of yourself."
+"Which is it?" I asked. "You're asking me to keep you from being killed
+on the one hand and on the other you are claiming you can take care
+of yourself."
 
-"I just want you to stop the messages," Kearsarge said. "that's all. I'm not asking you to protect me in any way."
+"I just want you to stop the messages," Kearsarge said. "that's all. I'm
+not asking you to protect me in any way."
 
-"And you think that if I can stop the messages you'll be safe? That makes no sense."
+"And you think that if I can stop the messages you'll be safe? That
+makes no sense."
 
 "Yes, it does," Kearsarge insisted.
 
 "Not to me," I said, getting to my feet. "Thank you for breakfast."
 
-I walked out of the restaurant� without� a backward glance. I strode away, determined not to be called back.
+I walked out of the restaurant� without� a backward glance. I strode away,
+determined not to be called back.
 
 The next time I saw Kearsarge, she was dead.
 
 ## I Receive A Contract
 
-This did not mean, of course, that I was done with Kearsarge. A contract arrived in my queue before I stepped onto the Lake View Loop Road which circles Lake Memphis. I pushed the contract onto a reputable legal service for review. Before I entered the Womyn's Cooperative Housing Authority (yes, everybody giggles at the words cooperative and authority
-occupying equal space in the organization's name), the contract received a good rating with no comments attached. This meant it was quite standard in form and I should have no difficulty understanding its provisions.
+This did not mean, of course, that I was done with Kearsarge. A contract
+arrived in my queue before I stepped onto the Lake View Loop Road which
+circles Lake Memphis. I pushed the contract onto a reputable legal service
+for review. Before I entered the Womyn's Cooperative Housing Authority
+(yes, everybody giggles at the words cooperative and authority
+occupying equal space in the organization's name), the contract received
+a good rating with no comments attached. This meant it was quite standard
+in form and I should have no difficulty understanding its provisions.
 
-My co-op is located on the top floor with a splendid view of the lake. Shepheard's Hotel is directly across from my balcony. The lake spreads out below with its boats, both real and artificial. Today it teamed with watercraft and people -- people who appeared, from my vantage point, to be busily engaged in happy pursuits. I wondered idly if any of the
-aquatic Olympic events took place here and if I could watch them through binoculars.
+My co-op is located on the top floor with a splendid view of the
+lake. Shepheard's Hotel is directly across from my balcony. The lake
+spreads out below with its boats, both real and artificial. Today it
+teamed with watercraft and people -- people who appeared, from my vantage
+point, to be busily engaged in happy pursuits. I wondered idly if any
+of the
+aquatic Olympic events took place here and if I could watch them through
+binoculars.
 
-I chose my co-op with care. From my balcony I could see the lake, the hotel and its surroundings and look through the dome above all the Tenderloin spread out above me. At night, the lurid colors of the Hypatian atmosphere are both chilling and magnificent in their
+I chose my co-op with care. From my balcony I could see the lake,
+the hotel and its surroundings and look through the dome above all
+the Tenderloin spread out above me. At night, the lurid colors of the
+Hypatian atmosphere are both chilling and magnificent in their
 heir\\\\
-unworldliness. I say this after my travels to more earth-like planets. The colors of the Hypatian sky are both familiar and off-putting to me. I can watch them for hours.
+unworldliness. I say this after my travels to more earth-like planets. The
+colors of the Hypatian sky are both familiar and off-putting to me. I
+can watch them for hours.
 
-I walked out onto the balcony, determined to make something of this day and not lie about feeling sorry for myself as I had been doing since I
-arrived back on Hypatia. I would look at this contract rather than wallowing in how I screwed up my life.
+I walked out onto the balcony, determined to make something of this day
+and not lie about feeling sorry for myself as I had been doing since I
+arrived back on Hypatia. I would look at this contract rather than
+wallowing in how I screwed up my life.
 
-It was not, thankfully, an assassination contract. I was charged to investigate the matter and provide, if possible, solutions to Kearsarge's belief that her life was in danger. If possible, I was to eliminate any and all threats. That went up to the line of assassination
+It was not, thankfully, an assassination contract. I was charged to
+investigate the matter and provide, if possible, solutions to Kearsarge's
+belief that her life was in danger. If possible, I was to eliminate any
+and all threats. That went up to the line of assassination
 without crossing it.
 
-That was good. I could not see myself as a professional assassin. They made good money, but money was not my problem. After our breakup, I possessed a substantial bank account all carefully invested and secured. I benefited greatly from Captain Star Runner's obsession with
+That was good. I could not see myself as a professional assassin. They
+made good money, but money was not my problem. After our breakup,
+I possessed a substantial bank account all carefully invested and
+secured. I benefited greatly from Captain Star Runner's obsession with
 profitability.
 
-I made myself comfortable, adjusting the state-of-the-art force field to let in some fresh air -- well, not fresh. The atmosphere on Hypatia is poisonous. All the air is scrubbed and recycled. Nevertheless, breathing the outside air is often preferable to the local supply in each flat.
+I made myself comfortable, adjusting the state-of-the-art force field to
+let in some fresh air -- well, not fresh. The atmosphere on Hypatia is
+poisonous. All the air is scrubbed and recycled. Nevertheless, breathing
+the outside air is often preferable to the local supply in each flat.
 
-The legal service's summary quoted the contract word for word. Kearsarge wrote in a clear and direct style. I gasped when I read the amount of the contract with thirty-five percent up front. I needed to file daily reports.
+The legal service's summary quoted the contract word for word. Kearsarge
+wrote in a clear and direct style. I gasped when I read the amount of
+the contract with thirty-five percent up front. I needed to file daily
+reports.
 
 Fair enough.
 
-What did I know about Kearsarge? Only what she had told me at the restaurant. A background check was in order before I committed myself. Perhaps she would not be able to pay me and entering into the contract would be pointless.
+What did I know about Kearsarge? Only what she had told me at
+the restaurant. A background check was in order before I committed
+myself. Perhaps she would not be able to pay me and entering into the
+contract would be pointless.
 
-I sent off a query, cringing at the fee. I needed to be thorough. Something told me I would not be returning this contract unsigned. I might just as well spring for the full background check instead of doing two: a superficial one and an in depth one.
+I sent off a query, cringing at the fee. I needed to be
+thorough. Something told me I would not be returning this contract
+unsigned. I might just as well spring for the full background check
+instead of doing two: a superficial one and an in depth one.
 
-I needed to think critically about what Kearsarge had told me at the restaurant -- what was the name of that place anyway. I needed to query my rather ostentatious link. Like all the latest and fashionable ones, it presented a flower. I activated it with a glance.
+I needed to think critically about what Kearsarge had told me at the
+restaurant -- what was the name of that place anyway. I needed to query
+my rather ostentatious link. Like all the latest and fashionable ones,
+it presented a flower. I activated it with a glance.
 
-"The name of the restaurant off Lower Nile Street -- on Elwood Street, I think."
+"The name of the restaurant off Lower Nile Street -- on Elwood Street,
+I think."
 
-"The Elwood Street Diner," the Link responded. A picture appeared in my visual field. That was it.
+"The Elwood Street Diner," the Link responded. A picture appeared in my
+visual field. That was it.
 
-"File for future reference," I said aloud. I was alone. Forming the thought pattern to save this information required more finesse than I commanded at this early stage of use. I wondered how Star managed doing this all the time. It gave me a blinding headache. The verbal commands
+"File for future reference," I said aloud. I was alone. Forming the
+thought pattern to save this information required more finesse than I
+commanded at this early stage of use. I wondered how Star managed doing
+this all the time. It gave me a blinding headache. The verbal commands
 were so much easier and less stressful.
 
-There. I did it again, comparing my current life with Star's. Star was out of my life. For all I knew, Star was out of the western galactic arm by now -- a very long ways away.
+There. I did it again, comparing my current life with Star's. Star was
+out of my life. For all I knew, Star was out of the western galactic
+arm by now -- a very long ways away.
 
-I sighed. It was good while it was good. When it stopped being good, it was, well, excruciatingly painful. I told myself then and I continue to tell myself now that I am still in love with my memory of Star at the beginning of our relationship not with the reality of our relationship
+I sighed. It was good while it was good. When it stopped being good,
+it was, well, excruciatingly painful. I told myself then and I continue
+to tell myself now that I am still in love with my memory of Star at
+the beginning of our relationship not with the reality of our relationship
 at the end. But I digress from this story about Kearsarge.
 
 What had she told me?
 
-1. She was receiving messages from her dead husband. No, that isn't right. She was receiving messages sent in her dead husband's name.
+1. She was receiving messages from her dead husband. No, that isn't
+right. She was receiving messages sent in her dead husband's name.
 
-2. These messages concerned her death -- a horrible death which frightened her very much. I did not know the contents of these messages. I would need to know what they said. Maybe there were some clues to the living sender in these messages.
+2. These messages concerned her death -- a horrible death which frightened
+her very much. I did not know the contents of these messages. I would
+need to know what they said. Maybe there were some clues to the living
+sender in these messages.
 
-3. Kearsarge put out a contract to have her husband assassinated and he was.
+3. Kearsarge put out a contract to have her husband assassinated and
+he was.
 
 4. Kearsarge had refused my offer of shelter.
 
 And that was it. A self-assured woman who was terrified.
 
-What was real? What was imagined? How could I investigate? I could not trace the messages. I did not have either the skills or the contacts to do that. Therefore, I must assume -- can you put must and assume in the same sentence -- that old-fashioned inquiry was needed to solve this,
+What was real? What was imagined? How could I investigate? I could not
+trace the messages. I did not have either the skills or the contacts to
+do that. Therefore, I must assume -- can you put must and assume in the
+same sentence -- that old-fashioned inquiry was needed to solve this,
 this -- it was not a crime, at least not yet.
 
-There are very few criminal statutes on Hypatia. The Pharaoh Star System lies outside of Coalition space. Originally used by the League of Hypatian Pirates as a cache for their treasure -- stolen goods mostly from star ships -- Ptolemy City now is home to the rich and famous and
-those who want to be rich and famous. Business can be done efficiently -- or at least that is the claim. Laws do not get in the way. As a former police detective, I look on these� assertions with a jaundiced eye. Ptolemy City is a lawless town. The only laws which are enforced
-with any regularity are those which protect the service workers from being exploited.
+There are very few criminal statutes on Hypatia. The Pharaoh Star System
+lies outside of Coalition space. Originally used by the League of Hypatian
+Pirates as a cache for their treasure -- stolen goods mostly from star
+ships -- Ptolemy City now is home to the rich and famous and
+those who want to be rich and famous. Business can be done efficiently
+-- or at least that is the claim. Laws do not get in the way. As a
+former police detective, I look on these� assertions with a jaundiced
+eye. Ptolemy City is a lawless town. The only laws which are enforced
+with any regularity are those which protect the service workers from
+being exploited.
 
-At first, there were no such requirements. The business people thought the service workers were at their mercy and could be compelled to do any kind of work for very low wages and poor working and living conditions. After all, these people could not afford to leave the planet and return to Coalition space. However, lawlessness works both ways. After a few
-deaths of some powerful folks, the two sides adopted a mutually agreed upon  covenant. It functions fairly well most of the time. The service workers get decent accommodations and wages. The rich and famous get waited upon. The service workers can expect to be protected from harm and the rich and famous get to do whatever they want to each other while
-not exploiting the service workers. As a police detective, I was part of the service workers. Now I had no particular status.
+At first, there were no such requirements. The business people thought the
+service workers were at their mercy and could be compelled to do any kind
+of work for very low wages and poor working and living conditions. After
+all, these people could not afford to leave the planet and return to
+Coalition space. However, lawlessness works both ways. After a few
+deaths of some powerful folks, the two sides adopted a mutually agreed
+upon  covenant. It functions fairly well most of the time. The service
+workers get decent accommodations and wages. The rich and famous get
+waited upon. The service workers can expect to be protected from harm
+and the rich and famous get to do whatever they want to each other while
+not exploiting the service workers. As a police detective, I was part
+of the service workers. Now I had no particular status.
 
-"If I complete this contract," I thought, "I might be considered part of the very lowest echelon of the rich and famous."
+"If I complete this contract," I thought, "I might be considered part
+of the very lowest echelon of the rich and famous."
 
-Of course, many people are neither rich and famous nor service workers. These are the people who work for the rich and famous either directly or indirectly. The League of Hypatian Pirates perform many useful functions while operating entirely outside the law. To get this dubious privilege, (I am speaking here as a former police detective), one must be a member
-of the League. All sorts of riffraff belongs to the League. Was I dealing with these folks? If so, my former association with Captain Star Runner might prove very useful.
+Of course, many people are neither rich and famous nor service
+workers. These are the people who work for the rich and famous either
+directly or indirectly. The League of Hypatian Pirates perform many
+useful functions while operating entirely outside the law. To get this
+dubious privilege, (I am speaking here as a former police detective),
+one must be a member
+of the League. All sorts of riffraff belongs to the League. Was I dealing
+with these folks? If so, my former association with Captain Star Runner
+might prove very useful.
 
-The preliminary background check of Kearsarge arrived later in the afternoon. I sat down and read it with interest. Kearsarge was not the woman I thought she was.
+The preliminary background check of Kearsarge arrived later in the
+afternoon. I sat down and read it with interest. Kearsarge was not the
+woman I thought she was.
 
 ## I Read Reports
 
@@ -875,7 +1026,8 @@ Susan, a flower from Earth."
 
 Well, it was as good a reason as any.
 
-"I'll need general information about the planet Fair Haven on the Southern Frontier," I said after a little while. "I want to know if either
+"I'll need general information about the planet Fair Haven on the Southern
+Frontier," I said after a little while. "I want to know if either
 Kearsarge or Samuel Cornelius Mudd are known to the general profile of
 the planet."
 
@@ -1382,7 +1534,8 @@ Star's name and that works for me now.
 I checked the time of the marathon. It began at ten o'clock. I wondered
 how Kearsarge would do.
 
-My link signaled for an incoming text. Damn! It was 5:30 in the morrning. Chief of Police  Troy Camberwell.
+My link signaled for an incoming text. Damn! It was 5:30 in the
+morrning. Chief of Police  Troy Camberwell.
 
 I had not spoken to my father since my return to Ptolemy City. We had
 not had a falling out. It was just that he had let me go at the police
@@ -1407,7 +1560,8 @@ Dad gave me the address. I thought I knew all the streets in Ptolemy
 City, but I had to look this one up.
 
 The River District? What was Kearsarge doing in the River District at
-5:30 in the morning? It was the worst neighborhood in Ptolemy City. Only the
+5:30 in the morning? It was the worst neighborhood in Ptolemy City. Only
+the
 most desperate people lived there. City service workers were afraid to
 go there to fix anything. People lived in abandoned buildings with
 broken windows. Trash did not get picked up. Electricity was often
@@ -1427,14 +1581,16 @@ ask me to confirm my destination.
 "Yes, I really do want to go to 2115 Green Way Station."
 
 What a name. I wondered what the street had once been like to have such
-a name. I thought to ask my link for some background on the long ride to the seamier side of
+a name. I thought to ask my link for some background on the long ride
+to the seamier side of
 the city.
 
 According to city records Green Way Station once had
 lovely homes for the richer pirates. It was thought of as a privileged
 enclave.
 
-"how the mighty have fallen," I thought. . Was it my imagination or did it speed away
+"how the mighty have fallen," I thought. . Was it my imagination or did
+it speed away
 toward the city's center?
 
 I found my dad with a coffee cup in his hand in what must have been a
@@ -1513,7 +1669,8 @@ station as our destination.
 
 We rode in silence, each of us stretching out our long legs toward the
 empty seat in front of us, facing each other obliquely, wondering what
-to say to fill the silence. At least, I was wondering. Finally my dad said.
+to say to fill the silence. At least, I was wondering. Finally my
+dad said.
 
 "How are you, Ronnie, I mean, really, since you've been back."
 
@@ -1613,7 +1770,8 @@ name."
 do backups and decide what material can be less readily available. I'm
 sure they are well aware of me as a data group."
 
-I realized that Star could have requested memories of me should be moved to
+I realized that Star could have requested memories of me should be
+moved to
 less available storage. Star would not delete them, just basically
 forget about me. I found this a very painful thought.
 
@@ -1673,7 +1831,8 @@ I forwarded all this information to my accounting advisor. My immediate
 attention to this matter surprised me. It was not the sort of thing I
 would have ever thought of several years ago. Captain Star Runner would
 have thought about it and done it just as I had just done. A lot of the
-Pantheran must have rubbed off on me. In this case, it was a very good thing.
+Pantheran must have rubbed off on me. In this case, it was a very
+good thing.
 
 For the record, both accountants and legal advisors are highly efficient
 and tailored programs. They are overseen by humans but people do not
@@ -1864,7 +2023,8 @@ I scanned her board. "I'll have the salad special. Blake's paying."
 
 And with that I walked to the back to the booth Kearsarge and I shared
 two days ago when she was very much alive. Long ago Simon and Dad had
-disabused of the idea that I could change what happened after the fact. I did
+disabused of the idea that I could change what happened after the
+fact. I did
 not wonder if anything I could have said would have changed the outcome
 of Kearsarge lying dead in at Fifth and Elm.
 
@@ -1916,7 +2076,8 @@ that Kearsarge left you money to do that."
 
 So much for keeping a low profile. And so much for keeping this
 information from Blake Redman, but I already thought he knew. Why call
-me "Investigator Camberwell" and why follow me all the way to the Warehouse
+me "Investigator Camberwell" and why follow me all the way to the
+Warehouse
 District for lunch?
 
 "So what's your interest in Kearsarge?" I asked Blake Redman. "Is it the
@@ -2235,7 +2396,8 @@ out at some of the pirate bars tonight and see who will talk."
 Chest. They're safe enough and they have enough people in them to get a
 story going."
 
-"I'll meet you at the Elwood Street Diner for lunch to let you know what I find out," Redman said.
+"I'll meet you at the Elwood Street Diner for lunch to let you know what
+I find out," Redman said.
 
 We climbed aboard an elephant with several other passengers. Redman gave
 his hotel address. He was staying at the Palace Hotel. I gave my flat's
@@ -2258,7 +2420,9 @@ Subject: Your Request Dated ---- (fill in the date here)
 We anticipated getting back to you sooner; however, the protocol above
 required more investigation than the initial estimates provided.
 
-The messages you inquired a                               bout are being
+The messages you inquired
+a                               bout
+are being
 sent from the Terran planet Fair Haven on the Southern Frontier. These
 messages can be traced using the attached protocols. We recommend a
 professional. We understand you are in contact with Josh Hardy and
@@ -2275,10 +2439,12 @@ memorandum and the attached specifications.
 
 I wondered how long my good friend Dennis would be around.
 
-Later I would learn that all contacts with that office would be called Dennis.
+Later I would learn that all contacts with that office would be called
+Dennis.
 
-"All roads lead to Fair Haven," I thought. "I need to find out if there is any
-information left at Kearsarge's house that will help me. Then again, 
+"All roads lead to Fair Haven," I thought. "I need to find out if there
+is any
+information left at Kearsarge's house that will help me. Then again,
 I am beginning to wonder how much longer I should pursue this case. From
 all I hear, the Yorks are not nice people.
 What I need to find out is: Am I in any danger because I am
@@ -2479,7 +2645,8 @@ Dayton."
 
 "Of course," Dad said.
 
-"Arthur, Delete this one's access," I said, "but don't delete anything else
+"Arthur, Delete this one's access," I said, "but don't delete anything
+else
 right now. All his data should be retained under the name Charlie
 Dayton."
 
@@ -2590,13 +2757,15 @@ last time you received a security update?"
 
 All systems up-to-date.
 
-I frowned and felt my stomach clench. This was not a direct answer. My link did not prevaricate.
+I frowned and felt my stomach clench. This was not a direct answer. My
+link did not prevaricate.
 
 I rephrased my question.
 
 Thirty-seven minutes ago.
 
-Not good. I sent a message to Josh, asking him to do a deep scan of the house's systems ASAP.
+Not good. I sent a message to Josh, asking him to do a deep scan of the
+house's systems ASAP.
 
 "Arthur, Allow Josh Hardy access to all your systems. Be
 cooperative. Hold nothing back."
@@ -2606,7 +2775,9 @@ cooperative. Hold nothing back."
 "Absolutely," I said. "He can enter the house, too."
 
 That was a bit risky. Josh could show up uninvited and get in. It was a
-risk I would have to take given the current situation of this case. I could always revoke access that would be fraught with difficulty. I would cross that bridge when I came to it.
+risk I would have to take given the current situation of this case. I
+could always revoke access that would be fraught with difficulty. I
+would cross that bridge when I came to it.
 
 I felt drained.
 
@@ -2683,9 +2854,11 @@ That was not the way I operated. I certainly did not think this case was
 at an end. I had a bad feeling about it -- that there was something none
 of us knew.
 
-My link buzzed. I assumed it was Josh. Who else would send me a message? But it was not Josh.
+My link buzzed. I assumed it was Josh. Who else would send me a
+message? But it was not Josh.
 
-It was an audio message, one of those that read itself out loud without you doing anything.
+It was an audio message, one of those that read itself out loud without
+you doing anything.
 
 "Message sender unknown. Message reads: Stop all investigations or you
 will die just like Kearsarge did. Remember the intersection of Fifth and
@@ -2703,7 +2876,8 @@ the private investigation business.
 "I told her to get involved," Dad said, more forcefully than he usually
 did in Simon's presence.
 
-While they spoke, I sent Josh the message and all the particulars I had on it. I suspected the message came from the same source as all the
+While they spoke, I sent Josh the message and all the particulars I had
+on it. I suspected the message came from the same source as all the
 others.
 
 Josh messaged me back almost instantly.
@@ -2819,7 +2993,8 @@ could broadly be interperted as a service worker."
 
 We did not have such news organizations in Ptolemy City. There were
 people who published information on the neural net, but it was a very
-informal arrangement. I set a reminderto check in with The Czarina. She might have some interesting tidbits. She
+informal arrangement. I set a reminderto check in with The Czarina. She
+might have some interesting tidbits. She
 worked with Captain Star Runner when Star needed some information. Maybe
 she would share with me, too.
 
@@ -3121,9 +3296,13 @@ after I speak with The Czarina," I said.
 "That's good. We can't get a flight until afternoon. Will The Czarina
 talk to me if I go with you?"
 
-Although I knew the Czarina craved the noteriety Blake Redman could give her, I expected the Czarina would not to know about my break-up with STar. Ididn't want to discuss that with Blake present.
+Although I knew the Czarina craved the noteriety Blake Redman could
+give her, I expected the Czarina would not to know about my break-up
+with STar. Ididn't want to discuss that with Blake present.
 
-"i'll let you know what she has to say," I said aloud. "I'm sure you can contact her when you're off planet. She will like the notitery in the Coalition. If you check, you'll find out more about her there."
+"i'll let you know what she has to say," I said aloud. "I'm sure you
+can contact her when you're off planet. She will like the notitery in
+the Coalition. If you check, you'll find out more about her there."
 
 "Then we have a plan." Blake said.
 
@@ -3691,7 +3870,8 @@ get to Ptolemy City often--at least I didn't until I became involved
 with Kearsarge and Sam Mudd. I came to Mark Antony to make money and to
 save it. The pay is good. The opportunity to spend it here is almost
 nil. I figured I could go back to the Solar League and have a decent
-living on a backwater planet. It seemed to be a very good deal. I don't even
+living on a backwater planet. It seemed to be a very good deal. I
+don't even
 have to know much about mining. I just have to make good deals on
 selling the ore. I was doing OK with that."
 
@@ -3814,7 +3994,8 @@ with me."
 "The Fungusians love to crack code," I said. "The ability to decrypt
 that system will be an upgrade offered over their network." I caught
 myself before I said, "It will be in Star's next database refresh." It
-would be, but no one here needed to know that. What did anyone care, what did
+would be, but no one here needed to know that. What did anyone care,
+what did
 I care, that Captain Star Runner could decrypt Arthur's database.
 
 We shared our findings with Josh.
@@ -3967,7 +4148,8 @@ summarizing it extremely difficult. "I was hired to find out where some
 death threats were coming from. The person ended up dead. Blake Redman
 and I thought the person's death might be related to some of his
 investigations back on the Southern Frontier and inside the Coalition.
-Because no one knew where the death threats against Kearsarge were coming from I hired Josh."
+Because no one knew where the death threats against Kearsarge were coming
+from I hired Josh."
 
 "So you think the smugglers got to him," Tara Lee said.
 
@@ -4228,7 +4410,8 @@ Aesculapius Medical Center as a medical technician."
 
 "For one thing," I said, "we're a good ways from Fair Haven. Granted
 both Fair Haven and the Pharaoh Star System are outside the Coalition,
-but we're not close when you consider the regular hyperspace shipping lanes."
+but we're not close when you consider the regular hyperspace shipping
+lanes."
 
 "A coincidence then," Tara Lee suggested. "You're grasping at straws.
 You said this person is a medical technician. What of it?"
@@ -4299,7 +4482,8 @@ prosecute anybody. We can only make our suspicions known and let things
 happen."
 
 I thought about this. What were the implications of what I thought I had
-just figured out. Consequences matter a great deal in our part of free space. People were assassinated for less.
+just figured out. Consequences matter a great deal in our part of free
+space. People were assassinated for less.
 
 "We don't know who contacted whom," I said slowly. "If Mudd was the
 perpetrator, he could have pressured Roseau. If I understand Blake's
@@ -4429,7 +4613,8 @@ morning we would finally have some answers.
 
 ## Chapter 22
 
-I had just taken my first sip of tea when my link signaled with an urgen video voice call from
+I had just taken my first sip of tea when my link signaled with an urgen
+video voice call from
 Ptolemy City. Who was calling me? The name on the
 call was unfamiliar. I accepted the call anyway. It could be a tip and
 stars above I sure needed one about now.
@@ -4439,7 +4624,8 @@ tiara, she looked quite haggard.
 
 "Ronnie, " she said, anxiety permeating
 her voice. "Emily Dickinson has been rushed to Aesculapius. He said to
-get in touch with you regardless of the cost. He said it was urgent that you
+get in touch with you regardless of the cost. He said it was urgent
+that you
 knew. He wants to talk with you, to tell you something. He looked
 terrible. He said he was poisoned. He said he knew he was poisoned
 because he was poisoned once before. I know that to be true. Captain
@@ -4515,7 +4701,7 @@ fancy linkslike you have when this is all done."
 
 "If I'm around to get it done for you, I will," I promised.
 
-"I'm sending him the decryption data, too. Can he manage that?" Josh 
+"I'm sending him the decryption data, too. Can he manage that?" Josh
 asked.
 
 "He can or he'll find someone to do it," I said.
@@ -4595,7 +4781,7 @@ I knew he was speaking about Captain Star Runner. He always called Star
 Pussy Cat.
 
 "Its been a good friend to me even if I haven't always been a good
-friend to it. You know, Ronnie, that big cat went all over the 
+friend to it. You know, Ronnie, that big cat went all over the
 explored arm looking for me."
 
 I know, I thought. I was there.
@@ -4904,7 +5090,8 @@ efficient. No terror. He just got the job done. We were never lovers,
 but he helped me out when I was really in trouble. I guess I owe him for
 that -- owe him more than money. You'll want to look into Adam Worth."
 
-Josh almost dropped his coffee. Adam Worth's dome is said to be palatial and is more a fortress than a
+Josh almost dropped his coffee. Adam Worth's dome is said to be palatial
+and is more a fortress than a
 home. Worth is reclusive, rarely coming to Ptolemy City. People do
 business with him at his residence which is called the Pyramid.
 
@@ -4922,11 +5109,11 @@ he behind? If Posthumous Patty was indeed shipping out for Fair Haven,
 than was Adam Worth connected to the smuggling on Fair Haven and thus to
 the Solar League?
 
-I thought like most Ptolemy City residents that Adam Worth's business 
-interests were solely focused on Hypatia. He owned hotels, bars, 
-restaurants, casinos, that sort of thing. Now I wondered if he was 
-involved in the Mark Antony Mines and the theft of the antonium. No 
-wonder The Czarina was cautious. He could make things very difficult for 
+I thought like most Ptolemy City residents that Adam Worth's business
+interests were solely focused on Hypatia. He owned hotels, bars,
+restaurants, casinos, that sort of thing. Now I wondered if he was
+involved in the Mark Antony Mines and the theft of the antonium. No
+wonder The Czarina was cautious. He could make things very difficult for
 her if he found out my source. And he could easily guess my source.
 
 We didn't stay much longer at Hey Diddle Diddle. It was getting late and
@@ -5174,7 +5361,8 @@ know what they intended to do with us. We were both able to escape. I
 summoned help from Over the Moon staff. They rescued Josh from his
 hiding place. Posthumous Patty and Dagger Dan have disappeared.
 
-4.     Based on this experience, it seems obvious that Posthumous Patty
+4.     Based on this experience, it seems obvious that Posthumous
+Patty
 and Dagger Dan are responsible for the deaths of Kearsarge and Blake
 Redman. The bigger question is: Who hired them. According to The
 Czarina's information, Adam Worth may be behind these deaths. I need to
@@ -5190,7 +5378,8 @@ lives.
 
 6.     \*
 
-7.     After my reunion with Josh, we went to find The Czarina. She was
+7.     After my reunion with Josh, we went to find The Czarina. She
+was
 still safe, but shaken by our experience. We bought her some drab
 clothing and brought her with us to the Alexandria Space Station. I
 checked with Tara Lee. The security guards at the Aesculapius Medical
@@ -5202,7 +5391,8 @@ to accompany Emily Dickinson back to the Alexandria Space Station.
 Dagger Dan and Posthumous Patty were the killers. If they were detained,
 all my problems would be solved.
 
-9.     Simon was correct as far as it went, but the why of it remained.
+9.     Simon was correct as far as it went, but the why of it
+remained.
 Simon was never interested in the background of a case. He was
 interested in the culprits. In this case, it was obvious to me and Tara
 Lee that Posthumous Patty and Dagger Dan were hired guns.
@@ -6493,8 +6683,8 @@ Chest just weren't that interesting.
 
 "Sure," I said. "Tell me."
 
-62.   The End
+The End
 
-2.This work is licensed under a Creative Commons Attribution
+This work is licensed under a Creative Commons Attribution
 Non-Commercial ShareAlike 3.0 License.
 
