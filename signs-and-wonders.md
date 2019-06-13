@@ -4,8 +4,7 @@ Text: Acts 9:31, 34-41
 
 Date: June 16, 2019
 
-Place:
-Bay View United Methodist Church, Milwaukee
+Place: Bay View United Methodist Church, Milwaukee
 
 In the name of Jesus. Amen.
 
@@ -41,25 +40,25 @@ the Peter who stands up to the authorities in Jerusalem and leads the early chur
 performs signs and wonders in the name of Jesus. Some examples given in Acts: Peter has
 
 * actively healed a lame man at the Beautiful Gate of the temple
-
   * passively healed sick people put out into the streets so his shadow passes over them
+* Healed a bedridden man named Aeneas in Lydda where he is now.
 
-* Healed a bedridden man named Aeneas.
+Their errand is urgent. Peter goes with them without delay.
 
-Lydda is about a 3-houur walk from Joppa. It is not clear why the messengers go. What is clear that they think 
-Peter can help. And Peter goes with them--just like that. Their mission is urgent and time sensitive. He 
-responds willingly.
+Walking to Lydda is like walking from Bay View to the Sergeant Clinic in Wawatosa. Then the messengers walked back--all in one day. It's about 8 miles in each direction.
 
-"You can't," as my New Testament always said, "think a dead head." There is no way to know what was in Peter's 
-mind as he entered the upper room in Tabith's house alone. Did he have an inkling of what he was going to do or 
-was he feeling his way, open to the promptings of the Spirit, following Jesus' example when he raised Jairus's 
-daughter? I can't say.
+Why am I so concerned about distances? Ministry is hard work. And in this case, the hard work is walking, walking to get somewhere, walking with carts, mounted riders and chariots wizzing by with no regard for pedestrians. No sidewalks. Just a road with everyone on it. Ordinary people doing any ordinary task, walking from here to there. No one they passed has any idea what will happen next.
+
+The scene at Tabitha's house is one of sorrow and excitement. The widows crowd into the room, anxious to share with Peter all the good work Tabitha has done for them. They are anxious to tell Peter about how wonderful Tabitha was.
+
+Then we get a glimpse into the divine realm. Peter clears the room. He prays. He takes Tabitha hand and says, "Gets up." 
+
+Our reading today has been building to this moment, when the ordinary becomes thes the extrodinary.
 
 What I can say is that Tabitha is an ordinary disciple, going about her business, doing Jesus’ work as well as 
 she can. She made an impact in a small circle of widows and community of disciples. Tabitha, living in a city 
 where we have no record of a Christian church until the fifth century, finds herself lying in her upper room 
 with a man she has never seen before holding her hand and telling her to rise. No wonder she sat up. 
- sudo apt-cache search pdftotext
 
 News spread 
 throughout the city. I am certain Tabitha had to put down her sewing more than once to talk to a curiosity 
