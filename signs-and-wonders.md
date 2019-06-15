@@ -8,17 +8,16 @@ Place: Bay View United Methodist Church, Milwaukee
 
 In the name of Jesus. Amen.
 
-So why come into your midst and speak to you about signs and wonders on
+I come into your midst and speak to you about signs and wonders on
 this Trinity Sunday, a Sunday also
-devoted to peace and justice?
-
-The Bible speaks about these thingscw,:
-of course, the sun standing still for
+dejvoted to peace and justice.
+The Bible speaks about events outside our ordinary experience,:
+The sun standing still for
 twenty-four hours, Jonah spending three days and nights in the belly of
-the whale. But these are stories from
-long ago. They can be dismissed, right? The Bible says Jesus
+the whale. Indeed, you say, but these are stories from
+long ago. they can be dismissed. The Bible says Jesus
 fed the five thousand with five loaves
-and two fish. But isn't it more reasonable to think people just shared
+and two fish. Many of you may say, but isn't it more reasonable to think people just shared
 what they had? Isn't that miracle
 enough?
 
@@ -37,21 +36,22 @@ Mediterrean Sea. Although widows are in
 her house when Peter arrives, her own marital status is unknown. This
 suggests Tabitha is a woman of independent
 means. She is able to perform good works especially providing clothing
-for widows and their families. In the
+for widows and their families.
+
+In the
 previous chapter of Acts, after baptizing the Ethiopian eunuch on the
 Gaza road, "Philip found himself at
 Azotus, and as he was passing through the region, he proclaimed the good
 news to all the towns until he came to
 Caesarea." (Acts 8:40 NRSV)
 
-I wondered just how far a walk that was so I typed into a search engine
-on my phone: How far is it from Azotus
+I wondered just how far a walk that was so I typed into a search engine:
+ How far is it from Azotus
 to Caesarea. I expected to find a series of biblically focused websites
 which would give me the info. No. The
 answer was there on my screen: 60 miles from Ashdod to
 Caesarea. Temperature: 67 degrees Farenheit. Traffic is
 light.
-
 I have no idea if traffic was light when Philip worked his way up the
 coast. I do know Ashdod is the present day
 name of Azotus.
@@ -63,7 +63,9 @@ baptized her. I like to think so.
 However Tabitha comes to know Jesus, she becomes one of his disciples
 and performs good works and makes charitable
 donations. Then she gets sick and dies. Nothing out of the ordinary
-here. We have known lots of people like her.
+here. You have known lots of people like her. Good people who give generously to
+the people around them and then they are gone leaving a hole in your lives no
+one else can fill.
 
 Now messengers go to Lydda to ask Peter to come back with them.
 
@@ -82,10 +84,10 @@ Acts: Peter has
 Their errand is urgent. Peter goes with them without delay.
 
 Walking to Lydda is like walking from Bay View to the Sergeant Clinic
-in Wawatosa. Then the messengers walked
+in Wawatosa. The messengers walk
 back--all in one day. It's about 8 miles in each direction.
 
-Why am I so concerned about distances? Ministry is hard work. And in
+?Ministry is hard work. And in
 this case, the hard work is walking,
 walking to get somewhere, walking with carts, mounted riders and chariots
 wizzing by with no regard for
@@ -98,7 +100,8 @@ next.
 The scene at Tabitha's house is one of sorrow and excitement. The
 widows crowd into the room, anxious to share with Peter all the good
 work Tabitha has done for them. They are anxious to tell Peter about
-how wonderful Tabitha was.
+how wonderful Tabitha was, trying to capture the essence of the person she was to help a stranger
+know her as they do.
 
 Then we get a glimpse into the divine realm. Peter clears the room. He
 prays. He takes Tabitha's hand and says, "Get up."
