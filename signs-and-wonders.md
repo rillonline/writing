@@ -10,11 +10,13 @@ In the name of Jesus. Amen.
 
 So why come into your midst and speak to you about signs and wonders on
 this Trinity Sunday, a Sunday also
-devoted to peace and justice? The Bible speaks about these things,
+devoted to peace and justice?
+
+The Bible speaks about these thingscw,:
 of course, the sun standing still for
 twenty-four hours, Jonah spending three days and nights in the belly of
 the whale. But these are stories from
-long ago. We are free to dismiss them, aren't we? The Bible says Jesus
+long ago. They can be dismissed, right? The Bible says Jesus
 fed the five thousand with five loaves
 and two fish. But isn't it more reasonable to think people just shared
 what they had? Isn't that miracle
@@ -24,7 +26,7 @@ Although it continues to surprise me, I know many of you have trouble
 with metaphors and poetic language. You
 want facts and figures, something quantifiable and measureable. Something
 known not imaginary. I am willing to
-bet that even you played games as a child, read stories and watch
+bet, however, that even you played games as a child, read stories and watch
 movies. So let’s step into a world of signs and
 wonders, the world of the Book of Acts, the world of the early
 church. Come with me to Joppa and to Tabitha’s
@@ -110,11 +112,24 @@ to rise. No wonder she sits up.
 Our reading today has been building to this moment, when the ordinary
 becomes the extrodinary. The power of God is loose in Joppa. Tabitha lives.
 
-News spreads throughout the city. I am certain Tabitha had to put down her sewing
+The good news spreads quickly and many come to trust in Jesus. But surely there
+were those who who called it, by our contemporary language, fake news. How could
+a woman be raised from the dead. This is not a sign of God's power. This is
+merely a bunch of religious fanatics making up stuff.
+
+I am certain Tabitha had to put down her sewing
 more than once to talk to a curiosity
 seeker. You can picture it, can’t you? She is hemming a cloak when
 someone comes in and starts questioning her.
-The temptation is great to send them away. She is busy. But instead she,
+
+* ARe you really the woman who was raised from the dead?
+* How do you feel about that?
+* Do you think you are worthy of such a miracle?
+* What about all the other people--the ones who are not raised?
+* Do you think this is fair?
+* Do you think God is being fair?
+
+The temptation is great to send the stranger away. She is busy. But instead she,
 and perhaps the widow she is helping,
 sit down, hem trailing, to give their witness to this stranger.
 
