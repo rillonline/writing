@@ -8,21 +8,22 @@ Place: Bay View United Methodist Church, Milwaukee
 
 In the name of Jesus. Amen.
 
-I come into your midst and speak to you about signs and wonders on this Trinity Sunday, a Sunday also dejvoted 
+I come into your midst and speak to you about signs and wonders on this Trinity Sunday, a Sunday also devoted 
 to peace and justice.
 
 The Bible speaks about events outside our ordinary experience,: The sun standing still for twenty-four hours, 
 Jonah spending three days and nights in the belly of the whale. Indeed, you say, but these are stories from long 
 ago. they can be dismissed. The Bible says Jesus fed the five thousand with five loaves and two fish. Many of 
-you may say, but isn't it more reasonable to think people just shared what they had? Isn't that miracle enough?
+you may say, but isn't it more reasonable to think people just shared what they
+had? Isn't that wonder enough?
 
 Although it continues to surprise me, I know many of you have trouble with metaphors and poetic language. You 
-want facts and figures, something quantifiable and measureable. Something known not imaginary. I am willing to 
-bet, however, that even you played games as a child, read stories and watch movies. So let’s step into a world 
+want facts and figures, something quantifiable and measurable. Something known not imaginary. I am willing to 
+bet, however, that even you played games as a child, read stories and watch movies. So let us step into a world 
 of signs and wonders, the world of the Book of Acts, the world of the early church. Come with me to Joppa and to 
-Tabitha’s house and meet the only woman called a disciple in the New Testament.
+Tabitha's house and meet the only woman called a disciple in the New Testament.
 
-What do we know about Tabitha? She lives in Joppa, a port city on the Mediterrean Sea. Although widows are in 
+What do we know about Tabitha? She lives in Joppa, a port city on the Mediterranean Sea. Although widows are in 
 her house when Peter arrives, her own marital status is unknown. This suggests Tabitha is a woman of independent 
 means. She is able to perform good works especially providing clothing for widows and their families.
 
@@ -33,7 +34,7 @@ Caesarea." (Acts 8:40 NRSV)
 I wondered just how far a walk that was so I typed into a search engine:
  How far is it from Azotus to Caesarea. I expected to find a series of biblically focused websites
 which would give me the info. No. The answer was there on my screen: 60 miles from Ashdod to
-Caesarea. Temperature: 67 degrees Farenheit. Traffic is
+Caesarea. Temperature: 67 degrees Fahrenheit. Traffic is
 light.
 
 I have no idea if traffic was light when Philip worked his way up the coast. I do know Ashdod is the present day 
@@ -63,11 +64,11 @@ performs signs and wonders in the name of Jesus. Some examples given in Acts: Pe
 Their errand is urgent. Peter goes with them without delay.
 
 Walking to Lydda is like walking from Bay View to the Sergeant Clinic
-in Wawatosa. The messengers walk
+in Wauwatosa. The messengers walk
 back--all in one day. It's about 8 miles in each direction.
 
 Ministry is hard work. And in this case, the hard work is walking, walking to get somewhere, walking with carts, 
-mounted riders and chariots wizzing by with no regard for pedestrians. No sidewalks. Just a road with everyone 
+mounted riders and chariots whizzing by with no regard for pedestrians. No sidewalks. Just a road with everyone 
 on it. Ordinary people doing an ordinary task, walking from here to there. No one they passed has any idea what 
 will happen next.
 
@@ -84,7 +85,7 @@ finds herself lying in her upper room
 with a man she has never seen before holding her hand and telling her
 to rise. No wonder she sits up.
 
-Our reading today has been building to this moment, when the ordinary becomes the extrodinary. The power of God 
+Our reading today has been building to this moment, when the ordinary becomes the extraordinary. The power of God 
 is loose in Joppa. Tabitha lives.
 
 The good news spreads quickly and many come to trust in Jesus. But surely there were those who called it, by our 
@@ -92,7 +93,7 @@ contemporary language, fake news. How could a woman be raised from the dead. Thi
 This is propaganda from a fringe religious group seeking attention.
 
 I am certain Tabitha had to put down her sewing more than once to talk to a curiosity seeker. You can picture 
-it, can’t you? She is hemming a cloak when someone comes in and starts questioning her. The temptation is great 
+it, can't you? She is hemming a cloak when someone comes in and starts questioning her. The temptation is great 
 to send the stranger away. She is busy. But instead she, and perhaps the widow she is helping, sit down, hem 
 trailing, to give their witness to this stranger.
 
@@ -100,9 +101,9 @@ This is what these signs and wonders are all about. They show the power of God t
 has made, the power of God to comfort and to strengthen God's people, the power of God to save God's people for 
 all time. They give disciples like Tabitha, disciples like you, a chance to talk to a stranger about Jesus and 
 your relationship with him. This is what it means to walk in the fear of the Lord and the comfort of the Holy 
-Spirit. This is how the church grows andkeeps its focus on its mission: sharing
+Spirit. This is how the church grows and keeps its focus on its mission: sharing
 the good news with the whole world, one person at a time, one conversation at a
-time. 
+time, if necessary. 
 
 "Come
 and hear more on Sunday," Tabitha says
@@ -115,7 +116,7 @@ performing an ordinary task, helping
 someone less fortunate than me, sharing the good news with you.
 
 Tabitha is a wonder not just for the first century
-people of Joppa. She is a sign of Jesus’ comfort and assurance
+people of Joppa. She is a sign of Jesus' promises and assurance
 for each one of you. 
 Peter presents Tabitha not just to the widows in some far off city long ago but
 to you so that you may be certain that death is not the last word. Jesus won the victory
