@@ -1,9 +1,27 @@
-#+TITLE Kearsarge
-	#+SUBTITLE A Ronnie Camberwell Adventure
-	#+SUBTITLE Book 1
-	#+AUTHOR Rill Online
+#+TITLE: Kearsarge
+#+SUBTITLE: A Ronnie Camberwell Mystery
+#+SUBTITLE: Book 1
+#+AUTHOR: Rill Online
 #+HTML_LINK_HOME: https://rillonline.github.io
+#+HTML_LINK_UP: https://rillonline.github.io/pages/long-form-writing/
+#+OPTIONS: toc:nil
+#+KEYWORDS: Ronnie Camberwell
+#+KEYWORDS: Captain Star Runner
+#+KEYWORDS: mystery
+#+KEYWORDS: science fiction
+[[file:chapter-01.org][Chapter 1]]
 
-#####
+-----
+
+** Table of Contents
 
  1. [[file:chapter-01.org][In Which I meet Kearsarge]]
+ 2. [[file:chapter-02.org][In Which I Receive A Contract]]
+
+
+
+-----
+
+This work is licensed under a Creative Commons Attribution Non-commercial Sharealike License.
+
+-----
