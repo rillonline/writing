@@ -2,21 +2,21 @@
 #+SUBTITLE: A Ronnie Camberwell Mystery
 #+SUBTITLE: Book 1
 #+AUTHOR: Rill Online
-#+HTML_LINK_HOME: https://rillonline.github.io
-#+HTML_LINK_UP: https://rillonline.github.io/pages/long-form-writing/
+#+HTML_LINK_HOME: [[file:index.html[]Blog]]
+#+HTML_LINK_UP: [[file:pages/long-form-writing/index.html][Long Form Writing]]
 #+OPTIONS: toc:nil
 #+KEYWORDS: Ronnie Camberwell
 #+KEYWORDS: Captain Star Runner
 #+KEYWORDS: mystery
 #+KEYWORDS: science fiction
-[[file:chapter-01.org][Chapter 1]]
 
------
 
 ** Table of Contents
+-----
 
  1. [[file:chapter-01.org][In Which I meet Kearsarge]]
  2. [[file:chapter-02.org][In Which I Receive A Contract]]
+ 3. [[file:chapter-03.org][In which I Read Reports]]
 
 
 
