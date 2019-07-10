@@ -2,6 +2,7 @@
 bin
 # Ignore all files ending with tilde
 *~
-i# Ignore files ending with log
+di# Ignore files ending with log
 *log
-
+# Ignore files ending in .bak
+*bak

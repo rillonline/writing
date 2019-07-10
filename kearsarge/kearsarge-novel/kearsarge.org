@@ -17,6 +17,7 @@
  1. [[file:chapter-01.org][In Which I meet Kearsarge]]
  2. [[file:chapter-02.org][In Which I Receive A Contract]]
  3. [[file:chapter-03.org][In which I Read Reports]]
+ 4. [[file:chapter-04.org][In Which I Renew My Acquaintance with Emily Dickinson]]
 
 
 
