@@ -1,12 +1,9 @@
+	#+TITLE Kearsarge
+	#+SUBTITLE A Ronnie Camberwell Adventure
+	#+SUBTITLE Book 1
+	#+AUTHOR Rill Woolnough
 
-**Kearsarge: A Ronnie Camberwell Adventure**
-
-*Book 1*
-
- ByRill Online
-
-
-## I Meet Kearsarge
+* In Which  I Meet Kearsarge
 
 People are lining up outside the Galactic Diner, waiting for a table
 inside. I am shocked. I have never seen the restaurant so busy. The

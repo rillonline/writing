@@ -1,6 +1,7 @@
+#+TITLE: In Which I Receive A Contract
 #+AUTHOR: Rill Online
-#+HTML_LINK_HOME: https://rillonline.github.io 
-#+HTML_LINK_UP: [[file:chapter-01.org][Chapter 1]]
+#+HTML_LINK_HOME:[[file:/index.html][Home]] 
+#+HTML_LINK_UP: [[file:kearsarge.org][Kearsarge]]]]
 #+OPTIONS: toc:nil
 #+KEYWORDS: Ronnie Camberwell
 #+KEYWORDS: Captain Star Runner
@@ -184,3 +185,7 @@ thought she was.
 
 
 -----
+
+-----
+
+[[file:chapter-3.org][Next]]

@@ -2,22 +2,26 @@
 #+SUBTITLE: A Ronnie Camberwell Mystery
 #+SUBTITLE: Book 1
 #+AUTHOR: Rill Online
-#+HTML_LINK_HOME: [[file:index.html[]Blog]]
-#+HTML_LINK_UP: [[file:pages/long-form-writing/index.html][Long Form Writing]]
-#+OPTIONS: toc:nil
+#+HTML_LINK_HOME: [[file:/index.html[]home]]
+#+HTML_LINK_UP: [[file:/pages/long-form-writing/index.html][Long Form Writing]]
 #+KEYWORDS: Ronnie Camberwell
 #+KEYWORDS: Captain Star Runner
 #+KEYWORDS: mystery
 #+KEYWORDS: science fiction
 
+-----
 
 ** Table of Contents
 -----
 
- 1. [[file:chapter-01.org][In Which I meet Kearsarge]]
- 2. [[file:chapter-02.org][In Which I Receive A Contract]]
- 3. [[file:chapter-03.org][In which I Read Reports]]
- 4. [[file:chapter-04.org][In Which I Renew My Acquaintance with Emily Dickinson]]
+- [ [file:list-of-characters.org][List of Characters]]
+
+  1. [[file:chapter-01.org][In Which I meet Kearsarge]]
+  2. [[file:chapter-02.org][In Which I Receive A Contract]]
+  3. [[file:chapter-03.org][In which I Read Reports]]
+  4. [[file:chapter-04.org][In Which I Renew My Acquaintance with Emily Dickinson]]
+  5. ]] [[file:chapter-06][In Which I Talk with Josh]]
+
 
 
 

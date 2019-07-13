@@ -1,8 +1,7 @@
 #+TITLE: In Which I Meet Kearsarge
 #+AUTHOR: Rill Online
-#+HTML_LINK_HOME: https://rillonline.github.io 
+#+HTML_LINK_HOME: [[file:/index.html][Home]]
 #+HTML_LINK_UP: [[file:kearsarge.org][Kearsarge Main Page]]
-#+OPTIONS: toc:nil
 #+KEYWORDS: Ronnie Camberwell
 #+KEYWORDS: Captain Star Runner
 #+KEYWORDS: mystery
@@ -12,6 +11,7 @@
 
 -----
 
+[[file:chapter-02.org][Next]]
 * In Which  I Meet Kearsarge
 
 People are lining up outside the Galactic Diner, waiting for a table
@@ -25,7 +25,7 @@ favorite events.
 
 "Well," I thought. "I will never get a seat inside. Besides, the Galactic
 Diner has a lot of memories for me and I am trying to put the last
-several years behind me.√Ç¬†
+several years behind me.ÔæÉ„Å§†
 
 Well, then, where should I go for some breakfast?
 
@@ -68,7 +68,7 @@ And so my encounter with Kearsarge began.
 Kearsarge, she never offered me any more identification than that, knew
 of a small place off Lower Nile Street. Only a few customers sat at the
 dozen tables and occupied a couple of stools at the counter. The woman
-behind the counter calledÇ¬† Kearsarge by name by which I deduced she
+behind the counter called„Å§† Kearsarge by name by which I deduced she
 was a regular. This was not brilliant detecting on my part. The woman
 called everyone by name. She asked me what mine was.
 
@@ -199,7 +199,7 @@ everything she had told me. The messages were probably real, too. I
 did not think Kearsarge was experiencing any remorse for her husband's
 death.
 
-"I can pay you," Kearsarge said. She must haveÇ¬† interpreted my
+"I can pay you," Kearsarge said. She must have„Å§† interpreted my
 silence as refusal.
 
 "Payment isn't the point," I said. "Your safety is. You need to go to
