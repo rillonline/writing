@@ -1,0 +1,224 @@
+** Introduction
+
+I wanted to know how much my subscriptions were costing me every
+month. Subscription fatigue is a popular topic on tech talk shows so I
+wanted to see how my useage stacked up and if there was anything
+outrageous I could cut.
+
+There are a number of tools at my disposal:
+
+- A Perkins Brailler and a sheet of paper. I still know how to add up
+  a column of figures manually.
+- A spreadsheet program. Let me count the options I have, not going
+  into how well I think they work or how well I know them.
+  + Microsoft Excel
+  + LibriOffice Calc
+  + Numbers
+  + ses
+  + dismal
+  + Org
+
+Although not in my little list above, I know word processor programs
+have tables and the possibility of formulas, but I decided I could
+investigate org tables. I could report on their accessibility with help from Emacspeak.
+
+** Setting Up A Table
+
+I decided to create a table with two columns, "ITEM" for the name of
+the subscription and "ExPENSE" for the monthly amount I am
+spending.
+
+There's nothing fancy about setting up an org table. The vertical bar
+character "|" delimits columns. If a "|" is the first character in a
+line, org understands this to be a table. A two column table with one
+row looks like this:
+
+#+BEGIN_EXAMPLE
+
+| | |
+
+#+END_EXAMPLE
+
+But I need a table with two headers, a horizontal rule between my
+headings and my subscriptions and one row to start.
+
+*Note*: You need a header row with a horizontal rule underneath it   if you want to total a column of numbers.
+
+1. Type the line
+   #+BEGIN_EXAMPLE
+
+   |ITEM|ExPENSE|
+
+   #+END_EXAMPLE
+
+   Press return. Don't worry about white space
+2. Type "|-" (vertical bar followed immediately by a hyphen) and press
+   tab.
+
+   #+BEGIN_EXAMPLE
+   | ITEM | ExPENSE |
+   |------+---------|
+   |      |         |
+   #+END_EXAMPLE
+
+3. Now you have a table ready for input.Your column headings have
+   white space around them and your horizontal rule is filled in. The
+   vertical bars to define the columns in the new row are in place. 
+
+** Entering Data into A Table
+
+Once the table is set up like this, it is an easy process to fill in many lines of data.
+
+1. With point at the third position, type "Amazon Prime".
+2. Press tab. Point is at the third position after the second "|".
+3. Type "8.25" for one month of the $99 subscription.
+4. Press return.
+5. Here's what the table now looks like. Notice that the columns have
+   been adjusted to accommodate the longer text of "Amazon Prime".
+
+   #+BEGIN_EXAMPLE
+   | ITEM         | EXPENSE  |
+   |--------------+---------|
+   | Amazon Prime |       8.25   |
+   |              |              |
+   #+END_EXAMPLE
+It is important to realize that point is now in the second column.
+Either use s=tab to move back one field to the first column or c-a to
+go to the beginning of the line and c-f to move to the right of the "|".
+
+** Summing Up Expenses
+
+When I thought I had listed all my subscriptions, I made another
+horizontal rule.
+
+1. I typed the word "Total" in the first column.
+2. I pressed tab.
+3. I pressed "C-c +" (c-c then the plus sign). This summed up my
+   expenses and put it in the echo line.
+4. I pressed "c-y" to paste (yank) it into the table at point.
+5. Now I could read the number.
+
+This is fine, but if I added another subscription (perish the
+thought!) I would have to go through the process of updating the total
+more or less manually. I needed a formula that I could rerun at any
+time. Who knows. I might even drop a subscription down the road.
+
+** Some Discoveries
+
+I created a much more complicated table with many headings for
+different kinds of expenses. Most of every column had white space in
+it with a few numbers. This doesn't work in Org. The columns cannot be
+summarized. Following the example of[[http://www.howardism.org/Technical/Emacs/spreadsheet.html][Lots of Small Spreadsheets]] I broke
+my mammoth spreadsheet into six little ones:
+
+- subscriptions
+- rent and such
+- health and wellness
+- food and drink
+- dog (for my Seeing Eye dog)
+- Miscellaneous
+ 
+Then I created a seventh table to summarize them all.
+
+** Naming Tables
+
+If each of these tables has a unique name, any field in that table can be
+referenced elsewhere in the Org universe. It looks like this:
+
+#+BEGIN_EXAMPLE
+#+NAME: subscriptions
+#+END_EXAMPLE
+
+Put this name at the top of the table above the header row. Don't have
+any white space in-between this line and the header line. Org needs to
+understand they are connected.
+
+** How Org References Rows and Columns
+
+To find out where you are in a table, use "c-c ?" (c-c question mark).
+To hear the reference again, press "c-e a". You can do this as many
+times as you need to until you have it in your mind. I don't know of a
+way to put it on the clipboard to be yanked into a text file to be
+interrogated.
+
+The readout is in the form line number which is prefixed by the "@" (at sign) followed by the
+word "col" followed by the column designation in the form "$" (dollar
+sign) followed by the column position followed by the compound
+expression of row plus column. Finally, a more conventional
+spreadsheet reference. So the field in the seventh row in the fifth column is "@7$5" or "G5".
+
+** Putting It Altogether
+
+Each of our little tables needs a formula to sum up the expenses
+listed in column 2. You write this formula this way:
+
+#+BEGIN_EXAMPLE
+#+TBLFM: @>$2=vsum(@2..@-1)
+ #+END_EXAMPLE
+
+1. "#+TBLFM:" follows the table itself with no white space. I could
+   not get more than one of these to work per table.
+2. The left hand side of the equation shows where to put the answer.
+   Put it in the last row, second column.
+3. "vsum" is an Emacs calc function. It will summarize the column for us.
+4. Within the parentheses is the range: from the second row to the
+   next to last row in the second column. Org does not count the
+   horizontal lines but it will stop any calculation when it
+   encounters one.
+5. Press "c-c c-c" on this line and voila! The total appears.
+
+*Note*: Always blank out your field(s) before initiating a
+calculation. You will get some strange numbers if you don't.
+
+** The Final Summation
+
+Finally, I needed to add the totals from the six tables into
+the seventh one. Obviously, I could look at each number and copy it over,
+but what fun is that? Besides, every time I added an item to one of
+the tables, I would have to copy a new number into the correct field.
+
+Enter "#+NAME:" to save the day.
+
+I wrote a formula to pick up the total amount from each table, copy it
+to the appropriate line in the second column of my summary table and
+add it all up. No matter how hard I tried, I couldn't get the hang of
+doing these remote references within the table so I have one huge
+"#+TBLFM:" line. It may not be pretty but it works! Here's what it
+looks like. It will probably wrap on your screen, but trust me, it's
+one line in my file.
+
+#+BEGIN_EXAMPLE
+#+TBLFM:@2$2=remote(subscriptions,@>$2)::@3$2=remote(rent-and-such,@>$2)::@4$2=remote(health-and-wellness,@>$2)::@5$2=remote(dog,@>$2)::@6$2=remote(food-and-drink,@>$2)::@7$2=remote(misc,@>$2)::@>$2=vsum(@2$2..@>-1$2)
+#+END_EXAMPLE
+
+The double "::" (colon) concatenates each equation to the next. When it
+all finally worked, the entire column was filled in and the grand
+total appeared. 
+
+** Some Observations
+
+- "C-c spc" is a great keybinding to know. It blanks out a field.
+- Learning how to delete a column or row is useful. Don't be too
+  zealous. You'll end up wiping out all your hard work entering it.
+  Moving rows up and down can be accomplished with keybindings, too.
+  You can learn about all these by going through the tbl menu option. It's good when you don't remember a keybinding like I do.
+- I did not find the formula debugger very helpful.
+- I had trouble when my table only had one line of data. The range
+  confused the program.
+- If you need to, you can export your table to a csv file.
+- Being very specific in formulas helps a lot. There are some
+  shortcuts for cell descriptions, but some of them were harder to
+  understand and use for me. When I got specific, my formulas worked
+  much better.
+- The emacspeak keybindings appear to be duplicates of the org ones.
+- With simple tables, it is not too hard to review the table with speech. 
+
+** Conclusion
+
+I really like using org for this work. My file is a text file and
+easily understood and modified as needed. With a little editing of the
+names, I can have a file with each month under a separate headline. I
+could keep year-to-date figures as well as compare expenses on a
+yearly basis. There is the potential to have a unique identifier for each field.
+Tracking utility bills, for example, year over year could come in very handy. 
+

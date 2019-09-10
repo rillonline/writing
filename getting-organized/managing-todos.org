@@ -1,0 +1,44 @@
+I finally understand why the capture template includes the heading
+"Tasks". Todos which are not part of a larger project can be collected
+under this heading. Otherwise, you have a file with only one heading
+and all your todos are underneath it. Dumb! But if you have additional
+projects, the "Task" heading cleans up your file and makes it manageable.
+
+* TODO Keywords
+
+By default, TODOs have three states:
+
+- TODO
+- DONE
+- not set
+
+You can cycle through these states by pressing =C-c C-t".
+
+You can also add, change or delete any of these keywords. Here's what
+I finally decided on for my keywords:
+
+#+BEGIN_EXAMPLE
+ (setq org-todo-keywords
+ '((sequence "TODO(t@/!)" "IN-PROGRESS(i@/!)" "ON-HOLD(o@/!)" "DEFERRED(f@/!)" "|" "DONE(d@/!)" "CANCELED(c@/!)")))
+ (setq org-use-fast-todo-selection t)
+#+END_EXAMPLE
+
+In reading through many posts, people have a variety of states and
+combinations. Two popular ones are "waiting" and "someday". I chose
+"on-hold" and "deferred" and perhaps I will change "in-progress" to
+"started".
+
+The second elisp expression I included in my example allows you to
+press =C-c C-t= and type in the one letter shortcut. If you don't have
+this line, pressing =c-c c-t" moves you by one state. You have to keep
+pressing the key combination to get the one you want if you have more
+than the default "T"ODO" and "DONE" with not set state.
+
+When you set a TODO's state, you also have an opportunity to write
+yourself a note about the status of your task. Press =c-c c-c" to save
+the note or "c-c c-k" to kill it. With this work flow, it is easy to
+see why you might want to be able to type a quick shortcut key, write
+your note and save it.
+
+For a more robust discussion of TODO keywords, see [[https://orgmode.org/manual/Faces-for-TODO-keywords.html][Basics for TODO Keywords]] 
+
