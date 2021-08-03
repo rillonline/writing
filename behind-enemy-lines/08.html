@@ -1,0 +1,453 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>|Chapter 8: Explorations &#8212; Rill&#39;s Writings</title>
+    
+  <link href="../_static/css/theme.css" rel="stylesheet" />
+  <link href="../_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/sphinx-book-theme.acff12b8f9c144ce68a297486a2fa670.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../_static/js/index.1c5a1a01449ed65a7b51.js">
+
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+      
+      <h1 class="site-logo" id="site-title">Rill's Writings</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <div class="bd-toc-item active">
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../index.html">
+   All Sorts of Writing
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Poetry
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../poetry/wondrous-love.html">
+   “Wondrous Love”
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../_sources/behind-enemy-lines/08.rst"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.rst</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+
+<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+        title="Fullscreen mode"><i
+            class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show">
+            
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="chapter-8-explorations">
+<h1><a href="#id1"><span class="problematic" id="id2">|</span></a>Chapter 8: Explorations<a class="headerlink" href="#chapter-8-explorations" title="Permalink to this headline">¶</a></h1>
+<p>Captain Star Runner Narrates
+~~~</p>
+<div class="admonition-note-to-self admonition">
+<p class="admonition-title">NOTE TO SELF</p>
+<blockquote>
+<div><p>I am still struggling with narrator voice. When
+Captain Star Runner narrates in the first person, the
+narration is quirky with lots of asides and Captain
+Star Runner’s opinions and assumptions on many
+topics. The first person allows Captain Star Runner
+to simply be. The pronouns do not get in the way.
+Captain Star Runner is simply the “I” of the story.
+In the third person, “it” would sound strange.
+Perhaps this would heighten Captain Star Runner’s
+alien self, but Captain Star Runner is not intended
+to be an alien character, but a lovable character who
+happens to be an alien.</p>
+<p>Detective Ronnie Camberwell is a different matter.
+When she narrates in the first person, it is clear
+that she is telling the story after the fact. These
+are not diary entries as they appear here in the
+first draft. Diary entries are a possibility going
+forward and as a rewrite. She would be having a
+conversation with herself in the present of the
+story.</p>
+<p>Alternatively, Ronnie’s sections could be rewritten
+and written going forward in the third person. It
+would again be real time for the character. We could
+be inside her head, seeing what she sees, knowing
+only what she knows.</p>
+<p>This viewpoint and the omniscient narrator viewpoint
+have the same problem: Where does this information
+come from? How does Captain Star Runner have access
+to it as Captain Star Runner puts together the
+adventure?</p>
+<p>On the other hand, diary entries would give that
+sense of first person narration in real time but,
+from a practical point of view,  they would be
+gathered after the fact. Practically speaking again,
+this means Ronnie trusts Captain Star Runner with
+them or Captain Star Runner has appropriated them
+without Ronnie’s consent. Both scenarios are
+consistent with Captain Star Runner’s behavior.</p>
+<p>It is still not clear to me if this story will end
+with Captain ST Star Runner and Ronnie’s relationship
+back on an even Kiel. If it is not, the explanation
+of Ronnie’s diary entries appearing in the adventure
+text needs to be explained–at least to me.
+Presumably this narration is one that Captain Star
+Runner put together and published. Later Ronnie
+inserted her diary entries. Why would she do this?</p>
+<p>This may sound like a pointless excursus into
+motivations and explanations which really do not
+matter since this is fiction after all. But a
+reader’s suspension of disbelief only goes so far and
+it is reasonable for the reader to ask: How is this
+narration possible? How did all these dis disparate
+pieces of the story come together. Either some
+unnamed editor did it or the character themselves did
+it. Captain Star Runner maintains that it alone
+creates these adventures. They are self published.
+Therefore, Captain Star Runner needs access to all
+the materials in them.</p>
+<p>In   the three Nanowrimo novels I have written that I
+have subtitled Ronnie Camberwell Adventures, two of
+them are first person narratives. The third one, the
+latest novel I’ve written, the narration is mixed
+because the story lagged with first person narrative.
+Ronnie could not have known some things that were
+necessary.</p>
+<p>The same situation exists here.Either I have not
+conceived of these tales well from the outset or I am
+growing as a writer, having wider vision of the
+adventure.</p>
+<p>For now, I will try the diary entry approach and see</p>
+</div></blockquote>
+<p>where that gets me.Explorations is a good title for
+this thought experiment and this chapter.</p>
+</div>
+<div class="admonition-note-to-self admonition">
+<p class="admonition-title">NOTE TO SELF</p>
+<p>I need a clause in the contract that Ronnie has with
+Suri Iglesia’s family. She is to wait and turn
+responsibility for the students over to a trusted
+Lystran spaceship captain. That means Ronnie is
+waiting on Planet X for this captain to arrive. Now
+that Heracles Beja is dead, Suri Iglesia is anxious
+to leave Planet X with her data before someone
+steals it or refutes it. Ronnie will be blindsided
+by Suri’s decision to leave the planet with Heracles
+Beja’s murder still unresolved. Suri will use this
+ambiguity to justify her decision not to wait for
+the scheduled ride.</p>
+</div>
+<p>There were some living quarters nearby the old structures. Suri
+Iglesia had not told us we were staying down in the valley overnight.
+There was a rough sort of dinner. Detective Ronnie Camberwell put and
+Suri Iglesia put their clothes in the refresher. They wore loose
+garments stored in the facility for just this purpose.</p>
+<p>After they were asleep I decided to go exploring. I could not judge
+how safe Detective Ronnie Camberwell was. I hoped both women would
+just sleep while I was out prowling.</p>
+<p>Our old stories say that Members of the Race hunted at dusk and dawn.
+We see very well then. We are also creatures of the night. Although I
+am born and bred to be in space, I find adjusting to planet night is
+not all that difficult. I have all the instinctual moves for stalking
+and skulking. I just do not do it with finesse.</p>
+<p>I first went to the structure we had previously entered. I wanted to
+know what lay behind those doorways. Sadly, the corridors were clogged
+with debris. I wondered if Suri Iglesia and Heracles Beja were
+required to remove a substantial amount of debris before they could
+enter the structure. If that were the case, I could not reconnoiter
+other structures.</p>
+<p>I worked my way along the avenue, retracing our route from the tram
+roundhouse. Doorways were blocked. Roofs were caved in. I was about to
+give up and return to the dormitory when I could finally stand inside
+a structure.</p>
+<p>I looked about the room. It appeared to be identical to the one Suri
+Iglesia and Heracles Beja had tested in shape. The same number of
+doorways led from the entrance room.</p>
+<p>Little light came into the room. I removed my torch from my foreleg
+pouch and switched it on. Set on its lowest illumination setting, I
+swept the room.  my torch picked up colors on the wall. Slowly I
+increased the illumination until I could get a clear scan.</p>
+<p>I did not need for Christabel to interpret what I saw. I recognize
+Members of the Race when I see them. This mural was in much better
+condition than the Trollolu mural. Suri Iglesia and Heracles must have
+chosen the structure they tested because of its proximity to the
+dormitory.</p>
+<p>During the day, Suri Iglesia ran tests. Detective Ronnie Camberwell
+stayed close to her, hanging on every word, every look. I napped
+nearby.</p>
+<p>I went out every evening, checking more structures. I found a mural of
+the Featherote and several containing figures neither Christabel nor I
+could identify. I played the ones in good condition over and over
+again in my visual display. What did they represent? Why was there a
+different mural in each structure? What were these structures for?</p>
+<p>I have never understood my best friend Tamara’s fascination for
+archeology. Tamara goes to places where she works physically hard in
+difficult conditions. Tamara says it is because the past intrigues
+her. She says there is so much history we have lost. Tamara wants to
+reclaim that history. It would seem there is a lot of history that has
+been lost here, too. I wonder if it is important.</p>
+<p>On the last evening in the valley, Detective Ronnie Camberwell was
+waiting outside of the dormitory when I returned.</p>
+<p>“Where were you?” Detective Ronnie Camberwell asked.</p>
+<p>“Prowling around,” I said. I did not feel much like answering
+Detective Ronnie Camberwell. She had basically ignored me since we
+arrived on Planet X. This was supposed to be a time when we would
+spend time together. I said as much.</p>
+<p>“You are confusing our cover story with my job,” Detective Ronnie
+Camberwell said.</p>
+<p>“You seem to be infatuated with Suri Iglesia,” I said.</p>
+<p>“I need to stay with her. Someone murdered her partner.”</p>
+<p>“Probably Suri Iglesia herself.” I said.</p>
+<p>“Let’s not get into that again. I told you. She couldn’t have done
+it.”</p>
+<p>We stood facing each other in a tense silence. I wonder now if I should
+have told Detective Ronnie Camberwell how important she was to me.
+Maybe I should have embraced her, kissed her, twisted myself around
+her. I did none of these things. Part of my genderless engineering
+causes me to reflexively defer to a gendered being. I have to
+consciously work to overcome that preprogrammed behavior. I can do it
+readily in business negotiations. I am far less likely to do it in
+personal interactions. I am no good at it at all in romantic settings.
+I have no instincts at all in this regard. They have been removed.</p>
+<p>The genetic engineers meant this to be a mercy. Genderless Members of
+the Race have no sexual attractions to other Members of the Race. We
+do not physically desire anyone else. As a result, I was not
+predisposed to fight for my position as Detective Ronnie Camberwell’s
+lover. I simply acquiesced.</p>
+<p>“Five more days until the spaceship comes,” Detective Ronnie
+Camberwell finally said.</p>
+<p>Good. Detective Ronnie Camberwell would not pursue her questions about
+where I had been. I did not want to share my still nebulous ideas
+about this place.</p>
+<p>I said, “I am going to prowl around just a little bit more.”</p>
+<p>I started to walk away.</p>
+<p>“Can I come with you?” Detective Ronnie Camberwell asked.</p>
+<p>My heart started beating a little faster. Maybe Detective Ronnie
+Camberwell wanted to be with me after all.</p>
+<p>Then Detective Ronnie Camberwell said, “I just can’t sleep tonight.”</p>
+<p>I said, “I will need to go back to my ride soon.”</p>
+<p>“Why? You’re not leaving, are you?”</p>
+<p>“No,” i said. “The mini AI can only maintain my boo-systems for so
+long. I need Christabel to realign everything.”</p>
+<p>Detective Ronnie Camberwell said, “Then you’ll come back.”</p>
+<p>“Yes,” I said, “if you want me to.”</p>
+<p>“Of course I want you to.”</p>
+<p>I became filled with joy.</p>
+<p>“I don’t want to be marooned here on this planet. It gives me the
+creeps. Besides, the contract states I need to see Suri onto the
+spaceship and then I’m free to leave. Passage on the spaceship is not
+included in the contract.”</p>
+<p>Just as quickly I  felt very disappointed. I was only the backup plan.</p>
+<p>We walked more in silence.</p>
+<p>“Is there something wrong, Star?”</p>
+<p>The question was absurd. I did not laugh. Members of the Race rarely
+laugh. Terries think my laugh is quite hilarious.</p>
+<p>“No,” I said. “There is nothing wrong.”</p>
+<p>We walked a little farther.</p>
+<p>“I’m getting cold,” Detective Ronnie Camberwell said. “I think I’ll go
+back.”</p>
+<p>We had just passed a structure which looked fairly in tact.</p>
+<p>“I want to stop here and look inside,” I said.</p>
+<p>“If you wish. I’ll start back,” Detective Ronnie Camberwell said.</p>
+<p>Should I have asked her to look inside with me? Would that have
+changed anything? I do not know. Perhaps. Perhaps not.</p>
+<p>The structure was almost perfect. A few stones had fallen from the
+ceiling. I played my torch over the mural. And there they were:
+figures that looked just like Prince Hat. According to the Terries,
+these beings looked like great white bears. They were quite big. They
+were the race that had fostered the growth of the Featherote, the
+Fungusians, the Members of the Race and, yes, the Trollolu.
+Apparently, they had fostered other unfamiliar races. I saw them in
+this mural walking with all the figures I had seen before in all the
+other structures. I walked through one of the doorways. My torchlight
+picked out shiny circles and squares. They reminded me of the crystals
+that contained lectures by the Trollolu. I had the DNA to unlock
+those. Touching these did nothing. They either were not the same or
+they did not respond to my touch. If they were the same sort of
+device, these structures might have been schools or museums or some
+other place for recording information or teaching it. Maybe this was a
+library.</p>
+<p>Feeling I had accomplished something, I returned to the dormitory. If
+Detective Ronnie Camberwell was awake, she did not say anything.</p>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./behind-enemy-lines"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        
+        <div class='prev-next-bottom'>
+            
+
+        </div>
+        
+        </div>
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Rill Woolnough<br/>
+        
+            &copy; Copyright 2021.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+  
+  <script src="../_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+
+  
+  </body>
+</html>

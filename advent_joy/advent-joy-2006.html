@@ -1,0 +1,1827 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ADVENT JOY &#8212; Rill&#39;s Writings</title>
+    
+  <link href="../_static/css/theme.css" rel="stylesheet" />
+  <link href="../_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/sphinx-book-theme.acff12b8f9c144ce68a297486a2fa670.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../_static/js/index.1c5a1a01449ed65a7b51.js">
+
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+      
+      <h1 class="site-logo" id="site-title">Rill's Writings</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <div class="bd-toc-item active">
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../index.html">
+   All Sorts of Writing
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Poetry
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../poetry/wondrous-love.html">
+   “Wondrous Love”
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../_sources/advent_joy/advent-joy-2006.rst"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.rst</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+
+<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+        title="Fullscreen mode"><i
+            class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show">
+            
+            <div class="tocsection onthispage pt-5 pb-3">
+                <i class="fas fa-list"></i> Contents
+            </div>
+            <nav id="bd-toc-nav">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#author-s-note">
+   Author’s Note
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#introduction">
+   Introduction
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#a-word-about-these-podcasts">
+     A Word about These Podcasts
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#call-to-action">
+   CALL TO ACTION
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#someday">
+   SOMEDAY
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#more-about-longings">
+   MORE ABOUT LONGINGS
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#tour-guide">
+   Tour Guide
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#belonging-to-god">
+   Belonging to God
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#loving-jerusalem-praying-for-peace">
+   LOVING JERUSALEM, PRAYING FOR PEACE
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#help">
+   HELP!
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#joyful-songs">
+   JOYFUL SONGS
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#unless-the-lord-builds-the-house">
+   UNLESS THE LORD BUILDS THE HOUSE
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#claiming-the-child">
+   CLAIMING THE CHILD
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#purify">
+   PURIFY
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#john-told-them">
+   John TOLD THEM …
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#the-world-and-everything-in-it">
+   THE WORLD AND EVERYTHING IN It
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#attending-the-messiah">
+   ATTENDING THE MESSIAH
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#the-greatest-joy">
+   THE GREATEST JOY
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#my-strength-and-my-song">
+   My STRENGTH AND MY SONG
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#sacred-highway">
+   Sacred HIGHWAY
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#home">
+   HOME!
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#ride-on">
+   RIDE ON!
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#the-sign-of-immanuel">
+   The Sign of Immanuel
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#sitting-in-darkness">
+   Sitting in Darkness
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#honorable-theophilus">
+   HONORABLE THEOPHILUS
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#magnificat">
+   magnificat
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#a-life-of-peace">
+   A life of peace
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#praising-god">
+   Praising god
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#true-glory">
+   True glory
+  </a>
+ </li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="advent-joy">
+<h1><a class="toc-backref" href="#id23">ADVENT JOY</a><a class="headerlink" href="#advent-joy" title="Permalink to this headline">¶</a></h1>
+<div class="contents topic" id="table-of-contents">
+<p class="topic-title">Table of Contents</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#advent-joy" id="id23">ADVENT JOY</a></p>
+<ul>
+<li><p><a class="reference internal" href="#author-s-note" id="id24">Author’s Note</a></p></li>
+<li><p><a class="reference internal" href="#introduction" id="id25">Introduction</a></p>
+<ul>
+<li><p><a class="reference internal" href="#a-word-about-these-podcasts" id="id26">A Word about These Podcasts</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#call-to-action" id="id27">CALL TO ACTION</a></p></li>
+<li><p><a class="reference internal" href="#someday" id="id28">SOMEDAY</a></p></li>
+<li><p><a class="reference internal" href="#more-about-longings" id="id29">MORE ABOUT LONGINGS</a></p></li>
+<li><p><a class="reference internal" href="#tour-guide" id="id30">Tour Guide</a></p></li>
+<li><p><a class="reference internal" href="#belonging-to-god" id="id31">Belonging to God</a></p></li>
+<li><p><a class="reference internal" href="#loving-jerusalem-praying-for-peace" id="id32">LOVING JERUSALEM, PRAYING FOR PEACE</a></p></li>
+<li><p><a class="reference internal" href="#help" id="id33">HELP!</a></p></li>
+<li><p><a class="reference internal" href="#joyful-songs" id="id34">JOYFUL SONGS</a></p></li>
+<li><p><a class="reference internal" href="#unless-the-lord-builds-the-house" id="id35">UNLESS THE LORD BUILDS THE HOUSE</a></p></li>
+<li><p><a class="reference internal" href="#claiming-the-child" id="id36">CLAIMING THE CHILD</a></p></li>
+<li><p><a class="reference internal" href="#purify" id="id37">PURIFY</a></p></li>
+<li><p><a class="reference internal" href="#john-told-them" id="id38">John TOLD THEM …</a></p></li>
+<li><p><a class="reference internal" href="#the-world-and-everything-in-it" id="id39">THE WORLD AND EVERYTHING IN It</a></p></li>
+<li><p><a class="reference internal" href="#attending-the-messiah" id="id40">ATTENDING THE MESSIAH</a></p></li>
+<li><p><a class="reference internal" href="#the-greatest-joy" id="id41">THE GREATEST JOY</a></p></li>
+<li><p><a class="reference internal" href="#my-strength-and-my-song" id="id42">My STRENGTH AND MY SONG</a></p></li>
+<li><p><a class="reference internal" href="#sacred-highway" id="id43">Sacred HIGHWAY</a></p></li>
+<li><p><a class="reference internal" href="#home" id="id44">HOME!</a></p></li>
+<li><p><a class="reference internal" href="#ride-on" id="id45">RIDE ON!</a></p></li>
+<li><p><a class="reference internal" href="#the-sign-of-immanuel" id="id46">The Sign of Immanuel</a></p></li>
+<li><p><a class="reference internal" href="#sitting-in-darkness" id="id47">Sitting in Darkness</a></p></li>
+<li><p><a class="reference internal" href="#honorable-theophilus" id="id48">HONORABLE THEOPHILUS</a></p></li>
+<li><p><a class="reference internal" href="#magnificat" id="id49">magnificat</a></p></li>
+<li><p><a class="reference internal" href="#a-life-of-peace" id="id50">A life of peace</a></p></li>
+<li><p><a class="reference internal" href="#praising-god" id="id51">Praising god</a></p></li>
+<li><p><a class="reference internal" href="#true-glory" id="id52">True glory</a></p></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="author-s-note">
+<h2><a class="toc-backref" href="#id24">Author’s Note</a><a class="headerlink" href="#author-s-note" title="Permalink to this headline">¶</a></h2>
+<p>What follows is a transcript of podcasts I produced in 2006 for
+Advent. For the most part, I have not changed anything from what you
+will hear if you listen to the audio files. Because I have
+discontinued my web site referenced in the podcasts, I have updated
+the transcript with my current site and contact information. I hope
+that these writings will be a blessing to you on your spiritual
+journey.</p>
+<p>I recorded these reflections using the name Merrill Louise . It never
+stuck.</p>
+<p>You can find the Advent Joy 2006 page at <a class="reference external" href="http://www.archive.org/">The Internet Archive</a> page <a class="reference external" href="http://www.archive.org/details/advent_joy_2006/">here</a>.
+To download all the files at once, use any of these links:</p>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006_64kb_mp3.zip">Advent Joy 2006 64kb mp3</a></p>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006_64kb.m3u/">Advent Joy 2006 64kb m3u</a></p>
+<p>You may want to edit the m3u file as the reflection for December fifth
+is out of order.</p>
+<p>Rill</p>
+<p>November, 2014</p>
+</div>
+<div class="section" id="introduction">
+<h2><a class="toc-backref" href="#id25">Introduction</a><a class="headerlink" href="#introduction" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="https://archive.org/download/advent_joy_2006/advent_joy_2006-11-29_introduction.mp3">introduction.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<p>Advent may be an unfamiliar word to you. It means coming or arrival.</p>
+<p>It is the time YOU AND I will set aside during these podcasts to
+prepare our hearts and minds for Christmas.</p>
+<p>In real life, our preparations may include</p>
+<ul class="simple">
+<li><p>Shopping for presents for other people, wrapping them in pretty paper, tying ribbons and affixing bows.</p></li>
+<li><p>Decorating our home, inside and out, with colored lights, scented
+candles, garlands, Santa’s, reindeer, snowmen and women</p></li>
+<li><p>and special sayings like</p>
+<ul>
+<li><p>Ho! Ho! Ho!</p></li>
+<li><p>Merry Christmas!</p></li>
+<li><p>Seasons Greetings!</p></li>
+<li><p>Happy Holiday!</p></li>
+</ul>
+</li>
+<li><p>Decorating the Christmas tree</p></li>
+<li><p>Planning, preparing and  making special meals</p></li>
+<li><p>Baking cookies and other delectable treats</p></li>
+<li><p>PLAYING OR SINGING Christmas carols and songs</p></li>
+<li><p>Giving and going to parties</p></li>
+</ul>
+<p>The intent of all these activities is joy—the joy of</p>
+<ul class="simple">
+<li><p>giving and receiving gifts of love</p></li>
+<li><p>sharing good food with good friends and family,</p></li>
+<li><p>celebrating friendship and family ties</p></li>
+<li><p>expressing the hope that the world really can be a place of joy and peace</p></li>
+</ul>
+<p>Sadly, we know our preparations often fall short of our expectations
+of ourselves, of others and the season.</p>
+<ul class="simple">
+<li><p>We work ourselves into a frenzy out of a sense of duty rather than
+joy.</p></li>
+<li><p>We spend more than we have.</p></li>
+<li><p>We get stressed out.</p></li>
+<li><p>We snap at family members, coworkers and friends.</p></li>
+<li><p>We feel rushed, panicked that everything will not be perfect or even
+get done.</p></li>
+<li><p>We feel lonely.</p></li>
+<li><p>There is something missing.</p></li>
+<li><p>We don’t feel as happy as we think other people are.</p></li>
+<li><p>We despair.</p></li>
+<li><p>We think there is something wrong with us because the so-called spirit of Christmas hasn’t touched our souls.</p></li>
+</ul>
+<p>Real life spirituality acknowledges all the healthy ways you and I prepare for Christmas. Presents are wonderful. Christmas cookies taste delicious. Decorations enhance our living and working spaces.
+Each year, for the four weeks preceding Christmas, the season of Advent invites you and me to take a few minutes every day</p>
+<ul class="simple">
+<li><p>to open ourselves to God</p></li>
+<li><p>to reflect on Jesus’ birth, its meaning for  and impact on us</p></li>
+<li><p>to respond to God with love and joy</p></li>
+</ul>
+<p>I hope these short reflections, inspired by the American Bible Society’s daily readings for November 30-December 25 will bring Advent Joy in your heart, joy that you can share with others and with God as your relationship with God grows deeper in joy this Advent season.</p>
+<div class="section" id="a-word-about-these-podcasts">
+<h3><a class="toc-backref" href="#id26">A Word about These Podcasts</a><a class="headerlink" href="#a-word-about-these-podcasts" title="Permalink to this headline">¶</a></h3>
+<p>Each podcast will begin with a quotation from the Contemporary English
+Version of the Bible. These quotations will be a portion of a longer
+reading which I will announce. I hope you will find time during the
+day to read or listen to this longer passage. After I read the
+Scripture quotation, I will reflect on it, speaking about how it helps
+us prepare for Jesus’ arrival at Christmas. I will conclude each
+reflection with a very short prayer.</p>
+<p>I am making these podcasts available at no charge. This work is
+licensed under a Creative Commons Attribution-NonCommercial-NoDerivs
+2.5 License. You can listen to them and share them with friends. You
+cannot sell them or modify them.</p>
+<p>“This scripture is taken from The Contemporary English Version
+copyrighted by The American Bible Society, used by permission”.</p>
+</div>
+</div>
+<div class="section" id="call-to-action">
+<h2><a class="toc-backref" href="#id27">CALL TO ACTION</a><a class="headerlink" href="#call-to-action" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="https://archive.org/download/advent_joy_2006/advent_joy_2006-11-30_call_to_action.mp3">call_to_action.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="center">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#center" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Thursday, November 30, 2006</p>
+<p>The reading is Psalm 150.</p>
+<blockquote>
+<div><p>Praise our God!</p>
+<p>His deeds are wonderful, too marvelous to describe. (v. 2)</p>
+</div></blockquote>
+<p>How do you go about preparing for Christmas in real life? You may be beginning by</p>
+<ul class="simple">
+<li><p>making a list</p></li>
+<li><p>going to the store to browse</p></li>
+<li><p>doing a web search</p></li>
+<li><p>asking advice</p></li>
+<li><p>checking on what you already have on hand</p></li>
+</ul>
+<p>Spiritual preparations for an event are no different. Psalm 150 calls us to action, too. Let me list the activities.</p>
+<ul class="simple">
+<li><p>shouting</p></li>
+<li><p>dancing</p></li>
+<li><p>strumming</p></li>
+<li><p>plucking</p></li>
+<li><p>blowing</p></li>
+<li><p>clashing</p></li>
+</ul>
+<p>It’s all quite noisy. It’s all quite different from hushed worshippers
+engaging in solemn introspection. Self-examination is a useful
+activity. Nevertheless, Psalm 150 invites us to loud and showy praise
+of our God en lieu of lengthy descriptions of all God’s marvelous
+deeds.</p>
+<p>So</p>
+<ul class="simple">
+<li><p>Crank up the music if you’re not wearing ear buds.</p></li>
+<li><p>Grab that sweatshirt with the words JOY! JOY! JOY! Written across your chest</p></li>
+<li><p>Swing your hips.</p></li>
+<li><p>Get a bounce in your step.</p></li>
+<li><p>Sing along with the in-store carols.</p></li>
+<li><p>Smile.</p></li>
+<li><p>And if you’re up to it, a few Ho! Ho! Ho!’S won’t hurt anybody.</p></li>
+</ul>
+<p>You’re not crazy. You’re praising God with your whole self and sharing your joy with everybody around you.</p>
+<p>Let us pray … Wonderful God, may my praise of you be rambunctious and contagious today. Amen.</p>
+</div>
+<div class="section" id="someday">
+<h2><a class="toc-backref" href="#id28">SOMEDAY</a><a class="headerlink" href="#someday" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="https://archive.org/download/advent_joy_2006/advent_joy_2006-12-01_someday.mp3">someday.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id0">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id0" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Friday, December 1, 2006</p>
+<p>The reading is Jeremiah 33.1-13.</p>
+<blockquote>
+<div><p>Then someday, I will heal this place and my people as well, and let
+them enjoy unending peace. (v. 6)</p>
+</div></blockquote>
+<p>Someday … It is a word that haunts me. How many promises have I made,
+how many promises have been made to me that begin someday.</p>
+<ul class="simple">
+<li><p>I heard it as a child.</p></li>
+<li><p>I said it as a parent.</p></li>
+<li><p>I said it as a lover.</p></li>
+<li><p>Lovers have said it to me.</p></li>
+</ul>
+<p>Someday …</p>
+<p>Making promises and not keeping them is a form of betrayal. It also
+labels us as unreliable. When I became aware of this, I sought to
+refrain from making promises I wasn’t absolutely sure I could keep.
+Instead of characterizing me as totally truthful, it marked me as
+unwilling to commit myself.</p>
+<p>Someday …</p>
+<p>In today’s reading, God says it to the prophet Jeremiah who is
+imprisoned in Jerusalem, a city under siege. Someday I will … let them
+enjoy unending peace.</p>
+<p>Truth is, we can choose whether or not to trust God. In the case of
+Jeremiah, the city fell. Most of the citizenry were taken captive and
+exiled in Babylon. Within a generation the people had an opportunity
+to return to the city. Some did. Most did not.</p>
+<p>As we all too well know, peace is not the absence of war. It is the
+fullness of life well-lived. That is the peace God promises, not just
+the absence of enemies at the gate.</p>
+<p>In Advent, you and I can let our longings bubble to the surface. We
+can trust God that someday peace will be ours to enjoy and live
+accordingly.</p>
+<p>Let us pray … God, may my longing for peace in my heart, peace in my
+home and peace in the world be satisfied. Amen.</p>
+</div>
+<div class="section" id="more-about-longings">
+<h2><a class="toc-backref" href="#id29">MORE ABOUT LONGINGS</a><a class="headerlink" href="#more-about-longings" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="https://archive.org/download/advent_joy_2006/advent_joy_2006-12-02_more_about_longings.mp3">more_about_longings.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id1">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id1" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Saturday, December 2, 2006</p>
+<p>The reading is Jeremiah 33.14-26.</p>
+<blockquote>
+<div><p>I promise that the time will come When I will appoint a king from
+the family of David, A king who will be honest and rule with
+justice. (v. 15)</p>
+</div></blockquote>
+<p>Whoa! What is going on here? What does the politics of the Middle
+East, then or now, have to do with preparing for Christmas?</p>
+<p>Sometimes Jesus is referred to as the son of David. As David’s
+descendant and God’s Son, he rules over the universe in royal
+splendor. However, if you have the feeling</p>
+<ul class="simple">
+<li><p>You’ve been had</p></li>
+<li><p>some slight of hand is being employed here</p></li>
+<li><p>some reverse engineering is happening</p></li>
+<li><p>it is a major leap from regional politics to the cosmic order of
+things</p></li>
+</ul>
+<p>I can certainly understand yourconfusion.</p>
+<p>A king who will be honest and rule with justice and a city which will
+be named The LORD Gives Justice is something both the people of long
+ago and you and I long for today. Kings in the ancient world were
+responsible for the well-being of everyone under their rule from each
+member of their own household to the tiniest child in the farthest
+village. Then as now the ideal and the reality didn’t line up very
+closely.</p>
+<p>To name Jesus as David’s son, to acknowledge Jesus as a member of
+David’s royal family, is a shorthand way of putting our longing for
+good governance and justice for all into words and say it out loud.</p>
+<p>Let us pray … Jesus, David’s son, I long for your justice to fill me
+and the whole world with joy. Amen.</p>
+</div>
+<div class="section" id="tour-guide">
+<h2><a class="toc-backref" href="#id30">Tour Guide</a><a class="headerlink" href="#tour-guide" title="Permalink to this headline">¶</a></h2>
+<dl class="py class">
+<dt id="id2">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id2" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>First Sunday of Advent, December 3, 2006</p>
+<p><a class="reference external" href="https://archive.org/download/advent_joy_2006/advent_joy_2006-12-03_tour_guide.mp3">tour_guide.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<p>The reading is Luke 21.5-38.</p>
+<blockquote>
+<div><p>So, when you see these things happening, you know that God’s kingdom
+will soon be here. (v. 31)</p>
+</div></blockquote>
+<p>Remind me never to have Jesus as my tour guide. Stop to gaze at the
+spectacular temple King Herod the Great built for his people and you
+get an earful about the apocalypse. To be fair, in the arc of the
+story of Jesus’ life, death and resurrection, this exchange takes
+place two days before Jesus’ crucifixion.</p>
+<p>So … what is this text doing here in our Advent reading?</p>
+<p>Jesus is talking about preparing for the end of the world as we know
+it. He is using what is called apocalyptic language: a code to let his
+listeners know he is talking about The Endcapital T capital E. The
+images of natural disaster, violence and human suffering are part of
+this way of speaking. It doesn’t tell us anything about the
+particulars of The End or its timing. War and famine, the suffering of
+refugees and natural disasters have gone on throughout history. Sadly,
+no matter when I record this segment and you listen to it, these
+things are happening right now.</p>
+<p>After The End, a time of peace and joy will come . Jesus invites us to
+prepare now for a life beyond</p>
+<ul class="simple">
+<li><p>What impresses us today</p></li>
+<li><p>the fears we have for the future</p></li>
+</ul>
+<p>+To a fresh perspective on life and a new way of living</p>
+<p>The shorthand for this new perspective and this new way of living is
+God’s kingdom.</p>
+<p>Traditionally in Advent, we reflect on how we have lived and HOW WE
+are living our lives now.</p>
+<ul class="simple">
+<li><p>What changes do we need to make?</p></li>
+<li><p>What changes do we want to make?</p></li>
+</ul>
+<p>Jesus invites us, through the symbolic language about The End,</p>
+<ul class="simple">
+<li><p>to act as if this new perspective and new way of living is possible
+right now</p></li>
+<li><p>to be joyful and peaceful today.</p></li>
+</ul>
+<p>Let us pray … Jesus, let me experience the joy of acting and feeling
+like God’s kingdom is already here. Amen.</p>
+</div>
+<div class="section" id="belonging-to-god">
+<h2><a class="toc-backref" href="#id31">Belonging to God</a><a class="headerlink" href="#belonging-to-god" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="https://archive.org/download/advent_joy_2006/advent_joy_2006-12-04_belonging_to_God.mp3">belonging_to_God.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id3">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id3" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Monday, December 4, 2006</p>
+<p>The reading is Psalm 24.</p>
+<blockquote>
+<div><p>Who may climb the LORD’S hill or stand in his holy temple? (v. 3)</p>
+</div></blockquote>
+<p>For as long as I can remember, Psalm 24 has been one of my favorite
+passages from Scripture. God’s majesty and grandeur are evident
+throughout the entire psalmfrom creation to God’s glorious entrance
+into the temple.</p>
+<ul class="simple">
+<li><p>Spatial arrangements catch my attention</p></li>
+<li><p>The world set on the oceans and rivers</p></li>
+<li><p>God on the hill</p></li>
+<li><p>A question about who can climb this hill</p></li>
+</ul>
+<p>Going up to Jerusalem or Zion is a common phrase in the Bible to
+denote traveling to the city. It is literally true . The temple was
+built on Mount Zion. Because of their height and seeming nearness to
+heaven, mountains are often associated with the divine.</p>
+<p>Today’s reading focuses our attention on what we mean by holy. God’s
+hill is described as holy. The people who step foot on this hill must
+be holy, too. Surely, we say, that is not I.</p>
+<ul class="simple">
+<li><p>I am not a holy person.</p></li>
+<li><p>I have faults.</p></li>
+<li><p>I have doubts.</p></li>
+</ul>
+<p>+I am not worthy.</p>
+<p>In its simplest usage, holy means belonging to God. No other judgment
+is made. The psalm identifies three things which belong to God:</p>
+<ol class="arabic simple">
+<li><p>the hill itself</p></li>
+<li><p>The temple on the hill</p></li>
+<li><p>The people climbing the hill to worship God.</p></li>
+</ol>
+<p>In our daily preparations, we declare to whom we belong–</p>
+<ul class="simple">
+<li><p>Our friends</p></li>
+<li><p>Our families</p></li>
+<li><p>Our lovers</p></li>
+<li><p>Our communities of Work and Home</p></li>
+</ul>
+<p>In our spiritual lives, by declaring us to be holy, God declares
+boldly that we are God’s.</p>
+<p>Let us pray … Glorious God, may the joy of belonging to you fill my
+heart today. Amen.</p>
+</div>
+<div class="section" id="loving-jerusalem-praying-for-peace">
+<h2><a class="toc-backref" href="#id32">LOVING JERUSALEM, PRAYING FOR PEACE</a><a class="headerlink" href="#loving-jerusalem-praying-for-peace" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="https://archive.org/download/advent_joy_2006/ADVENT_JOY_2006-12-05_loving_jerusalem.mp3">loving_jerusalem.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id4">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id4" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Tuesday, December 5, 2006</p>
+<p>The reading is Psalm 122.</p>
+<blockquote>
+<div><p>Jerusalem, we pray that you will have peace, and that all will go
+well for those who love you. (v. 6)</p>
+</div></blockquote>
+<p>For the rest of this week, we will be reflecting on some of the Psalms
+of Ascents or worship. No one is sure how this little collection of
+psalms came to be. They may be psalms pilgrims sang or recited while
+traveling to and from Jerusalem.</p>
+<p>What does it mean for us to reflect on pilgrim psalms?</p>
+<ul class="simple">
+<li><p>We do not make such journeys.</p></li>
+</ul>
+<p>+We do not think of God residing in a specific place.</p>
+<ul class="simple">
+<li><p>We do not feel anything special toward this city, perhaps to any
+city.</p></li>
+</ul>
+<p>Whenever I record today’s reflection and you listen to it, sadly,
+there will not be peace in the Middle East.</p>
+<p>Whenever I record this reflection and you listen to it, violent events
+will be occurring in Jerusalem, in all the populated places around the
+globe.</p>
+<p>Yet, for all these thousands of yearsand it has been thousands of
+yearspeople have prayed for the safety of the city, for the safety of
+their friends and relatives.</p>
+<p>In <em>Through the Looking Glass</em> the white queen tells Alice that she
+has believed as many as six impossible things before breakfast. While
+preparing for Christmas we believe, or pretend to believe, many more
+than six impossible things as fanciful as flying reindeer and as grave
+as grandma doesn’t really have cancer or Daddy will be coming home
+soon or the person I love loves me just as much as I love him or her.</p>
+<p>Jerusalem is a holy city. God loves Jerusalem.</p>
+<ul class="simple">
+<li><p>Jews believe this.</p></li>
+<li><p>Christians believe this.</p></li>
+<li><p>Muslims believe this.</p></li>
+</ul>
+<p>During Advent, may our joy be loving Jerusalem, too. Let us believe
+the impossible: Jerusalem will be at peace.</p>
+<p>Let us pray … May Jerusalem have peace, and may all go well for those
+who love this city. Amen.</p>
+</div>
+<div class="section" id="help">
+<h2><a class="toc-backref" href="#id33">HELP!</a><a class="headerlink" href="#help" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="https://archive.org/download/advent_joy_2006/advent_joy_2006-12-06_help.mp3">help.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id5">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id5" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Wednesday, December 6, 2006</p>
+<p>The reading is Psalm 124.</p>
+<blockquote>
+<div><p>The LORD made heaven and earth, And he is the one who sends us help.
+(v. 8)</p>
+</div></blockquote>
+<p>Like most psalms, it is difficult to pinpoint the specifics of the
+danger which was averted.</p>
+<ul class="simple">
+<li><p>highway robbers</p></li>
+<li><p>natural disaster</p></li>
+<li><p>wild animal attack</p></li>
+</ul>
+<p>are all possibilities. On the other hand, these descriptions could
+just as easily describe financial difficulties or character
+defamation, particularly of a group of like-minded people. This lack
+of specificity invites us to claim this psalm for our own real life
+situation in the here and now.</p>
+<ul class="simple">
+<li><p>A week into Advent already, The pressure on you may be building.</p></li>
+<li><p>Your calendar may be filling up with commitments.</p></li>
+<li><p>Looking further ahead, quarter-end and year-end extra work may fall
+to you.</p></li>
+<li><p>Or you may be feeling nostalgic, remembering Christmas seasons past
+when all this was true for you, but it’s not true for you anymore.</p></li>
+<li><p>Or you simply are out of the loop and feel left out.</p></li>
+</ul>
+<p>Whatever your situation, enter Psalm 124. Whether you are being
+assailed with too much to do and not enough time in which to do it or
+the blues have got you down, the LORD is on your side! Whether
+everyone is looking to you to pull everything together or you are
+feeling quite solitary, the LORD is still the one who sends you help.
+Count on it!</p>
+<p>Let us pray … God, I need help with (fill in something definite here.)
+I know I can count on you. Amen</p>
+</div>
+<div class="section" id="joyful-songs">
+<h2><a class="toc-backref" href="#id34">JOYFUL SONGS</a><a class="headerlink" href="#joyful-songs" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="https://archive.org/download/advent_joy_2006/advent_joy_2006-12-07_joyful_songs.mp3">joyful_songs.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id6">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id6" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Thursday, December 7, 2006</p>
+<p>The reading is Psalm 126.</p>
+<blockquote>
+<div><p>We celebrated with laughter and joyful songs. (v. 2)</p>
+</div></blockquote>
+<p>When I first ripped all my CDs to my music library on my computer, I
+was surprised to discover how many of them contained Christmas music.
+My instrumental playlist alone ran for almost six hours.</p>
+<p>I can hear music from speakers on utility poles throughout the
+downtown area. Stores have been playing Christmas music since
+Thanksgiving. People are carrying their music into their cars and on
+their persons with portable music players. Dog-eared songbooks are
+coming out of closets or someone is saying: “Who knows the words for
+The Twelve Days of Christmas?”</p>
+<p>Particular songs, particular artists bring back memories of people and
+events. <strong>White Christmas</strong> made my grandmother sad after my
+grandfather died while “Santa Claus Is Coming to Town” always reminds
+me I dropped all my father’s 78RPM Christmas records. Every one of
+them broke, leaving us with no Christmas music at all.</p>
+<p>Psalm 126 remembers going—</p>
+<ul class="simple">
+<li><p>From exile to homecoming</p></li>
+<li><p>From spring planting to harvest</p></li>
+<li><p>From bad times to prosperous ones</p></li>
+<li><p>From weeping to joy.</p></li>
+</ul>
+<p>These occasions were marked by song.</p>
+<p>Although <strong>Rudolph the Red-Nosed Reindeer</strong> doesn’t help me select a
+wedge of cheese at the grocery store, other Christmas music focuses my
+attention on the babe of Bethlehem and how Jesus plays such an
+important part in my life.</p>
+<p>Which songs give you the most joy this Christmas season? Is it an old
+favorite, one you have ignored in the past or a new one you have just
+discovered?</p>
+<p>Let us pray … Good God, may the song in my heart and on my lips today
+praise you and fill me with joy. Amen.</p>
+</div>
+<div class="section" id="unless-the-lord-builds-the-house">
+<h2><a class="toc-backref" href="#id35">UNLESS THE LORD BUILDS THE HOUSE</a><a class="headerlink" href="#unless-the-lord-builds-the-house" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-08_unless_God_builds_the_house.mp3">unless_God_builds_the_house.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id7">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id7" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Friday, December 8, 2006</p>
+<p>The reading is Psalm 127.</p>
+<blockquote>
+<div><p>Without the help of the LORD it is useless to build a home or to
+guard a city. (v. 1)</p>
+</div></blockquote>
+<p>What is your life built on or around? Going with biblical wisdom wich
+says our lives are entirely dependent on God we may quickly say: Yes!
+Yes! That’s true.</p>
+<p>If, however, your real life pragmatism kicks in, you’ll say something
+like this:</p>
+<ul class="simple">
+<li><p>Not so fast.</p></li>
+<li><p>I work hard.</p></li>
+<li><p>Juggling life’s responsibilities is entirely on my shoulders.</p></li>
+<li><p>Giving the credit to God is all very good, in a general sort of way,
+but, in the end, what happens in my life is really all up to me.</p></li>
+<li><p>Hey, things happen in my life but I can’t really say it’s God’s doing.</p></li>
+<li><p>It’s more the economy and other people.</p></li>
+</ul>
+<p>This is the place where our own real lives and our spirituality often
+part company.</p>
+<ul class="simple">
+<li><p>Saying we are totally dependent on God sounds naïve.</p></li>
+<li><p>Saying we are totally dependent on ourselves sounds arrogant.</p></li>
+<li><p>Saying we are both dependent on God and ourselves sounds like a copout.</p></li>
+<li><p>Dividing responsibilities between God and ourselves—God for our spiritual life and ourselves for our real lives sounds like hair splitting.</p></li>
+</ul>
+<p>Psalm 127 is one of the biblical places where real life and
+spirituality come together. Without God is it useless to make a home
+(in all senses of the word make) or live in community, for example, a
+city. God, in this way, provides the foundation on which our lives are
+built just like a house is built on a foundation or a city utilizes
+its location. Jerusalem, for example, is built on a mountain which
+could be defended. Other cities have been built where there is a
+natural harbor.</p>
+<p>Advent may seem like a strange time for examining how our relationship
+with God combines with our real life. There’s often so much else to
+do. Preparing ourselves to greet the Christ child may include
+rethinking how God provides the stability we need to live in the real
+world.</p>
+<p>Let us pray … God, may I find my stable foundation in you. May I have
+joy in family and friends today. Amen.</p>
+</div>
+<div class="section" id="claiming-the-child">
+<h2><a class="toc-backref" href="#id36">CLAIMING THE CHILD</a><a class="headerlink" href="#claiming-the-child" title="Permalink to this headline">¶</a></h2>
+<p><cite>claiming_the_child.mp3</cite> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<p>Saturday, December 9, 2006</p>
+<p>The reading is Psalm 128.</p>
+<blockquote>
+<div><p>I pray that the LORD will bless you from Zion and let Jerusalem
+prosper as long as you live. (v. 5)</p>
+</div></blockquote>
+<p>Lessing of children as a sign of God’s favor continues in today’s
+psalm.</p>
+<p>In Advent, our thoughts turn to Baby Jesus. We hear the Messiah chorus
+playing For Unto Us A Child is Born. We will hear this music again
+when we read Isaiah’s text on December 20.</p>
+<p>We claim this child as our own. I’ve been thinking how strange it is
+that we claim someone else’s child for our own.</p>
+<ul class="simple">
+<li><p>We sing about the Christ child.</p></li>
+<li><p>We anticipate his coming.</p></li>
+<li><p>We look at pictures of him with his parents.</p></li>
+<li><p>We display scenes with him in a manger with wise ones and shepherds and all.</p></li>
+</ul>
+<p>Is it because this is a “safe” child to claim?</p>
+<ul class="simple">
+<li><p>No 2 a.m. feedings</p></li>
+<li><p>No dirty diapers</p></li>
+<li><p>No paternity issues to resolve</p></li>
+<li><p>No custody or support questions</p></li>
+<li><p>No difficult pregnancies</p></li>
+<li><p>No troubles with fertility</p></li>
+</ul>
+<p>Psalm 128 and I have an uncomfortable history. The pastor suggested it
+as a psalm for my wedding ceremony. I was mortified. It was bad enough
+as the bride everyone would be looking at me, looking at what I was
+wearing, but the thought of having all the people present imagining me
+naked, imagining me as a sexually active woman inviting conception was
+more than I could handle. I’ve always wanted to be known for my mind
+and my accomplishments. Being a child bearing machine has never been
+on my top ten list. Being compared to a fruitful grapevine or olive
+tree still doesn’t sound very flattering to me.</p>
+<p>Yet this is the season we reach out our arms to claim the child
+despite all the squalling, despite all the challenges parents in any
+generation have known because children are our future. This particular
+child has blessed us with a future filled with joy.</p>
+<p>Let us pray … Child Bearing God, I give you thanks today that you have
+given me the privilege of claiming your childfor my own. Amen.</p>
+</div>
+<div class="section" id="purify">
+<h2><a class="toc-backref" href="#id37">PURIFY</a><a class="headerlink" href="#purify" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-10_purify.mp3">purify.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id8">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id8" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Second Sunday of Advent, December 10, 2006</p>
+<p>The reading is Malachi 3.1-4</p>
+<blockquote>
+<div><p>On the day the LORD comes, he will be like a furnace that purifies
+silver or like strong soap in a washbasin. No one will be able to   stand up to him. (v. 2)</p>
+</div></blockquote>
+<p>This reading may not be what you expected for the Second Sunday of
+Advent, especially since we were talking about the child yesterday.
+Like yesterday, a Handel’s Messiah sound track plays:</p>
+<blockquote>
+<div><p>Thus Saith the LORD, But Who May Abide the Day of His Coming, And He
+Shall Purify the Sons of Levi.</p>
+</div></blockquote>
+<p>This is, however, much edgier. All the sweetness and longing is gone,
+replaced by an unwelcome appearance and cleansing by fire and harsh
+lye soap. Not a pleasant prospect to contemplate.</p>
+<p>My mother used brown soap for scrubbing floors. It removes the oil
+from your hands quickly which is why the fullers used such soap in
+their cloth-making. It cleansed the fibers, making them dense and
+springy.</p>
+<p>The word Malachi means my messenger. It is not at all certain the
+writer of this last book in the Hebrew Scriptures was named Malachi.
+We’ll deal with the messenger more tomorrow. It is the message itself
+which is important today.</p>
+<p>A message about shaking up the hereditary priesthood of a
+long-destroyed temple doesn’t sound too interesting. The location of
+the temple in Jerusalem continues to have religious and political
+implications for Muslims, Jews and some very conservative Christians.</p>
+<p>Where is the Advent joy here?</p>
+<p>Our joy comes with the promise that all things, represented here by
+Levi’s descendants, will work together properly and will please God.
+It is the joy of knowing that the resulting simplicity spoken of here
+metaphorically by reference to the refining of metals by fire and the
+cleansing of fabric with soap will bless us all.</p>
+<p>Let us pray … Cleansing God, may I go about my business today with
+simple joy, freed from all complications. Amen.</p>
+</div>
+<div class="section" id="john-told-them">
+<h2><a class="toc-backref" href="#id38">John TOLD THEM …</a><a class="headerlink" href="#john-told-them" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-11_john_told_them.mp3">john_told_them.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id9">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id9" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Monday, December 11, 2006</p>
+<p>The reading is Luke 3.1-20</p>
+<blockquote>
+<div><p>In many different ways John preached the good news to the people.
+(v. 18)</p>
+</div></blockquote>
+<p>As promised, the messenger appears. If you’ve read all twenty verses,
+it may surprise you that Luke says what John told them is good news. John talks about</p>
+<ul class="simple">
+<li><p>Fire</p></li>
+<li><p>an ax ready to chop trees down at their roots</p></li>
+<li><p>someone using a threshing fork to separate the grain from the chaff
+so that the wind will blow the chaff away</p></li>
+</ul>
+<p>All of this to describe how the good people will be kept safe. The bad
+ones will be gotten rid of.</p>
+<ul class="simple">
+<li><p>He has called people snakes.</p></li>
+<li><p>He has questioned their sincerity about changing their lives.</p></li>
+<li><p>He has told people</p>
+<ul>
+<li><p>to change the way they do business,</p></li>
+<li><p>to stop relying on their religious heritage and</p></li>
+<li><p>to get serious about God.</p></li>
+</ul>
+</li>
+</ul>
+<p>The sound track of “And He Shall Purify” is still running.</p>
+<p>John is both unsettling and exciting:</p>
+<ul class="simple">
+<li><p>Unsettling because he knows us inside and out—our secret faults and
+doubts about our own self-worth.</p></li>
+<li><p>Exciting because he points us to something more than what we are
+now.</p></li>
+</ul>
+<p>All the while, John is talking, talking, talking as he strides up and down the riverbank.</p>
+<ul class="simple">
+<li><p>You want to be there.</p></li>
+<li><p>You want to believe him.</p></li>
+<li><p>You want to take a piece of this excitement home with you.</p></li>
+<li><p>You want it to be real.</p></li>
+<li><p>You want to become the person John is calling you to be.</p></li>
+<li><p>And most exciting of all, you think you just might be able to be that person.</p></li>
+</ul>
+<p>All the while you are hanging on every word, all the while you are
+awed by being in the presence of this towering prophet of God, he is
+telling you he is not the one who will put everything right, who will
+make the world make sense at last. John points away from himself and
+in so doing, he totally convinces you he is God’s messenger.</p>
+<p>Let us pray … May I hear with joy the good news of Your messenger
+today. Amen.</p>
+</div>
+<div class="section" id="the-world-and-everything-in-it">
+<h2><a class="toc-backref" href="#id39">THE WORLD AND EVERYTHING IN It</a><a class="headerlink" href="#the-world-and-everything-in-it" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-12_the_world_and_everything_in_it.mp3">the_world_and_everything_in_it.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id10">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id10" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Tuesday, December 12, 2006</p>
+<p>The reading is John 3.1-21.</p>
+<blockquote>
+<div><p>God loved the people of this world so much that he gave his only
+Son, so that everyone who has faith in him will have eternal life
+and never really die. (v. 16)</p>
+</div></blockquote>
+<p>Today is the halfway point in these Advent reflections. In biblical
+terms, the halfway mark often has a significant event or saying. At
+the center of these reflections is Jesus’ clear declaration that God
+loves the whole world and everything in it.</p>
+<ul class="simple">
+<li><p>It doesn’t matter who you are.</p></li>
+<li><p>It doesn’t matter where you live.</p></li>
+<li><p>It doesn’t matter whether</p></li>
+<li><p>you are male or female,</p></li>
+<li><p>gay or straight,</p></li>
+<li><p>young or old,</p></li>
+<li><p>able-bodied or disabled,</p></li>
+<li><p>mentally ill</p></li>
+<li><p>addicted</p></li>
+<li><p>well-educated or functionally illiterate</p></li>
+<li><p>Your skin color, your medical history, your wealth or the lack of
+it, whether all your children have the same father or you do not
+know your father’s name doesn’t matter.</p></li>
+</ul>
+<p>None of this excludes you from God’s love because God loves the world God created. And because God loves you so, God sent a part of God’s own self among us so you could know God’s love is real. You can depend on it. You can trust your life to it. God’s love is what makes the rest of your life filled with possibilities.</p>
+<p>I can’t promise you your situation will change.</p>
+<ul class="simple">
+<li><p>Work may still be hard to find.</p></li>
+<li><p>Getting clean, staying sober may still take every ounce of courage you have.</p></li>
+<li><p>Accepting yourself may continue to be life’s greatest challenge.</p></li>
+<li><p>Raising your family alone may still exhaust you.</p></li>
+<li><p>Going to the soup kitchen every day for a meal still may be the only way to getnourishment.</p></li>
+</ul>
+<p>What I can promise you is that God will continue to love you no matter
+what. You can’t mess this up.</p>
+<ul class="simple">
+<li><p>Your life can be out-of-control.</p></li>
+<li><p>The people around you can be making your life miserable.</p></li>
+<li><p>You may have a fist full of bills you can’t pay or too rushed to
+have any time for yourself.</p></li>
+<li><p>You may think you are the biggest screw-up who ever existed. God
+still loves you.</p></li>
+</ul>
+<p>God still loves you.</p>
+<p>Let us pray … Loving God, thank you for making me the joy of your
+heart. Amen.</p>
+</div>
+<div class="section" id="attending-the-messiah">
+<h2><a class="toc-backref" href="#id40">ATTENDING THE MESSIAH</a><a class="headerlink" href="#attending-the-messiah" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-13_attending_the_messiah.mp3">attending_the_messiah.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id11">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id11" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Wednesday, December 13, 2006</p>
+<p>The reading is John 3.22-36.</p>
+<blockquote>
+<div><p>At a wedding the groom is the one who gets married. The best man is
+glad just to be there and to hear the groom’s voice. That’s why I am
+so glad. (v. 29)</p>
+</div></blockquote>
+<p>The Bible is not a neat and tidy book. Today’s reading certainly gives
+ample evidence of this. For this reflection, however, I will focus on
+John’s words concerning Jesus.</p>
+<p>The New Testament witness is that John precedes Jesus. Through John’s
+example we learn who the Messiah will be and what will happen to God’s
+Anointed One.</p>
+<p>The wedding imagery John employs describes his relationship to Jesus.
+He is not the center of attention. He has a part to play but he is not
+the main character in this drama. John is the precursor, the
+forerunner. As fascinating as John is, his role is not our primary
+focus. John does not upstage Jesus.</p>
+<p>This is important for us to remember in Advent. There are so many
+distractions out there. We can make</p>
+<ul class="simple">
+<li><p>Shopping</p></li>
+<li><p>Decorating</p></li>
+<li><p>Party-going</p></li>
+<li><p>And even family gatherings</p></li>
+</ul>
+<p>more significant in our seasonal celebration than Jesus.</p>
+<p>We may want to think of ourselves, as John does, as attending Jesus
+much as the bridal couple has attendants.</p>
+<ul class="simple">
+<li><p>We are close to the bride or groom.</p></li>
+<li><p>We provide color, services, friendship and support.</p></li>
+</ul>
+<p>Yet our position requires us to step aside at the crucial moments of
+the marriage rite and later celebration.</p>
+<p>So it is with our secular
+observance of Advent and Christmas. We are, as T. S. Eliot says in
+the” Song of J. Alfred Prufrock,”</p>
+<div class="line-block">
+<div class="line">[I]”Am an attendant lord, one that will do</div>
+<div class="line">To swell a progress, start a scene or two.</div>
+</div>
+<p>Jesus is the star of the show and for this, we may be truly glad. It
+is enough.</p>
+<p>Let us pray … Jesus, teach me how to attend you and give glory to you,
+not to highlight myself. Amen.</p>
+</div>
+<div class="section" id="the-greatest-joy">
+<h2><a class="toc-backref" href="#id41">THE GREATEST JOY</a><a class="headerlink" href="#the-greatest-joy" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-14_the_greatest_joy.mp3">the_greatest_joy.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id12">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id12" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Thursday, December 14, 2006</p>
+<p>The reading is Isaiah 11.1-9.</p>
+<blockquote>
+<div><p>… he will know and honor the LORD.</p>
+<p>His greatest joy will be to obey the LORD. (vv.2-3)</p>
+</div></blockquote>
+<p>There is something quite surreal about this passage. I can’t imagine a
+government leader with such wisdom, restraint and even-handedness. Nor
+can I imagine tame and wild animals behaving in such a companionable
+manner. Let my children play near deadly snakes? No, I wouldn’t dare
+do that.</p>
+<p>So if this reading is beyond realism—the origin of the word
+surreal—what can we do with such a passage in our definitely real life
+world where world leaders make political and financial decisions which
+benefit themselves, their supporters or their friends and predators,
+both human and animal, prey on those less able to defend themselves?</p>
+<p>The verbs I have chosen to highlight in today’s reading are</p>
+<ul class="simple">
+<li><p>Know</p></li>
+<li><p>Honor</p></li>
+<li><p>Obey</p></li>
+</ul>
+<p>More traditional translations will use know and fear. Because we
+associate fear with anxiety it is well that a modern translation
+chooses other words to convey the original meaning to us.</p>
+<p>What do these verbs tell us about this longed-for person?</p>
+<ul class="simple">
+<li><p>God is the source of his greatest joy.</p></li>
+<li><p>What God considers important is what he considers important.</p></li>
+<li><p>God’s priorities are his priorities, for example, the poor.</p></li>
+<li><p>Peace will prevail where both he and God reign. (God’s holy mountain
+is Zion where the king lived in Jerusalem.)</p></li>
+</ul>
+<p>This is one of the great Advent texts which point us to Jesus as
+fulfilling Isaiah’s prophecy and modeling servant leadership for us.</p>
+<p>In looking over the above list, except for</p>
+<ul class="simple">
+<li><p>cows and bears</p></li>
+<li><p>calves and lions</p></li>
+<li><p>leopards and goats</p></li>
+<li><p>wolves and lambs</p></li>
+<li><p>children and snakes</p></li>
+</ul>
+<p>Knowing, honoring and obeying God are behaviors to which each one of
+us may aspire. This may sound incredible, but this hope is rooted in
+reality. What is described here is not impossible nor is it outside
+the realm of human possibility. The potential for each one of us to be
+this servant is likewise founded on joy.</p>
+<p>Jesus did all this perfectly and completely. Although we cannot be
+perfect or complete in our knowing, honoring and obeying God, we may
+still do all this as our greatest joy.</p>
+<p>Let us pray … God, whose desire is for peace everywhere, even among
+the animals, may my greatest joy today be in being the servant you
+desire me to be. Amen.</p>
+</div>
+<div class="section" id="my-strength-and-my-song">
+<h2><a class="toc-backref" href="#id42">My STRENGTH AND MY SONG</a><a class="headerlink" href="#my-strength-and-my-song" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-15_my_strength_and_my_song.mp3">my_strength_and_my_song.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id13">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id13" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Friday, December 15, 2006</p>
+<p>The reading is Isaiah 12.1-6.</p>
+<blockquote>
+<div><p>At that time you will say, “…
+My power and my strength come from you
+and you have saved me.” (vv. 1, 2)</p>
+</div></blockquote>
+<p>Today we are invited to look forward to a time when we can say these
+things about God. Why not say them now? Whatever is going on in your
+life, why not make a point of saying God is your power and your
+strength or your song?) (There is a question about translation here.
+Go with whatever seems best to you. You can’t go wrong with this.)</p>
+<p>I have chosen song because this is the great season of song. What do
+we sing about? Note: even those of you who don’t sing where anyone can
+hear you probably sing along with the car radio, your favorite CD or
+can be seen moving your mouth while you are plugged into your favorite
+portable music player, especially at this time of year. Caught ya!</p>
+<p>What are you singing about?</p>
+<ul class="simple">
+<li><p>Wise men and fodder and shepherds and all?</p></li>
+<li><p>A star and a manger and a stable full of friendly beasts?</p></li>
+<li><p>Prophets’ words and a night sky filled with a heavenly choir?</p></li>
+<li><p>Untroubled lovers, gaily wrapped packages and beautiful snow?</p></li>
+<li><p>Lights and a tree and a warm fire for two?</p></li>
+</ul>
+<p>Even wistful songs bring us joy at this season.</p>
+<p>All of our singing has to do with being safe at last. That is the
+meaning of salvation or being saved. We are safe from harm.</p>
+<p>How does this happen? God makes us safe. God’s power and strength
+protect us. We can sing about our joy at being out of danger.</p>
+<p>“In that time …” There is no maybe here. It is stated as a reality.
+God has promised. God is trustworthy. This is not about believing
+impossible things before breakfast. This is counting on God to provide
+the security each one of us craves.</p>
+<p>Trust and sing.</p>
+<p>Let us pray … Strong God, I will sing joyful songs, trusting in your
+power to protect me from harm, even if I can only sing this one day.
+Amen.</p>
+</div>
+<div class="section" id="sacred-highway">
+<h2><a class="toc-backref" href="#id43">Sacred HIGHWAY</a><a class="headerlink" href="#sacred-highway" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-16_sacred_highway.mp3">sacred_highway.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<p>Saturday, December 16, 2006</p>
+<p>The reading is Isaiah 35.1-10.</p>
+<blockquote>
+<div><p>A good road will be there,
+And it will be named “God’s Sacred Highway.” (v. 8)</p>
+</div></blockquote>
+<ul class="simple">
+<li><p>How can a highway be sacred?</p></li>
+<li><p>What is holy about a road?</p></li>
+</ul>
+<p>When I think of highways, I think of the New Jersey Turnpike, twelve
+lanes always busy with cars and trucks at every hour of the day and
+night.</p>
+<p>Of course, interstates are very new. In old cities, even in North
+America, there are streets a compact car cannot negotiate, for
+example, in Center City, Philadelphia. Gridlock is a real concern in
+Manhattan.</p>
+<p>In ancient times, when kings wanted to go anywhere, they often had to
+build the road to get them there or at least repair the one someone
+else had built.</p>
+<p>This road, then, is God’s highway. God has built it, figuratively
+speaking, of course. Because God built it, it is considered to belong
+to God and so it is holy or sacred.</p>
+<p>What’s important about this road is who is walking on it. No one can
+get lost on it:</p>
+<ul class="simple">
+<li><p>People who cannot see cannot get lost.</p></li>
+<li><p>People with trouble walking will be able to travel on it.</p></li>
+<li><p>People who normally get lost won’t. No map reading skills are
+necessary.</p></li>
+</ul>
+<p>And where is this road going? Home.</p>
+<p>Advent is about the joy of homecoming. For some of us, this is very
+real. We get together with our families and our friends. For all of
+us, we can take this as an opportunity to grow closer to God, to act
+as if we are on a special highway built just for us to get close to
+God.</p>
+<p>The next time you’re stuck in traffic, pretend you are on God’s
+highway.</p>
+<ul class="simple">
+<li><p>No jams here.</p></li>
+<li><p>No crazy drivers.</p></li>
+<li><p>No accidents.</p></li>
+<li><p>No poor visibility.</p></li>
+</ul>
+<p>Just a clear road to get you home safely.</p>
+<p>Let us pray … God of all my homecomings, draw me close to you today.
+Let me feel as if your highway will bring me closer to you quickly.
+Amen.</p>
+</div>
+<div class="section" id="home">
+<h2><a class="toc-backref" href="#id44">HOME!</a><a class="headerlink" href="#home" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-17_home.mp3">home.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id14">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id14" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Third Sunday of Advent, December 17, 2006</p>
+<p>The reading is Zephaniah 3.8-20.</p>
+<blockquote>
+<div><p>I will lead you home, and with your own eyes
+you will see me bless you with all you once owned.
+Then you will be famous everywhere on this earth.
+I, the LORD, have spoken! (v. 20)</p>
+</div></blockquote>
+<p>Reading this portion of Zephaniah is like hitting your head against
+the wall: it feels so good to stop! And by the way, this is the more
+hopeful section of the book.</p>
+<p>Where’s Advent joy in this reading? There seems so much anger,
+destruction and exclusivity. Isn’t this season about</p>
+<ul class="simple">
+<li><p>getting along with everybody</p></li>
+<li><p>honoring people’s differences</p></li>
+<li><p>seeking to establish world peace once and for all?</p></li>
+</ul>
+<p>Zephaniah is more honest than most. Living peaceably with people very
+different from ourselves will require fundamental changes to how we
+live how we think.</p>
+<p>In Zephaniah’s time, the Assyrians conquered neighboring nations,
+deporting their populations. Extended family groups were separated. It
+was genocide without murder. No wonder God’s promise of restoration to
+one’s own homeland is such a potent description of well-being.</p>
+<p>Home.</p>
+<ul class="simple">
+<li><p>What would the world be like if everyone in the world could return
+home?</p></li>
+<li><p>What if everyone had an opportunity to live in their special place
+with enough to eat?</p></li>
+<li><p>What if there was enough shelter and education and healthcare to go
+around?</p></li>
+<li><p>What if everyone was loved and capable of loving at least one other
+human being?</p></li>
+</ul>
+<p>Home!</p>
+<p>To paraphrase Robert Frost,</p>
+<blockquote>
+<div><p>Home is where they have to take you in.</p>
+</div></blockquote>
+<p>Advent is like that for you and me. God has spoken. God will take you
+in. You are no longer “a stranger in a strange land” (Exodus 2:22
+KJV).</p>
+<p>Let us pray … Faithful God, let me experience the joy of all
+homecomings today. Amen.</p>
+</div>
+<div class="section" id="ride-on">
+<h2><a class="toc-backref" href="#id45">RIDE ON!</a><a class="headerlink" href="#ride-on" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-18_ride_on.mp3">ride_on.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id15">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id15" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Monday, December 18, 2006</p>
+<p>The reading is Zechariah 9.9-17.</p>
+<blockquote>
+<div><p>Everyone in Uerusalem, celebrate and shout!
+Your king has won a victory, and he is coming to you.
+He is humble and rides on a donkey;
+He comes on the colt of a donkey. (v. 9)</p>
+</div></blockquote>
+<p>At last! The victorious one is coming at last!</p>
+<p>Some of you may recognize this reading and associate it with Jesus’
+triumphal entry into Jerusalem on what we call Palm Sunday. Whether
+Zechariah could foresee Jesus’ ride or he was thinking of a king in
+his own day or he just hoped this would happen some day, I don’t know.
+What I do know is how incredible these words are. You see, a
+victorious warrior-king would have come into the city in full battle
+array in a military parade complete with humiliated prisoners. This is
+our leader:</p>
+<ul class="simple">
+<li><p>one who does not put on airs</p></li>
+<li><p>one Who uplifts all people</p></li>
+<li><p>one Who values peace</p></li>
+</ul>
+<p>Coming to us in peace, not to conquer us, not to enslave us, not to lord it over us. What joy!</p>
+<p>We carry this dream with us all year—this dream of a world without war, without the need for weapons and a trained military. This is God’s promise to us and God’s dream, too.</p>
+<p>Let us pray … Peace-loving God, create in my heart today a desire for
+peace and the means to act on it. Amen.</p>
+</div>
+<div class="section" id="the-sign-of-immanuel">
+<h2><a class="toc-backref" href="#id46">The Sign of Immanuel</a><a class="headerlink" href="#the-sign-of-immanuel" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-19_the_sign_of_immanuel.mp3">the_sign_of_immanuel.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id16">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id16" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Tuesday, December 19, 2006</p>
+<p>The reading is Isaiah 7:10-25.</p>
+<blockquote>
+<div><p>The Lord will still give you proof. A virgin is pregnant. She will
+have a son and name him Immanuel. (v 14).</p>
+</div></blockquote>
+<p>In the original Hebrew the pregnant virgin is just a pregnant woman.
+Her pregnancy happens in the normal way. However, in the Greek
+translation the early Christians read called the Septuagent or LXX
+(Roman numeral seventy) wich is still used by Greek-speaking
+Christians today, the word <em>virgin</em> is used: a woman who has
+not had sexual intercourse.</p>
+<p>In the 21st century we think of genomes, DNA and the rightful
+identification of paternity for child support purposes. A virgin birth
+may trouble us. It may seem unnatural or scientifically impossible. We
+may think we need to choose between science and faith.</p>
+<ul class="simple">
+<li><p>How did this woman conceive?</p></li>
+<li><p>What sort of DNA does the child have?</p></li>
+<li><p>What can be so wrong about sexual relations between loving partners?</p></li>
+<li><p>How can human love be wrong?</p></li>
+</ul>
+<p>The stories of Jesus’ conception and birth in both the books of
+Matthew and Luke have had unintended consequences.  The authors of
+these books were dedicated to stressing Jesus as God’s beloved child
+and protecting Mary’s reputation. They did not intend to put us in a
+scientifically, morally or theologically untenable position. The
+ancient creeds teach us about Mary’s virginity to both agree with
+Scripture and to underscore her suitability for being chosen to
+be Jesus’ mother. She continues to be an example and source of
+strength and comfort to many.</p>
+<p>Immanuel means <em>God with Us</em>. In difficult situations and the ups and
+downs of everyday life, we have the sign of Immanuel , Jesus, God with
+us, to uphold us.</p>
+<p>Let us pray … Immanuel, come into my heart and life today so that
+the proof of long ago can be real to me now. Amen.</p>
+</div>
+<div class="section" id="sitting-in-darkness">
+<h2><a class="toc-backref" href="#id47">Sitting in Darkness</a><a class="headerlink" href="#sitting-in-darkness" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-20_sitting_in_darkness.mp3">sitting_in_darkness.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id17">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id17" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Wednesday, December 20, 2006</p>
+<p>The reading is Isaiah 9:2-7.</p>
+<blockquote>
+<div><p>Those who walked in the dark have seen a bright light and it shines
+upon everyone who lives in the land of darkest shadows. (v. 2).</p>
+</div></blockquote>
+<p>In the northern hemisphere we have come to the darkest time of year.
+Much of the church’s thinking concerning these last days of Advent
+ntuitively connect physical darkness with the shadow of death and our
+greatest desire to be rescued from it. For us this means Jesus’
+coming.</p>
+<p>Physical darkness is neither good nor bad. Sometimes I enjoy sitting
+in the darkness on a hot summer evening. Or sitting alone in the dark
+just before dawn because the world is so quiet as if I was the only
+one awake and God had created everything just for me.</p>
+<p>This is not the sort of darkness Isaiah is telling us about today. The
+shadowy places the prophet speaks about are frightening to inhabit.
+Nothing grows here. There is no warmth, no hope, no joy, only despair
+and death.</p>
+<p>I have emphasized joy in these Advent reflections. Just for a moment,
+as the Solstice arrives, I invite you to become conscious of the
+shadowy places in your life. They may not concern the ig issues in our
+life or again, they just might. I want you to acknowledge them so that
+you can identify with the people in this land of darkest shadows.</p>
+<p>The joy of this passage is the light that dispells these shadows. it
+is not a physical light, the light our brothers and sisters in the
+southern hemisphere are currently experiencing. it is the light of joy
+at the child’s birth, the child who will change everything for us and
+for our world.</p>
+<p>Let us pray … Radiant One, let your light shine into the darkest
+shadows of my life, my spirit, my world, dispelling them and bringing
+me joy today. Amen.</p>
+</div>
+<div class="section" id="honorable-theophilus">
+<h2><a class="toc-backref" href="#id48">HONORABLE THEOPHILUS</a><a class="headerlink" href="#honorable-theophilus" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-21_honorable_theophilus.mp3">honorable_theophilus.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id18">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id18" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>hursday, December 21, 2006</p>
+<p>The reading is Luke 1.1-25.</p>
+<blockquote>
+<div><p>So I made a careful study of everything and then decided to write and tell you exactly what took place. Honorable Theophilus, I have done this to let you know the truth about what you have heard. (vv. 3-4)</p>
+</div></blockquote>
+<p>We have no idea if Theophilus was a real person or if Luke invented
+him. He may have been a newcomer to Christianity. He may have been
+someone Luke hoped to attract to his church community. Or it may have
+served Luke’s literary purpose to write his two-volume account (Luke
+and the Acts of the Apostles) as if he were writing for an important
+patron—a common enough practice at the time.</p>
+<p>I’ve belabored this point for a reason: Theophilus means God lover and
+therefore this book may be said to be addressed to each of us
+individually. This is a careful study prepared to tell us exactly what
+took place so that we might know the truth.</p>
+<p>For the next four days, through the end of Advent, we will be reading
+the first two chapters of Luke’s gospel. We may have many questions
+about the truthfulness of what we read:</p>
+<ul class="simple">
+<li><p>God’s messenger, Gabriel, will speak to both Zechariah and Mary.</p></li>
+<li><p>A very old woman and a virgin will become pregnant and give birth.</p></li>
+<li><p>An old man will be unable to speak and then regain his capacity for speech.</p></li>
+<li><p>There will be a heavenly choir singing to shepherds.</p></li>
+<li><p>Amazing claims will be made about two infants.</p></li>
+</ul>
+<p>As God lovers, I want to encourage you to read these chapters
+joyfully, hearing this familiar story again as the wonderful tale it
+is, full of surprise and beauty. Factualness is optional. Its form and
+narrative may be far less important than its promise and how the
+promise is accomplished, the pleasure of rereading a story well told.
+Linger over beloved phrases. Discover a sentence you have previously
+overlooked.</p>
+<p>Now that the final Christmas push is on, it may be just the time to
+spend some time with this old friend and losing yourself in its magic
+for a while.</p>
+<p>Let us pray … God, let my reading of this familiar story remind me
+again how much you love me and I love you. Amen.</p>
+</div>
+<div class="section" id="magnificat">
+<h2><a class="toc-backref" href="#id49">magnificat</a><a class="headerlink" href="#magnificat" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-22_magnificat.mp3">magnificat.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id19">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id19" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Friday, December 22, 2006</p>
+<p>The reading is Luke 1:26-55.</p>
+<blockquote>
+<div><p>Mary said: “With all my heart I praise the Lord, and I am glad
+because of God my Savior.” (vv. 46-47)</p>
+</div></blockquote>
+<p>Fasten your seat belt. The
+Advent-Christmas Express is taking off.</p>
+<ul class="simple">
+<li><p>Projects need to be completed.</p></li>
+<li><p>The time for last-minute preparations has come.</p></li>
+<li><p>Details need to be taken care of.</p></li>
+<li><p>Contingency plans may need to be implemented.</p></li>
+<li><p>Car trips are started.</p></li>
+<li><p>People are arriving and departing from
++ the airport
++ the train station
++ the bus depot.</p></li>
+<li><p>You stand in line at the post office Or</p></li>
+<li><p>check expedited shipping online.</p></li>
+</ul>
+<p>And, it seems, the same is going on
+in our narrative.</p>
+<p>The drama unfolds with fascinating details:</p>
+<ul class="simple">
+<li><p>Gabriel is patient with Mary.</p></li>
+<li><p>Elizabeth receives Mary in her home in the hill country.</p></li>
+<li><p>John leaps with joy at hearing Mary’s voice though still In utero.</p></li>
+</ul>
+<p>Then Mary makes her most famous speech: the Magnificat.</p>
+<p>Elizabeth’s joy, the unborn child’s joy, is that this expectant mother
+visits them and shares with them such good news. The time of change is
+here.</p>
+<p>We’ve felt it all along. We’ve had first inklings, then more
+direct hints. Now the cat is out of the bag. Our Savior will be born
+soon. Life will change dramatically forever.</p>
+<p>Savior may be a difficult word for you. It has always been a difficult
+word for me. It means more to me to think of being rescued or set free
+than it does to talk about being saved.</p>
+<p>In her declaration, Mary recapitulates what God has done in the past
+and announces God is about to act on our behalf again. A power shift
+is underway. Nothing will be the same ever again.</p>
+<p>And for this, Mary gives her heart felt thanks and is glad. We are,
+too.</p>
+<p>Let us pray … Liberating God, today I want to express my heartfelt
+thanks and joy to you for all the changes you have made in my life.
+Amen.</p>
+</div>
+<div class="section" id="a-life-of-peace">
+<h2><a class="toc-backref" href="#id50">A life of peace</a><a class="headerlink" href="#a-life-of-peace" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-23_a_life_of_peace.mp3">a_life_of_peace.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id20">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id20" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Saturday, December 23, 2006</p>
+<p>The reading is Luke 1:56-80.</p>
+<blockquote>
+<div><p>God’s love and kindness will shine upon us like the sun that rises
+in the sky. On us who live in the dark shadow of death this light
+will shine to guide us into a life of peace. (vv. 78-79)</p>
+</div></blockquote>
+<p>Asking someone to name their favorite biblical passage is like asking
+what your favorite food is. On any given day, you have a different
+answer—or at least, I do. This particular passage would be high on my list on any given day.</p>
+<p>Although these words are in Zechariah’s mouth addressed to his infant
+son, John, these are God’s words to an infinitely weary world, a world
+weary of war, famine and plague. Under each category, there are many
+situations of which each of us is so absolutely weary.</p>
+<p>Into all the leadenness of our lives, the child is coming—and very soon—who will be like bright sunshine on a dreary day. We call this new way of being a life of peace.</p>
+<ul class="simple">
+<li><p>The joy of Advent is believing this can happen to us individually
+and to the world in which we live.</p></li>
+<li><p>The joy of Christmas is the announcement that the one who can and
+will change everything is with us.</p>
+<ul>
+<li><p>With the world falling apart around us,</p></li>
+<li><p>with Christmas craziness threatening to overwhelm us</p></li>
+<li><p>with loneliness about to crush us</p></li>
+</ul>
+</li>
+</ul>
+<p>we are told once again a life of peace is breaking in on us—ready or
+not, here I come!</p>
+<p>The angels will say tomorrow:</p>
+<blockquote>
+<div><p>Praise God in heaven! Peace on earth to everyone who pleases God. (Luke 2:14)</p>
+</div></blockquote>
+<p>And you do indeed please God.</p>
+<p>Let us pray … Splendid God, chase away all the shadows I am contending
+with right now and fill me with the joy of your light. Amen.</p>
+</div>
+<div class="section" id="praising-god">
+<h2><a class="toc-backref" href="#id51">Praising god</a><a class="headerlink" href="#praising-god" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-24_praising_God.mp3">praising_God.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id21">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id21" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>4th Sunday of Advent, December 24, 2006</p>
+<p>The reading is Luke 2:1-20.</p>
+<blockquote>
+<div><p>As the shepherds returned to their sheep, they were praising God and
+saying wonderful things about him. Everything they had seen and
+heard was just as the angel had said.</p>
+</div></blockquote>
+<p>We made it—all the way through Advent. I don’t know about you, but
+sometimes, I thought I would</p>
+<ul class="simple">
+<li><p>drop the ball,</p></li>
+<li><p>drop out,</p></li>
+<li><p>Forget Advent was happening altogether.</p></li>
+</ul>
+<p>Preparing for Christmas is like that. Sometimes we get swept up by
+something else and somehow never get back to it. Christmas comes,
+ready or not, and when it’s all over, we say, “Next year I’ll be
+better about Advent.”</p>
+<p>I don’t know about you, but this story about the shepherds and angels,
+Mary and Joseph, baby Jesus and the manger never loses its appeal no
+matter what translation I hear it in.</p>
+<ul class="simple">
+<li><p>The decree goes out from Caesar or Emperor Augustus.</p></li>
+<li><p>The shepherds are terrified or better yet, sore afraid. I don’t
+think there is anything as frightening as sore afraid.</p></li>
+<li><p>The angels tell the shepherds that Jesus is born and how to identify
+him.</p></li>
+<li><p>And they go and tell what they have heard and seen.</p></li>
+<li><p>And Mary keeps it all in her heart.</p></li>
+<li><p>Then the shepherds go back to the fields and their sheep—whose been
+minding them anyway?—praising God.</p></li>
+</ul>
+<p>Isn’t that what this is all about? Praising God.</p>
+<ul class="simple">
+<li><p>All our reading.</p></li>
+<li><p>All our praying.</p></li>
+<li><p>All our preparations.</p></li>
+<li><p>All our</p>
+<ul>
+<li><p>Reflecting</p></li>
+<li><p>Reconsidering</p></li>
+<li><p>Thinking</p></li>
+<li><p>Changing–it’s all about praising God for all the wonderful things God has done for us.</p></li>
+</ul>
+</li>
+</ul>
+<p>The shepherds know it. We know it, too.</p>
+<p>Let us pray … Wonderful God, may you hear my praises today and every
+day. Amen.</p>
+</div>
+<div class="section" id="true-glory">
+<h2><a class="toc-backref" href="#id52">True glory</a><a class="headerlink" href="#true-glory" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.archive.org/download/advent_joy_2006/advent_joy_2006-12-25_true_glory.mp3">true_glory.mp3</a> from <a class="reference external" href="http://www.archive.org/">The Internet Archive</a></p>
+<dl class="py class">
+<dt id="id22">
+<em class="property"><span class="pre">class</span> </em><code class="sig-name descname"><span class="pre">center</span></code><a class="headerlink" href="#id22" title="Permalink to this definition">¶</a></dt>
+<dd></dd></dl>
+
+<p>Christmas Day, Monday, December 25, 2006</p>
+<p>The reading is John 1:1-18.</p>
+<blockquote>
+<div><p>The Word became a human being and lived here with us. We saw his
+true glory, the glory of the only Son of the Father. From him all
+the kindness and all the truth of God have come down to us. (v. 14)</p>
+</div></blockquote>
+<p>Merry Christmas!</p>
+<ul class="simple">
+<li><p>Did you put up a tree this year?</p></li>
+<li><p>Are the lights on?</p></li>
+<li><p>Is there wrapping paper scattered underneath it?</p></li>
+<li><p>Are the cinnamon rolls or the dinner in the oven?</p></li>
+<li><p>Are you wearing a new shirt or your favorite Christmas sweatshirt?</p></li>
+<li><p>Do you have plans for the day?</p>
+<ul>
+<li><p>Dinner with family?</p></li>
+<li><p>Time with friends?</p></li>
+<li><p>Conversations to distant places?</p></li>
+</ul>
+</li>
+<li><p>Are you curled up with your favorite book and your favorite foods?</p></li>
+</ul>
+<p>We all have different ways of keeping this day special, even if we
+keep it alone.</p>
+<p>What we keep is our true joy that God has shared and continues to
+share God’s true self with us. That is what the word becoming flesh or
+human is all about—God reaching out to us.</p>
+<p>A lot of our spiritual energy is spent on reaching out to God.</p>
+<ul class="simple">
+<li><p>We read.</p></li>
+<li><p>We pray.</p></li>
+<li><p>We may attend church services.</p></li>
+<li><p>We even listen to podcasts like this one.</p></li>
+</ul>
+<p>In the end, though, all our striving to reach out to God simply is
+about showing up because God does all the rest.</p>
+<p>This reading certainly gives ample evidence of this.</p>
+<ul class="simple">
+<li><p>From the beginning …</p></li>
+<li><p>light overcoming darkness …</p></li>
+<li><p>life overcoming chaos and death …</p></li>
+<li><p>making us God’s children, God’s treasured ones,</p></li>
+<li><p>granting us blessing after blessing,</p></li>
+<li><p>sharing with us the intimacy Jesus has with God.</p></li>
+</ul>
+<p>All of this is called the light. God gives us an astonishing promise:
+in all our encounters with chaos, Evil, Despair And death:</p>
+<ul class="simple">
+<li><p>God will be present and we need not be afraid.</p></li>
+<li><p>God has been there before us.</p></li>
+<li><p>God is with us.</p></li>
+<li><p>God will welcome us with open arms and draw us close to God’s own
+heart.</p></li>
+</ul>
+<p>We will be as close to God as Jesus is.</p>
+<p>Let us pray … Loving God, draw me close and keep me with you always.
+Amen.</p>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./advent_joy"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        
+        <div class='prev-next-bottom'>
+            
+
+        </div>
+        
+        </div>
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Rill Woolnough<br/>
+        
+            &copy; Copyright 2021.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+  
+  <script src="../_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+
+  
+  </body>
+</html>

@@ -1,0 +1,474 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter Seventeen: Asking Questions &#8212; Rill&#39;s Writings</title>
+    
+  <link href="../_static/css/theme.css" rel="stylesheet" />
+  <link href="../_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/sphinx-book-theme.acff12b8f9c144ce68a297486a2fa670.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../_static/js/index.1c5a1a01449ed65a7b51.js">
+
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+      
+      <h1 class="site-logo" id="site-title">Rill's Writings</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <div class="bd-toc-item active">
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../index.html">
+   All Sorts of Writing
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Poetry
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../poetry/wondrous-love.html">
+   “Wondrous Love”
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../_sources/behind-enemy-lines/19.rst"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.rst</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+
+<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+        title="Fullscreen mode"><i
+            class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show">
+            
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="chapter-seventeen-asking-questions">
+<h1>Chapter Seventeen: Asking Questions<a class="headerlink" href="#chapter-seventeen-asking-questions" title="Permalink to this headline">¶</a></h1>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>I do not know how to go about writing this chapter. Ronnie
+wants to get to the bottom of things. How will she start
+going about it?</p>
+</div>
+<p>My first order of business was to figure out who to talk to first. The
+logical person was Suri herself.</p>
+<p>Tracking Suri Iglesia down was not an easy matter. I continued to
+maintain my male identity. This made for social complications.</p>
+<ul class="simple">
+<li><p>Did I have an appointment</p></li>
+<li><p>Was I on the approved list?</p></li>
+<li><p>What was this in reference to?</p></li>
+<li><p>Did I have a referral?</p></li>
+<li><p>Did I have a letter of introduction?</p></li>
+</ul>
+<p>The man asking me these questions was not so much a footman or a
+butler but a bouncer. He was quite intimidating. I had no idea if Suri
+was in at the complex of rooms called her home. The local word was
+compound. I simply did not go away and kept asking to see her on a
+private matter. Apparently that was not sufficient.</p>
+<p>I stood in one of Transfer Point Seventeen’s unadorned and grimy
+corridors facing a non-descript metal door. There was no doubt in my
+mind it was reinforced with a sophisticated locking mechanism. I could
+not see the man I was speaking to, but I was certain he could see me
+via the security cameras placed at strategic points around the door,
+above me and in the corridor itself. The door looked old like
+everything on Transfer Point Seventeen. At some point in its history
+there was an attack or someone tried to force their way in. The door
+was scorched. Jagged lines scored its surface and there were numerous
+holes. I could not tell how deep either defacement went, but I could
+not see light through any of the holes.</p>
+<p>“You will have to give me something,” the bouncer was saying, “or this
+conversation will end and it will not be restarted.”</p>
+<p>What could I say to get this man to contact Suri? I took a deep mental
+breath and took a chance. What else could I do?</p>
+<p>“I represent Heracles Beja,” I said.</p>
+<p>“Heracles Beja is dead,” the man said dismissively. “You cannot
+represent him.”</p>
+<p>“OH yes I can,” I said, suddenly feeling my role. “I represent
+Heracles Beja’s interests and his part of the intellectual property
+from Planet X.”</p>
+<p>The bouncer hesitated. He would have no intimate knowledge of what
+happened on Planet X or perhaps even what intellectual property there
+might be.
+&quot;Very well,” He said. “I will determine if it would be appropriate to
+see Suri Iglesia on this matter or whether it would be better for you
+to speak to someone else in the family.”</p>
+<p>That was not what I had intended, but I was committed. Perhaps a
+family member would be more helpful than Suri had been. She had a lot
+of explaining to do.</p>
+<p>After a long wait, the door swung open. There was a lot of squealing
+noises. Did anyone on this Transfer Point know anything about greasing
+hinges? Why did they use hinges anyway? (Later I learned that
+everything on the transfer point was mechanical so that a power
+failure would not interrupt the opening and closings of doors. This
+meant, of course, that no area could be quickly sealed against an air
+leak or other calamity. This would have dire consequences for Transfer
+Point Seventeen later.)</p>
+<div class="admonition-note-to-self admonition">
+<p class="admonition-title">NOTE TO SELF</p>
+<p>A dramatic possibility is an attack on the transfer point.
+There could be a significant breach with many deaths. I am
+not sure if I want to go down that avenue but it does make
+for some excitement. It may be a good way for Detective
+Ronnie Camberwell to discover Captain Star Runner has left
+the transfer point despite Star Runner’s promise to her.</p>
+</div>
+<p>I was escorted through several rooms before I went through another
+scorched, scored and shot up door into another section of the
+compound. Clearly this was a more lived in area. There were actually
+carpets on the metal floors.</p>
+<p>I entered a small sitting room. Suri Iglesia stood in its center.</p>
+<p>My escort allowed me to enter while remaining in the doorway.</p>
+<p>“You may leave,” Suri instructed him.</p>
+<p>“But Celser,” he began.</p>
+<p>“I said ‘leave us’,” Suri snapped. He left, but did not close the door
+behind him. Suri went to it quickly and very quietly closed it.</p>
+<p>“What are you doing here?” Suri said, whispering and seeming to hiss
+at me.</p>
+<p>Having heard a Pantheran really hiss, her attempts at outrage did not
+impress me. When Captain Star Runner hisses, she arches her back and
+puffs up all over. It is quite an impressive sight. Suri Iglesia on
+the other hand seemed far more frightened than angry. Her anger was
+only a cover for something else–fear most likely.</p>
+<p>“I came to report,” I said. “Your bouncer was quite unsympathetic to my
+attempts at not drawing attention to either myself or you.”</p>
+<p>“You should not have come here.” Suri Iglesia scolded me.</p>
+<p>This cloak and dagger approach was getting tiresome. Transfer Point
+Seventeen was certainly tiresome: the food, the air, the whole look
+and feel of the place. I yearned for Half Moon Bay Station. Was that
+now representing home to me? I was not certain. Perhaps it only
+represented what security I ever felt I had.</p>
+<p>Suri said, “And you should never mention Heracles Beja, especially
+here.” She literally stamped her foot in frustration.</p>
+<p>“We need to talk,” I said, folding my arms in a Lystran gesture of
+absolute immovability.</p>
+<p>“Not here,” Suri Iglesia repeated.</p>
+<p>“Then where?” I asked. “It has to be now.”</p>
+<p>“I cannot leave right now,” Suri Iglesia said in that same low urgent
+voice. “There will be too many questions.”</p>
+<p>“Where then?” I asked. “When?”</p>
+<p>“Number twenty-eight maintenance tunnel,” she whispered. “You know the
+place.”</p>
+<p>I did. At the appropriate time, I went there.</p>
+<p>And that is when Suri Iglesia pulled the ray gun on me.</p>
+<p>I do not know what the emergency in her household was or if it was a
+well-played means of getting me to maintenance tunnel twenty-eight.
+Either way, Suri Iglesia was holding a ray gun on me.</p>
+<p>“You know too much,” Suri Iglesia said. “I cannot afford to have you
+asking questions.”</p>
+<p>I wanted to ask her many questions. I wondered why she thought she had
+to kill me. I had learned enough in my short time on Transfer Point
+Seventeen that her family was important enough to keep her out of
+trouble but not very important in the scheme of things. She could be
+shuttled off somewhere where her youthful indiscretions could be
+overlooked and then forgotten. After the birth of her two baby pair,
+could assume the role of a pampered Lystran matron and everything
+would go on as usual. I did not have to die. Why did she think I did?</p>
+<p>You would think being in an awful maintenance tunnel with a slightly
+hysterical woman pointing a ray gun at you would be terrifying. I
+thought about getting into being terrified, and then I channeled the
+male Lystran I was pretending to be.</p>
+<p>“Put that stupid toy down,” I said as firmly as I could. “The ricochet
+could be heard and it could bounce back and hurt you.”</p>
+<p>Suri waved the ray gun around which was quite frightening.</p>
+<p>“I know how to use this,” she insisted.</p>
+<p>“I am certain you do,” I said. And then all at once I knew the answer.
+It was the answer Captain Star Runner gave me back on Planet X.</p>
+<p>“Why did you killed Heracles Beja,” I asked calmly.</p>
+<p>It is true, you know. Criminals really do like boasting about their
+exploits. If I could keep her talking and learn her reasons, perhaps
+there was a way out of this impasse.</p>
+<p>“He was going to publish my work,” Suri Iglesia said, seeming to
+forget about the ray gun altogether. It started to lower. I breathed a
+little easier.</p>
+<p>“I only brought him along as cover and to do some of the harder bits.
+He wanted to publish all my work and take credit for it.”</p>
+<p>“That sounds like a problem,” I said, wanting to keep Suri talking,
+wanted to follow her tangled logic.</p>
+<p>” I knew him in school, of course,” Suri continued, “He was bright
+enough. I figured he could be useful, you know, doing all the grunt
+work out there. You know what it was like.”</p>
+<p>“Yes,” I said. “Then what happened?”</p>
+<p>“He took all my notes,” Suri said, outrage coming into her voice. She
+was becoming strident. “He copied them out himself, creating a field
+notebook in his own writing. I had to destroy it, of course.”</p>
+<p>“Of course,” I agreed, knowing that no such thing had happened. Suri
+Iglesia had attached herself to a rising star in the archaeological
+field. When his work was complete, she had copied his work and then
+killed him for her own ends.</p>
+<p>“And do you have the notes?” I asked, hoping that was the right thing
+to say.</p>
+<p>“You bet I do,” Suri said. “I do not have them stored in any of the
+linked systems. I do not want my work to get out until I am ready to
+publish. People will be very surprised when I publish my work.”</p>
+<p>“Why is that?” I asked. Keep her talking. Whatever happens, keep her
+talking. I did not dare move toward her though she had just about
+forgotten she was holding the ray gun. I could not move fast enough to
+wrench it away from her. I was strong enough. I was just too far away.</p>
+<p>“I am not ready to publish it yet,” Suri Iglesia said. “I have more
+work to do on it. People will be very surprised.”</p>
+<p>“Really?” I said. “Why is that?”</p>
+<p>“Because everybody thinks those structures are only a couple of
+thousand years old. They are much older than that. The people who
+built them are really, really old.”</p>
+<p>“Who are they?” I regretted my question as soon as I had asked it.
+Suri’s demeanor changed. She brought the ray gun back up on me.</p>
+<p>“Never mind who they are. You do not need to know. You do not need to
+know any of this.”</p>
+<p>I saw her finger move. She was trying to unlock the safety.</p>
+<p>I tried to be ready. When she looked down to unlock the safety, I
+needed to move fast. It is a complicated lock. It is designed that way
+so the ray gun does not go off prematurely. That makes it a poor
+choice for killing people as Suri was trying to kill me.</p>
+<p>Suri looked down.</p>
+<p>I moved.</p>
+<p>Just as I reached her and she released the safety, the alarm sirens
+bleared.</p>
+<p>“This is not a drill. We are under attack. Report to your designated
+locations. This is not a drill. We are under attack.”</p>
+<p>Suri Iglesia screamed. Whether she screamed because I grabbed her arm
+or whether she screamed because of the siren bleating over our heads I
+do not know. She wrenched away from me and ran, quickly disappearing
+from view.</p>
+<p>“This is not a drill. We are under attack–”</p>
+<p>I scooped up the ray gun and I ran, too. I did not run toward any
+designated area. I ran toward the docks and Captain Star Runner’s
+ride. This might be our chance to escape.</p>
+<p>I ran through corridors, pushing past people–all sorts of people. I
+did not care if I bumped them, if they went down. I just ran. Barely
+able to catch my breath, I ran onto the long platform where the
+spaceships were docked. I ran to the place where Captain Star Runner’s
+spaceship was.</p>
+<p>And it was not there. There was an empty space. The ride was gone.</p>
+<p>Stupidly, I ran up and down the platform, looking at all the
+spaceships. The bronze disc was not there. There were only torch
+ships.</p>
+<p>I ran to the dock office Someone was there. I asked where Captain Star
+Runner’s spaceship was.</p>
+<p>“Left three days ago,” the dock office worker said disinterestedly.</p>
+<p>“Where did she go?”</p>
+<p>“I have no idea,” the dock office worker said. “I was not on duty then.
+I am closing up now. You should be at your designated area.”</p>
+<p>I was thunderstruck. Captain Star Runner had left Transfer Point
+Seventeen without me. How could she do that? She had promised. She had
+not even communicated with me about it.</p>
+<p>The Transfer Point shook violently. I staggered, knocking into the
+wall. The dock office worker, who was walking past me, put out his hand
+to steady me, then the space station lurched again. We fell in a heap
+onto the floor.</p>
+<p>“Emergency personnel report to section thirty-five, thirty-six and
+thirty-seven,” instructed the loud speaker over our heads. “Sections
+thirty-eight, thirty-nine, forty and forty-one are open to space.
+Refrain from proceeding to those sections.”</p>
+<p>I tried to think where those sections were.”</p>
+<p>“The upper echelon living areas,” the dock office worker gasped. “That
+is where they would have reported to.”</p>
+<p>That meant many of the upper class families were dead. Perhaps Suri
+Iglesia was one of them.</p>
+<p>“Do you know who is attacking us?” I asked. I was still in my role as
+a Lystran from somewhere else in the empire.</p>
+<p>We were getting to our feet.</p>
+<p>“I heard it was the People of the Golden Sun,” the dock office worker
+said.</p>
+<p>We left the dock area together. I figured it did not much matter where
+I went. If I had a designated area, I did not know what it was. This
+was not my fight, but I was here. What else was there for me to do?</p>
+<p>The dock office worker had said the attack was by the People of the
+Golden Sun. That made no sense at all. Lystra was at war with the
+People of the Rainbow Sky and so by definition, the People of the
+Golden Sun should be their allies. Had something changed? I was not
+following the conflict particularly closely. I really was not that
+interested so long as the fighting war stayed far away from my
+location.</p>
+<p>I was turning a corner when it happened. The dock office worker had
+run ahead of me, anxious to get to his designated area. I was just
+following along, wondering where I was going and what would happen when
+I got there.</p>
+<p>Suddenly a door opened and someone stepped out. Someone very odd
+looking. For a split second I saw the head, the ears, the whiskers.
+Could it be Captain Star Runner? Of course not. This being was erect.
+The color was all wrong. What sort of a being was this? Was this the
+enemy? Was I about to be captured? Tortured? Killed?</p>
+<p>I stepped back. The being stepped in front of me and said, “Detective
+Ronnie Camberwell. I have been looking for you.”</p>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./behind-enemy-lines"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        
+        <div class='prev-next-bottom'>
+            
+
+        </div>
+        
+        </div>
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Rill Woolnough<br/>
+        
+            &copy; Copyright 2021.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+  
+  <script src="../_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+
+  
+  </body>
+</html>

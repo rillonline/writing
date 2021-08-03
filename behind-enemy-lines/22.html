@@ -1,0 +1,652 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chapter Twenty: Visitors Come to the Habitat &#8212; Rill&#39;s Writings</title>
+    
+  <link href="../_static/css/theme.css" rel="stylesheet" />
+  <link href="../_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
+
+    
+  <link rel="stylesheet"
+    href="../_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="../_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/sphinx-book-theme.acff12b8f9c144ce68a297486a2fa670.css" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="../_static/js/index.1c5a1a01449ed65a7b51.js">
+
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/togglebutton.js"></script>
+    <script src="../_static/clipboard.min.js"></script>
+    <script src="../_static/copybutton.js"></script>
+    <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script async="async" src="https://unpkg.com/thebelab@latest/lib/index.js"></script>
+    <script >
+        const thebe_selector = ".thebe"
+        const thebe_selector_input = "pre"
+        const thebe_selector_output = ".output"
+    </script>
+    <script async="async" src="../_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="en" />
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="../index.html">
+      
+      
+      <h1 class="site-logo" id="site-title">Rill's Writings</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+    <div class="bd-toc-item active">
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../index.html">
+   All Sorts of Writing
+  </a>
+ </li>
+</ul>
+<p class="caption">
+ <span class="caption-text">
+  Poetry
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../poetry/wondrous-love.html">
+   “Wondrous Love”
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../_sources/behind-enemy-lines/22.rst"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.rst</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+
+<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+        title="Fullscreen mode"><i
+            class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show">
+            
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="chapter-twenty-visitors-come-to-the-habitat">
+<h1>Chapter Twenty: Visitors Come to the Habitat<a class="headerlink" href="#chapter-twenty-visitors-come-to-the-habitat" title="Permalink to this headline">¶</a></h1>
+<p>Armed with my decision to interact more with my new environment, I
+explored the area around my living quarters and the park. I was living
+on a campus. Schools of varying kinds operated here. Gemall advised me
+not to go beyond the school grounds.</p>
+<p>“Why?” I asked. “Am I under house arrest?”</p>
+<p>“You are not,” Gemall explained. “The problem is you are humanoid. We
+are fighting a war against humanoids. Your identification clearly
+labels you as not one of the races we are fighting, but people get
+excited and they may not take time to correctly identify you.”</p>
+<p>I was astonished. “From all you have told me, I thought the Tigerfu
+were more enlightened than that.”</p>
+<p>Gemall made the humor gesture. “We like to think we are,” he said.
+“However, Tigerfu are no different than anyone else. We accept people
+who look like us. We are suspicious of those who do not. You do not.”</p>
+<p>“You spoke of my identification,” I said. “What is that?”</p>
+<p>“The arm band you wear,” Gemall said. “We all wear them. It identifies
+who you are over the net.”</p>
+<p>“You have a net?”</p>
+<p>“Of course,” Gemall said. “We were wondering when you would ask about
+it.”</p>
+<p>“Who is we?” I asked.</p>
+<p>“Dibenan, me and a few others that supervise your integration into our
+society,” Gemall said.</p>
+<p>“I do have a link,” I said. “It has not been integrated with your
+net.”</p>
+<p>“We are looking at that,” Gemall said. “So far we do not see a way to
+connect the two of them.”</p>
+<p>The armband could not directly interface with my brain as it is so
+different than a Tigerfu brain. However the technologists were able to
+fabricate an interface for me consisting of a screen I could carry
+with me and I could speak to it. It was not as private as a
+brain-connected link, but we set it up to understand basic galactic so
+I could interface with it easily. It could also understand Tigerfu so
+I could practice my language skills. If I slowed the speech down, I
+could also understand most of what it said in Tigerfu. Many of the
+sounds were hard to distinguish. Part of the problem for me is that
+Tigerfu has some very high sounds and some very low sounds. They are
+virtually beyond my ability to hear.</p>
+<p>In my explorations, I found a lovely bistro</p>
+<p>at the edge of campus. Gemall had explained that I had a modest
+stipend which also covered my room and board”Every Tigerfu is entitled
+to this stipend,” he explained. “We thought it was the simplest way to
+allocate your expenses. Of course,” he added in his serious voice,
+“you are expected to contribute to society as you are able.”</p>
+<p>“I plan to do just that,” I said. “We have spoken about law
+enforcement.”</p>
+<p>“Yes, we have,” Gemall said. “We are exploring that and some related
+possibilities.”</p>
+<p>No matter how many additional questions i asked, I could not find out
+more about this mysterious we or what related possibilities might
+mean. When I brought the matter up with Dibenan, she only said that
+“we” referred to a committee on which both she and Gemall were members
+and related possibilities simply meant looking at tasks I had the
+aptitude and interest to perform.</p>
+<p>“That is still a ways down the path,” Dibenan had said. “You need to
+be far more competent with your language skills and your grasp of
+Tigerfu society.”</p>
+<p>To this end, I walked into the bistro.</p>
+<p>People of course noticed me. I selected a beverage and a popular
+snack. I fumbled a great deal connecting my identity and its
+associated financial identity to the payment system, but I managed it
+after several tries. No one became impatient. I realized that in a
+busy market my fumblings would annoy people. My alien status would
+upset them. Gemall and Dibenan were right. I was nowhere near ready to</p>
+<blockquote>
+<div><p>take on Tigerfu society as a whole.</p>
+</div></blockquote>
+<p>I carried my treats outside to a bench under a tree with large red
+blossoms. To me, it had a delicate aroma. To the Tigerfu, it had an
+overwhelming fragrance. The trees were prized for their fruit and so
+they were common throughout the campus.</p>
+<p>“Here you are, Ronnie,” a Tigerfu voice said.</p>
+<p>I looked up. Two Tigerfu were approaching me. I did not recognize
+them. To me, it is hard to tell one Tigerfu apart from another. I was
+still  learning how to use my wearable link to read their
+identification information. These two Tigerfu were military.</p>
+<p>“We’re Janker and Suchee,” one of them said.</p>
+<p>I of course got them mixed up. They made the humorous gesture and I
+laughed. No one was offended thankfully.</p>
+<p>I was delighted to see them and told them so.</p>
+<p>“What are you doing here in the Habitat?” I asked you. “It is a long
+way from the front.”</p>
+<p>“We are on leave,” Suchee explained. “We came here to see our family.”</p>
+<p>“The grandchildren are growing cubs,” Janker explained. “If we are away
+too long, we hardly recognize them.”</p>
+<p>“You are a couple, then?” I asked.</p>
+<p>“For many years,” Janker said. “We have three grown cubs and four
+grand cubs.”</p>
+<p>“Wonderful” I said. “I had no idea.”</p>
+<p>“We did not want to burden you with more than you could handle,”
+Suchee said, sitting down next to me.</p>
+<p>“Is the tree a problem?” I asked. “I know many find its blossoms very
+strong.”</p>
+<p>“Yes, they are very strong,” Suchee said, “but they are one of the
+scents of home. Janker and I have been sneezing a lot. Aboard ship we
+have so much filtered out of our atmosphere. But we enjoy all these
+scents so we just sneeze and delight in being home.”</p>
+<p>Suchee patted my hand.</p>
+<p>“We understand you are doing well here.”</p>
+<p>“I am learning,” I said. I wondered if Janker and suchee had access to
+the committee. If they did, they probably would not tell me. They had
+not even told me they were a long-term mated pair.</p>
+<p>“The committee thought it was best if we came to visit you,” Janker
+began. “We have some news for you.”</p>
+<p>What sort of news could this pair have for me? I was confused.</p>
+<p>“We have word of your Captain Star Runner,” Suchee said. “I know her
+well-being is important to you.”</p>
+<p>Was it? I was no longer sure.</p>
+<p>“I am in military intelligence,” Janker explained. “That was why we
+came to Transfer Point Seventeen in the Lystran Empire. We were
+tracking down a lead. It turns out you were the most expedient person
+to ask. You had the reports we were looking for to add to our
+intelligence.”</p>
+<p>I frowned. “The reports were entirely bogus,” I said. “I do not
+understand how they could have helped you.”</p>
+<p>“The reports were not bogus,” Janker said.</p>
+<p>“The men did not exist,” I said. “I could find no evidence concerning
+them.”</p>
+<p>“Oh, they were real enough,” Janker said. “They were agents of the
+Followers of the Stars–not willingly, of course, but they were
+feeding information to the Followers of the Stars. When the Followers
+of the Stars had all the information they needed, the agents
+self-terminated.”</p>
+<p>“With the soul killer?” I asked, incredulous.</p>
+<p>“Is that what you call it?” Janker asked, surprised.</p>
+<p>“It seemed the only name for the brain disruption,” I said.</p>
+<p>“It is a good name,” Janker said. “I should recommend it with credit
+to you.”</p>
+<p>“But why could not anyone give me any information about these men?” I
+asked.</p>
+<p>“They were totally forgettable people,” Janker said. “They were not to
+make friends or stand out in any way. After their deaths, the records
+were updated to eliminate them. With no proof, you were bound to
+discount their existence.”</p>
+<p>“Janker was very lucky,” Suchee said, patting my hand again. “You had
+all the records.”</p>
+<p>“And,” Janker said, “not to be too patronizing, you were storing them
+in a way I could easily access them.”</p>
+<p>“I thought my security was state-of-the-art,” I said a little
+defensively.</p>
+<p>“Not for us,” Janker said. He almost sounded like a Pantheran.</p>
+<p>Speaking of Pantherans, I asked, “You said you had news of Captain
+Star Runner.”</p>
+<p>“Yes,” Janker said. “She and her ship are in our custody.”</p>
+<p>“You captured her ship?” I asked. “Why?”</p>
+<p>“She was carrying some very important communications for the People of
+the Rainbow Sky,” Janker said. “We learned this and intercepted her.
+Wisely, she did not fight us but surrendered, believing we could not
+crack the codes. We did.”</p>
+<p>“Is Star Runner all right? What are you doing with her?”</p>
+<p>“At present, we are evaluating Captain Star Runner and her artificial
+intelligence,” Janker said. “Our code experts are going over the
+programming. We have had to call in some biologists and zoologists as
+well. It is a very complicated network.”</p>
+<p>“Why are you doing this?” I asked. “Captain Star Runner depends on
+Christabel to survive.”</p>
+<p>“Christabel?” Janker made a gesture indicating  confusion. It was a
+gesture I had learned to read and was working to sign adequately.
+Lacking an extra set of arms, it was quite difficult to execute but quite useful
+to learn.</p>
+<p>“Christabel is the name of the AI,” I said. “Christabel was built by
+the Fungusian Network.”</p>
+<p>“And the Fungusian network is a part of the Pantheran Empire,” Janker
+said. He gestured uncertainty.</p>
+<p>“No,” I said. “The Fungusian network is outside the Coalition, the
+group of races the Pantherans control. The Fungusian network is
+independent. You might be able to contact them. They have no love of
+the Pantherans.”</p>
+<p>“but they designed Captain Star Runner’s network,” Janker said. “Why
+would they do that?”</p>
+<p>I executed the thinking, wait a little while, gesture badly. Should I
+tell them what I knew? Would it help or hinder Captain Star Runner. As
+a prisoner of the Tigerfu, I thought information might help her so I
+plunged in.</p>
+<p>A long time ago, the Followers of the Stars oversaw a number of races:</p>
+<ul class="simple">
+<li><p>The Trollolu</p></li>
+<li><p>the Pantherans</p></li>
+<li><p>the Featherote</p></li>
+<li><p>the Fungusians</p></li>
+</ul>
+<p>The Trollolu educated the three other races. Together, they built a
+space faring consortium:</p>
+<ul class="simple">
+<li><p>the Featherote built the ships.</p></li>
+<li><p>The Fungusians designed the operating systems and software to
+control them.</p></li>
+<li><p>The Pantherans designed star runners to pilot them. They also
+engineered other Pantherans to work other aspects of the ship.</p></li>
+</ul>
+<p>Then the Trollolu went to war against the Followers of the Stars and
+were completely annihilated. The Followers of the Stars retired from
+the galactic scene and each of the remaining races continued their
+alliance. The Pantherans became an empire, conquering the Featherote
+and a number of other races. They call it a Coalition so that these
+races can believe they were not conquered. The Fungusians have not
+been conquered. They exist independently.</p>
+<p>Janker and Suchee were indicating disagreement.</p>
+<p>“What is wrong?” I asked. “Have I gotten something wrong? Do you know
+this history?”</p>
+<p>“We know some of it,” Janker said. “I will have to inquire from the
+history department here on campus some of the particulars you mention.
+These are unknown to me. Although I am a student of history, it is not
+my core competencies. Here is where I think I disagree with your
+conclusions.</p>
+<p>“The Followers of the Stars did destroy the Trollolu. They nearly
+destroyed the Tigerfu. When you say the Followers of the Stars retired
+from political and military activity, they may have pulled back from
+your galactic arm, but they continued to be active in this arm for
+some time. They have also been absent from the scene, as you call it,
+but they have reasserted themselves. They are working with their old
+ally the People of the Rainbow Sky to control all the other races in
+the Primary Arm. It seems the People of the Rainbow Sky felt
+challenged by us and others and called on the Followers of the Stars
+to help. Captain Star Runner has been their go-between. From our
+initial analysis of the software aboard Captain Star Runner’s vessel,
+she is definitely controlled by them.”</p>
+<p>“There is pernicious software in her system?” I asked. I was shocked
+the Fungusians had not identified it and I said so. “How is she being
+compromised?”</p>
+<p>“We have found the change logs,” Janker said. “The Fungusians are
+meticulous. We can follow their work. It is a very different methodology
+than ours, but our scientists can make sense of it. Then there are
+other changes which are not so clear. These seem not to have been made
+by the Fungusians.”</p>
+<p>“Captain Star Runner said the People of the Rainbow Sky did an upgrade
+to her and to the artificial intelligence. Star Runner said there was
+some kind of genetic drift that had taken place that made it
+deleterious to her to be in the presence of the People of the Rainbow
+Sky. Star Runner could not see them properly, only colored hazes.”</p>
+<p>“We thought it looked like their programming,” Janker said. “We could
+not understand it. I will tell the biology team to investigate this.”</p>
+<p>He spoke rapidly in Tigerfu and gestured just as quickly. I could not
+really follow what he said, but I heard Star Runner’s name several
+times.</p>
+<p>“This is very useful intelligence,” Janker said to me. “What seems to
+be very clear in that Captain Star Runner believes she is working
+independently while in fact she is being controlled from the outside.
+We are trying to figure out what to do. It is a serious ethical
+question.”</p>
+<p>“We hoped you might help us,” Suchee said. She continued to touch my
+hand. “You have intimate knowledge of Captain Star Runner and may help
+us chart the right response to this situation.”</p>
+<p>“You are free to say no,” Janker hastened to add. “As much as we would
+like your help, you, too, are a free agent. We recognize that you may
+not want to help or be involved with Captain Star Runner anymore.”</p>
+<p>“We do not need an answer right away,” Suchee said. “You can think
+about it for a little while. Janker,” she made a gesture of affection,
+“wants an answer right away–you can understand this, I think–but in
+reality it can wait for a few days.”</p>
+<p>We said some inconsequential things after this. Then they went away. I
+continued to sit on the bench and tried to think and sort out my
+emotional response to all of this. I was not surprised when Dibenan
+sat down next to me with another beverage and  more substantial food.”</p>
+<p>“You missed the midday meal,” she said. “I would think you would be
+hungry.”</p>
+<p>“I have been trying to figure out what to say to Janker,” I said,
+fully believing Dibenan had been updated.</p>
+<p>“And what have you been thinking?” Dibenan asked.</p>
+<p>“I am first trying to really understand the overall situation,” I
+said. “With Captain Star Runner’s explanations, I believed the People
+of the Rainbow Sky were the good guys here. There is another component
+called the People of the Golden Sun who are the bad guys.”</p>
+<p>“There is no group called the People of the Golden Sun,” Dibenan said.
+“They do not exist. They are an invention of the People of the Rainbow
+Sky.”</p>
+<p>“But Captain Star Runner was captured by the People of the Golden Sun
+and fought a battle against them. She was decorated for her work.”</p>
+<p>Dibenan was silent. I realized she was reaching out to the net.</p>
+<p>“The People of the Rainbow Sky invented the People of the Golden Sun
+for propaganda purposes,” Dibenan said. “it is an excuse for war. It
+is an excuse to rally worlds that have been increasingly restless
+under burdens of taxation and tribute.”</p>
+<p>“It was quite real when Transfer Point Seventeen was blown up,” I
+said.</p>
+<p>“The war itself is real,” Dibenan said.</p>
+<p>“And the attack against the Rabbit merchants?”</p>
+<p>“We had reached out to them to join us,” Dibenan said. “The People of
+the Rainbow Sky destroyed their planet.”</p>
+<p>I thought my brain was going to explode. All this contradictory
+information.</p>
+<p>“It is a matter of trust, is it not?” I asked Dibenan. “You and I have
+talked a lot about trust. Have you been trying to sway me to your side
+or have you honestly wanted me to explore this topic?”</p>
+<p>Dibenan made a gesture of surprise and, I thought, chagrin.</p>
+<p>“You can be very perceptive,” she said. “You cannot function in our
+society without trust. You find it difficult to trust. We have talked
+about that and I think you will agree my points have merit. There is
+probably no real way to ascertain who is telling you the truth about
+the bigger picture. We cannot fact check for ourselves.”</p>
+<p>“And Captain Star Runner? What is the ethical issue there?” I asked.</p>
+<p>“We have always thought of ungendered Pantherans as creatures,”
+Dibenan said. “They are controlled by their artificial intelligences.
+If you control the artificial intelligence, you control them. They
+function in a network.</p>
+<p>“But here we have Captain Star Runner. Although she, more properly it,
+must have access to an artificial intelligence for some basic
+biological monitoring and memory management, this Pantheran is
+functioning independently. There is no supervision of this creature’s
+decision-making except for the patches added by the People of the
+Rainbow Sky. This might mean that this Pantheran is not a creature but
+a person. The fact that you and Captain Star Runner had or have a
+relationship speaks to the Pantheran’s person hood.”</p>
+<p>I knew I was making an irrevocable decision. I knew there would be no
+turning back. But I also knew a number of disparate pieces of my life
+were coming together.</p>
+<p>I said, “Captain Star Runner is a fuchsia-colored Pantheran. These are
+rare in their history. Most ungendered Pantherans are pastel-colored.
+Fuchsia-colored panther ans have always made a significant impact on
+panther an society. Captain Star Runner has always wondered what” (I
+almost said her, but I decided to give Captain Star Runner its own
+preferred pronoun) its mission is. I think it is to demonstrate that
+ungendered panther ans can be people. They can have self-determination.
+They are not tools to be discarded.”</p>
+<p>“I will pass your sentiments on to the team evaluating Captain Star
+Runner,” Dibenan said, making ready to get up from the bench.</p>
+<p>“No,” I said. “I will join the team. I want to speak with Captain Star
+Runner. It will need to participate in its own rehabilitation. The
+Fungusian network will also have to be contacted to assist with any
+changes that need to be made to Christabel. We have an opportunity
+here. I do not want it to be wasted.”</p>
+<p>Dibenan was taken aback. I knew that I had never been this forceful or
+definitive around her. But she also made a gesture of pleasure and
+acknowledgement.</p>
+<p>“Well done,” she said. “I will put your recommendations forward as
+well as your desire to be on the team.”</p>
+<p>“Not my desire,” I said. “My insistence.”</p>
+<p>“Agreed,” Dibenan said.</p>
+<p>I thought my request would be denied. I thought the bureaucracy would
+take forever. I was wrong.</p>
+<p>“Your application for membership on Captain Star Runner’s team has
+been accepted,” Gemall told me the next day. “You will travel with
+Janker and Suchee. Janker is already a member of the team. Suchee has
+been reassigned to assist you in any way necessary. We also anticipate
+Captain Star Runner will need help adjusting as well. If all goes
+according to plan, you will both come back here at a later date. The
+Habitat is a good location for integrating into our society.”</p>
+<p>“No,” i said. “Captain Star Runner will not come here. This is a
+planet with great expanses under the dome. Captain Star Runner needs
+to be aboard its ride, integrated with its artificial intelligence.
+When Captain Star Runner travels out of range of a good working
+integration with the artificial intelligence, it must use a bridge AI.
+It is less than satisfactory. Also a method for maintaining Captain
+Star Runner’s mind and body needs to be planet side. it is all quite
+complicated and quite alien to it. Star runners are designed to be
+part of their rides. In a real sense, the ride is a part of them. it
+is a shell that can be changed, much like animals who grow and shed
+their shells and skins, but they need their rides. If Captain Star
+Runner is to be a person, it must needs to be aboard its ride and actively traveling on the space ways. Any other
+life would not be natural.”</p>
+<p>Gemall was silent.</p>
+<p>“I had not understood that,” Gemall said. “You need to compose a
+statement about this to the rest of the team. They are not thinking
+this way as I understand it. You will have a great impact.”</p>
+<p>“Or I will be ignored,” I said, having a bad feeling about this.</p>
+<p>“No, I do not think so,” Gemall said. “Janker and Suchee are very
+positive about your contributions. The scientists are not ideologues.
+They are just interested in the science and,” Gemall made a gesture of
+emphasis “and they do not want to do any harm whether to a person or a
+creature.”</p>
+<p>And so it was that I left the Habitat several days later with Janker
+and Suchee and traveled to where Captain Star Runner was being held.
+Along the way, Janker told me more of what he had learned.</p>
+<p>“We are going to a research facility,” he told me in the common room
+aboard our military fast ship. Military fast ships are small vessels
+which ferry military personnel from one place to another inside
+Tigerfu space. They are not heavily armed. Their function is speed.
+“Captain Star Runner is aboard its ship, but we have disabled the
+engines. My latest report is that it is quite agitated and believes
+our questions and examinations are intrusive and meant to disable it.”</p>
+<p>“If you thought you were being held prisoner,” I said, “You would
+think the same things. This would be especially true if you believed
+you were being held by the enemy.”</p>
+<p>“That is the odd thing,” Janker said. “We are not convinced Captain
+Star Runner thinks we are the enemy.”</p>
+<p>“But I thought you said, or someone said, Captain Star Runner has
+patches from the People of the Rainbow Sky that control it.”</p>
+<p>“Yes, in some regards, but the work that has been done most recently
+suggests these patches are very specific and do not affect Captain
+Star Runner’s overall thinking. We are hoping that you can sort a lot
+of this out for us. Captain Star Runner has not been very forthcoming
+to us.”</p>
+<p>“have you learned where Captain Star Runner went after it left
+Transfer Point Seventeen?” I asked. “I would like to get clear about
+that before I see it.”</p>
+<p>“Yes, we do,” Janker said. “That has to do with the patch. The
+Pantheran received a communication from someone it knew from its
+previous visit to the Blue Fire Star System, one Sam lam Seah. Captain
+Star Runner could not resist the summons so it went. The summons
+removed Captain Star Runner from the area of Transfer Point Seventeen
+and thus kept it safe when the transfer point exploded. The summons
+was real enough. We intercepted Captain Star Runner after its visit to
+the Blue Fire Star System.”</p>
+<p>“And we suspect,” Suchee added, “that leaving you behind was something
+Captain Star Runner had no control over.”</p>
+<p>“Nor did your presence aboard Captain Star Runner’s ship known to the
+People of the Rainbow Sky. Retrieving you was not part of the
+summons,” Janker explained. “If it was, you would not have been left
+there. Captain Star Runner has been very distressed about you.”</p>
+<p>“Have you told it I am alive and well?” I asked.</p>
+<p>“No,” Janker said.</p>
+<p>I make Tigerfu gestures badly, but I deliberately made my gesture of
+anger slowly and carefully.</p>
+<p>“That is cruel,” I said. “You tell Captain Star Runner immediately
+that I am well and looking forward to visiting it. Causing needless
+distress is unethical behavior.”</p>
+<p>Janker made a gesture of contrition and sorrow. “You are correct,” he
+said. “I deeply regret our behavior. Our only defense is that we did
+not know if you wished to be revealed to the Pantheran. We will
+correct this immediately.”</p>
+<p>During my next rest period, I lay awake in my bunk, wondering what
+this reunion would be like. I was adamant that Captain Star Runner
+should be treated like the person
+it was. I was less sure how i wanted our personal interactions to be?
+Were we still lovers? Was I just a friend? Had I become Captain Star
+Runner’s advocate?</p>
+<p>Maybe, I thought, it was not as important as I once thought it was to
+distinguish these three roles. What was important right now was doing
+the right thing, the ethical thing, for Captain Star Runner. After I
+did that, maybe I would never see it again. Maybe I would just return
+to the Habitat and find some meaningful work to do.</p>
+<p>As I fell asleep, I thought, the Tigerfu had already won me over. I
+was thinking and acting in a very different way than I ever had
+before. I hoped I would be happy with myself when I was finished with
+this project.</p>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./behind-enemy-lines"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+        
+        <div class='prev-next-bottom'>
+            
+
+        </div>
+        
+        </div>
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+    <div class="container">
+      <p>
+        
+          By Rill Woolnough<br/>
+        
+            &copy; Copyright 2021.<br/>
+      </p>
+    </div>
+  </footer>
+</main>
+
+
+      </div>
+    </div>
+  
+  <script src="../_static/js/index.1c5a1a01449ed65a7b51.js"></script>
+
+  
+  </body>
+</html>
