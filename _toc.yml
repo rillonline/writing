@@ -6,4 +6,8 @@ root: index
 parts:
   - caption: Poetry 
     chapters:
-      - file: poetry/wondrous-love.md 
+      - file: poetry/wondrous-love.md
+  - caption: Elwood
+    chapters:
+      - file: Elwood/elwood-at-school.md
+      - file: Elwood/home-again.md
