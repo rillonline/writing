@@ -8,7 +8,7 @@ parts:
     chapters:
       - file: poetry/wondrous-love
   - caption: Elwood
-    numbered: 2
+    numbered: 1
     chapters:
       - file: Elwood/elwood-at-school
       - file: Elwood/home-again
@@ -17,5 +17,9 @@ parts:
       - file: Elwood/what-a-week
       - file: Elwood/merry-christmas
       - file: Elwood/on-socks-and-mats-and-colds
+      - file: Elwood/seasoned-traveler
       - file: Elwood/silly-dog
       - file: Elwood/two-today
+      - file: Elwood/greetings
+      - file: Elwood/snow
+      - file: Elwood/cold-and-snowy
