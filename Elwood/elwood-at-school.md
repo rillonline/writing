@@ -1,6 +1,6 @@
 # Elwood at School #
 
-## Date: 2006-11-28 Time: 13:16
+<p style="text-align: center;"> Date: 2006-11-28 Time: 13:16</p>
 
 ## Elwood
 
@@ -12,7 +12,7 @@ he doesn't like me, he jumps in my lap and kisses me. Then he remembers
 he doesn't like me, gets down and watches the door, hoping our
 instructor will come.
 
-## Date: 2006-11-29 Time: 11:54
+### Date: 2006-11-29 Time: 11:54
 
 ## Life Here
 
@@ -48,7 +48,7 @@ increments.
 
 Mood: happy
 
-## Date: 2006-11-30 Time: 00:41
+### Date: 2006-11-30 Time: 00:41
 
 ## Harness All the Time
 
@@ -117,7 +117,7 @@ scraping the ground. I jumped. Elwood remained calm, stopping. Good dog!
 
 Mood: okay
 
-## 2006-11-30 Time: 22:00
+### Date:  2006-11-30 Time: 22:00
 
 ## South Street Route
 
@@ -168,7 +168,7 @@ My spy thriller also awaits.
 
 Mood: exhausted
 
-## Date: 2006-12-01 06:42
+### Date: 2006-12-01 06:42
 
 ## Morning People
 
@@ -196,7 +196,7 @@ while trying to give it to a very excited dog.
 Note to self: Be more firm with Elwood. He can obey even before
 breakfast. We have different mothers.
 
-## Date: 2006-12-01 Time: 16:52
+### Date: 2006-12-01 Time: 16:52
 
 ## Difficult Day,
 
@@ -213,7 +213,7 @@ It's worrisome. Pray for restorative rest and good work habits.
 
 Mood: anxious
 
-## 2006-12-02 Time: 10:17
+### Date:  2006-12-02 Time: 10:17
 
 ## Solo
 
@@ -250,7 +250,7 @@ We also have to do laundry and get some serious writing done.
 
 Mood: accomplished
 
-## 2006-12-04 Time: 07:40
+### Date: 2006-12-04 Time: 07:40
 
 ## Sunday and Monday Morning,
 
@@ -279,7 +279,7 @@ taking the lead for one trip.
 Then it was time for Sunday dinner at 1 p.m. After that I had a
 60-minute massage. Lots of tight places.
 
-### 3 p.m.###
+#### 3 p.m.####
 
 I tried to take a nap. My instructor wanted to do obedience. I
 turned her away. A class member checked in. I did the same.
@@ -300,7 +300,7 @@ Mr. Elwood has expressed interest in my laptop this morning. He is
 beginning to recognize that my attention to it is inattention to him. He
 is also starting to take my hands off the keyboard.
 
-## Date: 2006-12-04 Time: 11:03
+### Date: 2006-12-04 Time: 11:03
 
 ## Elm Street Route
 
@@ -341,7 +341,7 @@ but with the harness, someone came up to the instructor and said,
 > Didn't they used to have dogs doing this? Have you replaced them with
 > human beings?
 
-## 2006-12-05 Time: 07:37
+### Date: 2006-12-05 Time: 07:37
 
 ## Local Color
 
@@ -371,7 +371,7 @@ will be to stop him from walking while not stopping him from pooping.
 
 We're off for another turn around the block, so to speak.
 
-## Date: 2006-12-08 Time: 11:44
+### Date: 2006-12-08 Time: 11:44
 
 ## Hound Dog
 
@@ -411,7 +411,7 @@ I managed to tie him up in the flixline--25 feet of tape measure. It
 reminded me of the time I got Caitlin wrapped up in a microphone wire
 during worship.
 
-### Later ###
+#### Later ####
 
 
 The train was late so we took it both ways and will leave the bus to
@@ -429,7 +429,7 @@ semester.
 
 Mood: cold
 
-## Date: 2006-12-09 Time: 20:32
+### Date: 2006-12-09 Time: 20:32
 
 ## Fasten Your Seat Belts
 
@@ -496,7 +496,7 @@ Gathering Of Eagles.
 
 Mood: mellow
 
-## Date: 2006-12-13 06:54
+### Date: 2006-12-13 06:54
 
 ## Low Places,
 
@@ -584,7 +584,7 @@ shoes!
 
 Mood: rushed
 
-## Date: 2006-12-13 Time: 11:27
+### Date: 2006-12-13 Time: 11:27
 
 ## Going Home
 

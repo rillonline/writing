@@ -6,8 +6,16 @@ root: index
 parts:
   - caption: Poetry 
     chapters:
-      - file: poetry/wondrous-love.md
+      - file: poetry/wondrous-love
   - caption: Elwood
+    numbered: 2
     chapters:
-      - file: Elwood/elwood-at-school.md
-      - file: Elwood/home-again.md
+      - file: Elwood/elwood-at-school
+      - file: Elwood/home-again
+      - file: Elwood/first-day-home
+      - file: Elwood/church
+      - file: Elwood/what-a-week
+      - file: Elwood/merry-christmas
+      - file: Elwood-what-a-week
+      - file: Elwood/silly-dog
+      - file: Elwood/two-today
