@@ -522,7 +522,7 @@ another turn round the path, but Gail and I persevered.
 
 Here is the picture Gail took of us.
 
-[Elwood and me](elwood-pic.jpg "Elwood and me")
+![Elwood and me](elwood-pic.jpg "Elwood and me")
 
 After supper, I went for a night walk in Morristown. Elwood has never
 worked at night and sometimes I walk in the dark, especially in winter.
