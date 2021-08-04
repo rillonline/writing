@@ -520,6 +520,10 @@ came inside. When the lounge got crowded, we went back outside. Very
 mild weather here and there was a bench in the sun. Pete passed on
 another turn round the path, but Gail and I persevered.
 
+Here is the picture Gail took of us.
+
+![Elwood and me](elwood-pic.jpg "Elwood and me")
+
 After supper, I went for a night walk in Morristown. Elwood has never
 worked at night and sometimes I walk in the dark, especially in winter.
 He did great. I even had the sense I knew where I was since we traveled
