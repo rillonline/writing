@@ -16,6 +16,6 @@ parts:
       - file: Elwood/church
       - file: Elwood/what-a-week
       - file: Elwood/merry-christmas
-      - file: Elwood-what-a-week
+      - file: Elwood/on-socks-and-mats-and-colds
       - file: Elwood/silly-dog
       - file: Elwood/two-today
