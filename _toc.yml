@@ -9,6 +9,7 @@ parts:
       - file: poetry/wondrous-love
   - caption: Elwood
     numbered: 1
+    maxdepth: 0
     chapters:
       - file: Elwood/elwood-at-school
       - file: Elwood/home-again
@@ -23,3 +24,10 @@ parts:
       - file: Elwood/greetings
       - file: Elwood/snow
       - file: Elwood/cold-and-snowy
+      - file: Elwood/update
+      - file: Elwood/safe-streets
+      - file: Elwood/contentment
+      - file: Elwood/spring
+      - file: Elwood/low-gear
+      - file: Elwood/unintended-consequences
+      - file: Elwood/trusty-dog
