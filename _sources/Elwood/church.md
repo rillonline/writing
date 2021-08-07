@@ -1,6 +1,6 @@
 # Church #
 
-## Date: 2006-12-16 22:20 ##
+*Date: 2006-12-16 22:20*
 
 Today we walked around the neighborhood. I totally missed Pine Street
 on the other side of 3rd. I will have to re-educate Elwood that this

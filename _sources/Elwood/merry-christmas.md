@@ -1,6 +1,6 @@
 # Merry Christmas #
 
-## date: 2006-12-25 ##
+*date: 2006-12-25*
 
 
 A crazy day yesterday, Christmas Eve. Morning worship in Fredonia.

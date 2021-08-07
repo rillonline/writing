@@ -1,6 +1,6 @@
 # Two Today! #
 
-## Date: 2007-01-08 15:08 ##
+*Date: 2007-01-08 15:08*
 
 Today is Elwood's birthday. He is two. I hope this year is filled with good things for him and me and that the terrible 2s do not apply to dogs.
 

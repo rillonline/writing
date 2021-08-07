@@ -1,6 +1,6 @@
 # Low Gear #
 
-## date: 2007-01-25 11:51 ##
+*date: 2007-01-25 11:51*
 
 It's very cold today in Jamestown and is supposed to get into the single digits tonight. As a result, the snow is still here and it keeps flurrying.
 

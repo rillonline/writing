@@ -1,6 +1,6 @@
 # Seasoned Traveler #
 
-## date: 2007-01-02 15:59 ##
+*date: 2007-01-02 15:59*
 
 --- We've had a busy time of it. Elwood and I left at 4:30 a.m. for
 the airport to go to my son's wedding. The flights themselves were

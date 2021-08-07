@@ -1,6 +1,6 @@
 # Cold and Snowy #
 
-## date: 2007-01-11 14:16 ##
+date: 2007-01-11 14:*16*
 
 When I woke up this morning, the radio said it was 14 degrees. Brr.
 

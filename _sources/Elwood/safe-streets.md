@@ -1,6 +1,6 @@
 # Safe Streets #
 
-## date: 2007-01-17 13:35 ##
+*date: 2007-01-17 13:35*
 
 Safe streets have taken on a whole new meaning to me this week. We did
 not get the snowstorm of many inches of snow that was coming this way.

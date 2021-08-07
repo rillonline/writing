@@ -1,6 +1,6 @@
 # On Socks and Mats and Colds #
 
-## 2006-12-27 20:49 ##
+*2006-12-27 20:49*
 
 
 It's absolutely dreary here. I read the weekend forecast for
