@@ -31,3 +31,6 @@ parts:
       - file: Elwood/low-gear
       - file: Elwood/unintended-consequences
       - file: Elwood/trusty-dog
+      - file: Elwood/where-was-moses-when-the-lights-went-out
+      - file: Elwood/i-gotta-go
+      - file: Elwood/popsicle

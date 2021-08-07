@@ -1,6 +1,6 @@
 # Update #
 
-## date: 2007-01-16 18:46 ##
+*date: 2007-01-16 18:46*
 
 On Saturday we were able to get out and walk. If the rain we have had
 was turned into snow, I don't think we would dig out until June.

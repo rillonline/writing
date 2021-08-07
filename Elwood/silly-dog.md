@@ -1,6 +1,6 @@
 # Silly Dog #
 
-## 2007-01-07 02:36 ##
+*Date: 2007-01-07 02:36*
 
 
 Today Elwood was quite funny.

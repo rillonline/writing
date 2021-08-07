@@ -1,6 +1,6 @@
 # Greetings #
 
-## date: 2007-01-08 20:01 ##
+*date: 2007-01-08 20:01*
 
 >I had fun today. I wrote an email to Elwood's sister Eiffel in his
 >name, detailing Elwood's recent activities and sending sis birthday

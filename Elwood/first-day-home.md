@@ -1,6 +1,6 @@
 # First Day Home ##
 
-## date: 2006-12-15 22:03 ##
+date: 2006-12-15 22:*03*
 
 It has been a long day perhaps because we have been tied to each
 other.

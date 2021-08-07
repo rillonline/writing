@@ -1,6 +1,6 @@
 # What A Week! #
 
-## Date: 2006-12-24 02:25:00 ##
+*Date: 2006-12-24 02:25:00*
 
 Elwood, apparently, has not previously had exposure to church. Having
 gone Saturday night, he was able to survive the Cantata at the

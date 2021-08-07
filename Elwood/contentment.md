@@ -1,6 +1,6 @@
 # Contentment #
 
-## date: 2007-01-20 11:50 ##
+date: 2007-01-20 11:*50*
 
 Elwood really likes being curled up between my feet. No climbing. No
 poking at my hands bone in mouth while I try to use the keyboard. I

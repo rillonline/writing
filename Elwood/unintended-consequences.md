@@ -1,6 +1,6 @@
 # Unintended Consequences #
 
-## date: 2007-01-23 21:05 ##
+*date: 2007-01-23 21:05*
 
 author: rillonline
 comments: true

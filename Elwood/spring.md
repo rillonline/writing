@@ -1,6 +1,6 @@
 # Spring #
 
-## date: 2007-01-22 09:28 ##
+*date: 2007-01-22 09:28*
 
 No, not that spring! It's 20 something outside, snow-covered and
 probably more snow on the way. The lake isn't frozen and has to get

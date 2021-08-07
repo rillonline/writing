@@ -1,6 +1,6 @@
 # Snow #
 
-## date: 2007-01-09 09:21 ##
+*date: 2007-01-09 09:21*
 
 Well, not really snow. More like heavy frost, a covering, icy. Off we
 go. Elwood has never worked in snow and ice. Fortunately, he grew up

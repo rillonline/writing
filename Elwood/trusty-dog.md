@@ -1,6 +1,6 @@
 # Trusty Dog #
 
-## date: 2007-01-29 13:23 ##
+*date: 2007-01-29 13:23*
 
 It continues to snow here and be very, very cold--single digits on the
 radio this morning. The lack of sidewalk shoveling also continues. In
