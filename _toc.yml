@@ -36,9 +36,10 @@ parts:
       - file: Elwood/popsicle
       - file: Elwood/practical-joker
       - file: Elwood/dog-food
-  - caption: Preaching and Other Essays
+  - caption: Messages and Other Essays
     chapters:
-      - file: personal-pieces/a-spirit-of-cowardice
+      - file: messages/advent
+      - file: messages/the-hidden-face-of-God
   - caption: Personal Pieces
     chapters:
       - file: personal-pieces/a-spirit-of-cowardice
